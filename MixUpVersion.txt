@@ -1,0 +1,2 @@
+LATEST_RELEASE=3.6.0.42
+RELEASE_LINK=https://www.dzentech.store/download
