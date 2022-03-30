@@ -1,2 +1,2 @@
-LATEST_RELEASE=0.9.2.0
+LATEST_RELEASE=0.9.2.5
 RELEASE_LINK=https://www.dzentech.store/download
