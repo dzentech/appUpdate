@@ -1,15 +1,12 @@
-<LATEST_RELEASE>1.0.0.0</LATEST_RELEASE>
+<LATEST_RELEASE>1.1.0.0</LATEST_RELEASE>
 <RELEASE_LINK>https://www.dropbox.com/s/vz12ubupssmcz5y/MixUp%20Setup.exe?dl=1</RELEASE_LINK>
 <Log>
-+ Camera Settings for live stream (WB, Exposure, Focus)
-+ QR Code local sharing (Mobile Hotspot and Manual network settings)
-+ Color correction for photo
-+ Improved photo capture
-+ Mirror liveview on\off toogle in booth screens menu
-+ Sharing screen improved (New Stylish Icons)
-+ Printer \ Camera \ Network lists are refreshing on background (no need to refresh manually)
-+ Fix open printer settings window
-+ Update check on startup and in preferences menu
-+ Improved stability
++ !!! Please check your projects customization after updates !!!
++ New Photo Mode: all new templates for photo capture
++ Photo capture improoved
++ Select capture mode after "Start" screen if photo & video capture activated
++ Test Photo mode: Select multiply photo for test render with selected template
++ Test Video improoved
++ Improved app stability & speed
 + Fix some freaky bugs
 </Log>
