@@ -1,7 +1,6 @@
 <LATEST_RELEASE>1.1.1.0</LATEST_RELEASE>
 <RELEASE_LINK>https://www.dropbox.com/s/vz12ubupssmcz5y/MixUp%20Setup.exe?dl=1</RELEASE_LINK>
 <Log>
-  
 ------------------------- Hot Fix 1.1.1.0 ---------------------
 + Fixed some funny bugs in printing feature
 + Added autoprint checkbox in printing options
