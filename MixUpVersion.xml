@@ -1,17 +1,16 @@
-<LATEST_RELEASE>1.1.1.0</LATEST_RELEASE>
+<LATEST_RELEASE>1.2.0.0</LATEST_RELEASE>
 <RELEASE_LINK>https://www.dropbox.com/s/vz12ubupssmcz5y/MixUp%20Setup.exe?dl=1</RELEASE_LINK>
 <Log>
-------------------------- Hot Fix 1.1.1.0 ---------------------
-+ Fixed some funny bugs in printing feature
-+ Added autoprint checkbox in printing options
-  
-------------------------- Release 1.1.0.0 ---------------------
-+ !!! Please check your projects customization after update !!!
-+ New Photo Mode: all new templates for photo capture
-+ Photo capture improved
-+ Select capture mode after "Start" screen if photo & video capture activated
-+ Test Photo mode: select multiply photo for test render with selected template
-+ Test Video improved
-+ Improved app stability & speed
-+ Fix some freaky bugs
+------------------------- Release 1.2.0.0 ---------------------
++ All new "Event Gallery" function! YAY!!!
++ Gallery: "admin mode" for Gallery (click on lock icon in sharing screen, enter passcode and print any count of photo)
++ Gallery: open gallery in admin mode directly from "booth screens" menu
++ Gallery: time cut-off function
++ Camera: new zoom function in camera menu
++ Render: new copy content to additional folder function
++ Application loading speed has been improved
++ Booth mode loading speed has been improved
++ The color correction menu is now accessible from the main menu
++ Improved app stability
++ Fixed some freaky bugs ;)
 </Log>
