@@ -1,6 +1,6 @@
 <mediaCollection>
     <collectionName>Media Collection</collectionName>
-    <ip></ip>
+    <ip>ftp://media@176.58.60.57</ip>
 </mediaCollection>
 <mediaBase>
     <baseName>AppScreen</baseName>
