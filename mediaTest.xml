@@ -22,6 +22,7 @@
         <ar>2</ar>
         <w>1824</w>
         <h>2736</h>
+        <time>0.000000000</time>
     </file>
     <file>
         <name>02.jpg</name>
@@ -33,6 +34,7 @@
         <ar>2</ar>
         <w>1824</w>
         <h>2736</h>
+        <time>0.000000000</time>
     </file>
     <file>
         <name>03.jpg</name>
@@ -44,6 +46,7 @@
         <ar>2</ar>
         <w>1824</w>
         <h>2736</h>
+        <time>0.000000000</time>
     </file>
 </mediaBase>
 <mediaBase>
@@ -63,6 +66,7 @@
         <ar>0</ar>
         <w>0</w>
         <h>0</h>
+        <time>118.632003784</time>
     </file>
     <file>
         <name>02.mp3</name>
@@ -74,6 +78,7 @@
         <ar>0</ar>
         <w>0</w>
         <h>0</h>
+        <time>187.506912231</time>
     </file>
     <file>
         <name>03.mp3</name>
@@ -85,6 +90,7 @@
         <ar>0</ar>
         <w>0</w>
         <h>0</h>
+        <time>185.808944702</time>
     </file>
     <file>
         <name>04.mp3</name>
@@ -96,6 +102,7 @@
         <ar>0</ar>
         <w>0</w>
         <h>0</h>
+        <time>126.066932678</time>
     </file>
     <file>
         <name>06.mp3</name>
@@ -107,6 +114,7 @@
         <ar>0</ar>
         <w>0</w>
         <h>0</h>
+        <time>307.749176025</time>
     </file>
     <file>
         <name>07.mp3</name>
@@ -118,162 +126,7 @@
         <ar>0</ar>
         <w>0</w>
         <h>0</h>
-    </file>
-</mediaBase>
-<mediaBase>
-    <baseName>Photo Background</baseName>
-    <baseType>3</baseType>
-    <path>Photo Background</path>
-    <extensions>
-        <ext>jpg</ext>
-    </extensions>
-</mediaBase>
-<mediaBase>
-    <baseName>Photo Overlay</baseName>
-    <baseType>4</baseType>
-    <path>Photo Overlay</path>
-    <extensions>
-        <ext>png</ext>
-    </extensions>
-</mediaBase>
-<mediaBase>
-    <baseName>Video Background</baseName>
-    <baseType>5</baseType>
-    <path>Video Background</path>
-    <extensions>
-        <ext>jpg</ext>
-    </extensions>
-    <extensions>
-        <ext>mp4</ext>
-    </extensions>
-</mediaBase>
-<mediaBase>
-    <baseName>Video Overlay</baseName>
-    <baseType>6</baseType>
-    <path>Video Overlay</path>
-    <extensions>
-        <ext>png</ext>
-    </extensions>
-    <extensions>
-        <ext>mov</ext>
-    </extensions>
-</mediaBase>
-<mediaBase>
-    <baseName>AppScreen</baseName>
-    <baseType>1</baseType>
-    <path>AppScreen</path>
-    <extensions>
-        <ext>jpg</ext>
-    </extensions>
-    <extensions>
-        <ext>mp4</ext>
-    </extensions>
-    <file>
-        <name>01.jpg</name>
-        <path>AppScreen</path>
-        <prevName>01.jpg</prevName>
-        <prevPath>prev</prevPath>
-        <bType>1</bType>
-        <type>4</type>
-        <ar>2</ar>
-        <w>1824</w>
-        <h>2736</h>
-    </file>
-    <file>
-        <name>02.jpg</name>
-        <path>AppScreen</path>
-        <prevName>02.jpg</prevName>
-        <prevPath>prev</prevPath>
-        <bType>1</bType>
-        <type>4</type>
-        <ar>2</ar>
-        <w>1824</w>
-        <h>2736</h>
-    </file>
-    <file>
-        <name>03.jpg</name>
-        <path>AppScreen</path>
-        <prevName>03.jpg</prevName>
-        <prevPath>prev</prevPath>
-        <bType>1</bType>
-        <type>4</type>
-        <ar>2</ar>
-        <w>1824</w>
-        <h>2736</h>
-    </file>
-</mediaBase>
-<mediaBase>
-    <baseName>Music</baseName>
-    <baseType>2</baseType>
-    <path>Music</path>
-    <extensions>
-        <ext>mp3</ext>
-    </extensions>
-    <file>
-        <name>01.mp3</name>
-        <path>Music</path>
-        <prevName>01.mp3</prevName>
-        <prevPath>prev</prevPath>
-        <bType>2</bType>
-        <type>3</type>
-        <ar>0</ar>
-        <w>0</w>
-        <h>0</h>
-    </file>
-    <file>
-        <name>02.mp3</name>
-        <path>Music</path>
-        <prevName>02.mp3</prevName>
-        <prevPath>prev</prevPath>
-        <bType>2</bType>
-        <type>3</type>
-        <ar>0</ar>
-        <w>0</w>
-        <h>0</h>
-    </file>
-    <file>
-        <name>03.mp3</name>
-        <path>Music</path>
-        <prevName>03.mp3</prevName>
-        <prevPath>prev</prevPath>
-        <bType>2</bType>
-        <type>3</type>
-        <ar>0</ar>
-        <w>0</w>
-        <h>0</h>
-    </file>
-    <file>
-        <name>04.mp3</name>
-        <path>Music</path>
-        <prevName>04.mp3</prevName>
-        <prevPath>prev</prevPath>
-        <bType>2</bType>
-        <type>3</type>
-        <ar>0</ar>
-        <w>0</w>
-        <h>0</h>
-    </file>
-    <file>
-        <name>06.mp3</name>
-        <path>Music</path>
-        <prevName>06.mp3</prevName>
-        <prevPath>prev</prevPath>
-        <bType>2</bType>
-        <type>3</type>
-        <ar>0</ar>
-        <w>0</w>
-        <h>0</h>
-    </file>
-    <file>
-        <name>07.mp3</name>
-        <path>Music</path>
-        <prevName>07.mp3</prevName>
-        <prevPath>prev</prevPath>
-        <bType>2</bType>
-        <type>3</type>
-        <ar>0</ar>
-        <w>0</w>
-        <h>0</h>
+        <time>42.475101471</time>
     </file>
 </mediaBase>
 <mediaBase>
