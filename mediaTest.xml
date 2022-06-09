@@ -1,6 +1,6 @@
 <mediaCollection>
     <collectionName>Media Collection</collectionName>
-    <ip>ftp://media@176.58.60.57</ip>
+    <ip>176.58.60.57:8000/data</ip>
 </mediaCollection>
 <mediaBase>
     <baseName>AppScreen</baseName>
@@ -130,25 +130,25 @@
     </file>
 </mediaBase>
 <mediaBase>
-    <baseName>Photo Background</baseName>
+    <baseName>PhotoBackground</baseName>
     <baseType>3</baseType>
-    <path>Photo Background</path>
+    <path>PhotoBackground</path>
     <extensions>
         <ext>jpg</ext>
     </extensions>
 </mediaBase>
 <mediaBase>
-    <baseName>Photo Overlay</baseName>
+    <baseName>PhotoOverlay</baseName>
     <baseType>4</baseType>
-    <path>Photo Overlay</path>
+    <path>PhotoOverlay</path>
     <extensions>
         <ext>png</ext>
     </extensions>
 </mediaBase>
 <mediaBase>
-    <baseName>Video Background</baseName>
+    <baseName>VideoBackground</baseName>
     <baseType>5</baseType>
-    <path>Video Background</path>
+    <path>VideoBackground</path>
     <extensions>
         <ext>jpg</ext>
     </extensions>
@@ -157,9 +157,9 @@
     </extensions>
 </mediaBase>
 <mediaBase>
-    <baseName>Video Overlay</baseName>
+    <baseName>VideoOverlay</baseName>
     <baseType>6</baseType>
-    <path>Video Overlay</path>
+    <path>VideoOverlay</path>
     <extensions>
         <ext>png</ext>
     </extensions>
@@ -168,7 +168,7 @@
     </extensions>
     <file>
         <name>flowers.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>flowers.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -180,7 +180,7 @@
     </file>
     <file>
         <name>flowers1.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>flowers1.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -192,7 +192,7 @@
     </file>
     <file>
         <name>flowers2.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>flowers2.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -204,7 +204,7 @@
     </file>
     <file>
         <name>Flowers3.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>Flowers3.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -216,7 +216,7 @@
     </file>
     <file>
         <name>Flowers4.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>Flowers4.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -228,7 +228,7 @@
     </file>
     <file>
         <name>gold.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>gold.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -240,7 +240,7 @@
     </file>
     <file>
         <name>Graduation.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>Graduation.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -252,7 +252,7 @@
     </file>
     <file>
         <name>HappyBirthday.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>HappyBirthday.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -264,7 +264,7 @@
     </file>
     <file>
         <name>HappyBirthday2.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>HappyBirthday2.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -276,7 +276,7 @@
     </file>
     <file>
         <name>Hearts.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>Hearts.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -288,7 +288,7 @@
     </file>
     <file>
         <name>Hearts2.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>Hearts2.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -300,7 +300,7 @@
     </file>
     <file>
         <name>Hearts3.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>Hearts3.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -312,7 +312,7 @@
     </file>
     <file>
         <name>Like.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>Like.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -324,7 +324,7 @@
     </file>
     <file>
         <name>Post.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>Post.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -336,7 +336,7 @@
     </file>
     <file>
         <name>Post2.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>Post2.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -348,7 +348,7 @@
     </file>
     <file>
         <name>tropic.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>tropic.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -360,7 +360,7 @@
     </file>
     <file>
         <name>tropic2.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>tropic2.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -372,7 +372,7 @@
     </file>
     <file>
         <name>tropic3.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>tropic3.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -384,7 +384,7 @@
     </file>
     <file>
         <name>tropic4.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>tropic4.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -396,7 +396,7 @@
     </file>
     <file>
         <name>tropic5.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>tropic5.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -408,7 +408,7 @@
     </file>
     <file>
         <name>tropic6.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>tropic6.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -420,7 +420,7 @@
     </file>
     <file>
         <name>tropic7.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>tropic7.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -432,7 +432,7 @@
     </file>
     <file>
         <name>tropic8.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>tropic8.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
@@ -444,7 +444,7 @@
     </file>
     <file>
         <name>tropic9.png</name>
-        <path>Video Overlay</path>
+        <path>VideoOverlay</path>
         <prevName>tropic9.jpg</prevName>
         <prevPath>prev</prevPath>
         <bType>6</bType>
