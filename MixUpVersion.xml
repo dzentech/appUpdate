@@ -4,12 +4,14 @@
 ------------------------- Release 1.3.1.0 ---------------------  
 +++++++++++++++++ MAJOR UPDATE! Canon DSLR Support! +++++++++++
 
-+ Canon DSLR cameras support (currently testing, but works quite good)
++ Canon DSLR cameras support (currently on testing, but works quite good)
 + DSLR Iso\Shutter\Aperture\WhiteBalance control from app
-+ Canon DSLR movie recording (also with chromakey function)
-+ Canon DSLR photo capture (also with chromakey function)
-+ Canon DSLR chromakey LiveView on photo & video
++ DSLR movie recording (also with chromakey function)
++ DSLR photo capture (also with chromakey function)
++ DSLR chromakey LiveView on photo & video
 + Separate chromakey settings for photo & video
++ Separate backgrounds & overlay for photo & video chromakey
++ Add Bletooth LE white LED light control for updated MixUp booth
 + Improved app stability
 + Fixed some freaky bugs ;)
 </Log>
