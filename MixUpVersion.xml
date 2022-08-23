@@ -1,17 +1,15 @@
-<LATEST_RELEASE>1.2.0.0</LATEST_RELEASE>
+<LATEST_RELEASE>1.3.1.0</LATEST_RELEASE>
 <RELEASE_LINK>https://www.dropbox.com/s/vz12ubupssmcz5y/MixUp%20Setup.exe?dl=1</RELEASE_LINK>
 <Log>
-------------------------- Release 1.2.0.0 ---------------------
-+ All new "Event Gallery" function! YAY!!!
-+ Gallery: "admin mode" for Gallery (click on lock icon in sharing screen, 
-  enter passcode and print any count of photo)
-+ Gallery: open gallery in admin mode directly from "booth screens" menu
-+ Gallery: time cut-off function
-+ Camera: new zoom function in camera menu
-+ Render: new copy content to additional folder function
-+ Application loading speed has been improved
-+ Booth mode loading speed has been improved
-+ The color correction menu is now accessible from the main menu
+------------------------- Release 1.3.1.0 ---------------------  
++++++++++++++++++ MAJOR UPDATE! Canon DSLR Support! +++++++++++
+
++ Canon DSLR cameras support (currently testing, but works quite good)
++ DSLR Iso\Shutter\Aperture\WhiteBalance control from app
++ Canon DSLR movie recording (also with chromakey function)
++ Canon DSLR photo capture (also with chromakey function)
++ Canon DSLR chromakey LiveView on photo & video
++ Separate chromakey settings for photo & video
 + Improved app stability
 + Fixed some freaky bugs ;)
 </Log>
