@@ -1,4 +1,4 @@
-LATEST_RELEASE=3.6.0.42
+LATEST_RELEASE=3.8.0.55
 RELEASE_LINK=https://www.dzentech.store/download
-LATEST_DEMO=3.6.0.43
+LATEST_DEMO=3.8.0.55
 DEMO_LINK=https://www.dzentech.store/download
