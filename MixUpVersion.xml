@@ -1,17 +1,27 @@
-<LATEST_RELEASE>1.3.0.1</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dropbox.com/s/vz12ubupssmcz5y/MixUp%20Setup.exe?dl=1</RELEASE_LINK>
+<LATEST_RELEASE>1.4.0.5</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dropbox.com/s/d8jiti3ujlypq6g/MixUp%20Setup.exe?dl=1</RELEASE_LINK>
 <Log>
-------------------------- Release 1.3.0.1 ---------------------  
-+++++++++++++++++ MAJOR UPDATE! Canon DSLR Support! +++++++++++
+------------------------- Release 1.4.0.5 ---------------------
+++++++++ MAJOR UPDATE! Brand new visual video editor! ++++++++
 
-+ Canon DSLR cameras support (currently on testing, but works quite good)
-+ DSLR Iso\Shutter\Aperture\WhiteBalance control from app
-+ DSLR movie recording (also with chromakey function)
-+ DSLR photo capture (also with chromakey function)
-+ DSLR chromakey LiveView on photo & video
-+ Separate chromakey settings for photo & video
-+ Separate backgrounds & overlay for photo & video chromakey
-+ Add Bletooth LE white LED light control for updated MixUp booth
-+ Improved app stability
-+ Fixed some freaky bugs ;)
+ New cool stuff:
+ + Brand new visual video editor.
+ + Real full preview in the video editor.
+ + Cut function for intro and outro parts of the video.
+ + Saving and loading presets with sound.
+ + Import and export preset with sound.
+ + Transitions for each part of the video.
+ + New Transitions.
+ + Audio fade in and fade out are now separated
+
+ Fixes and updates:
+ + Fixed connection with Canon M50.
+ + White balance bug with Canon camera has been fixed.
+ + Improved application performance with Canon camera.
+ + The app will now try to reconnect to the Canon camera if something went wrong.
+ + Fixed problems with chromakey functions.
+ + Fixed rendering with 1:1 aspect ratio.
+ + Preview is now rendering faster.
+ + Faster application startup.
+ + Fixed some freaky bugs ;)
 </Log>
