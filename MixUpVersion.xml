@@ -1,27 +1,23 @@
-<LATEST_RELEASE>1.4.0.5</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dropbox.com/s/d8jiti3ujlypq6g/MixUp%20Setup.exe?dl=1</RELEASE_LINK>
+<LATEST_RELEASE>1.4.2.0</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dropbox.com/s/o5t6g9qgz838pik/MixUp%20Setup.exe?dl=1</RELEASE_LINK>
 <Log>
-------------------------- Release 1.4.0.5 ---------------------
-++++++++ MAJOR UPDATE! Brand new visual video editor! ++++++++
+------------------------- Release 1.4.2.0 ---------------------
 
- New cool stuff:
- + Brand new visual video editor.
- + Real full preview in the video editor.
- + Cut function for intro and outro parts of the video.
- + Saving and loading presets with sound.
- + Import and export preset with sound.
- + Transitions for each part of the video.
- + New Transitions.
- + Audio fade in and fade out are now separated
+Cool new stuff in the video editor:
+1. Dublicate, Split and Delete function for any cuts.
+Press the right mouse button to open cut function menu;
 
- Fixes and updates:
- + Fixed connection with Canon M50.
- + White balance bug with Canon camera has been fixed.
- + Improved application performance with Canon camera.
- + The app will now try to reconnect to the Canon camera if something went wrong.
- + Fixed problems with chromakey functions.
- + Fixed rendering with 1:1 aspect ratio.
- + Preview is now rendering faster.
- + Faster application startup.
- + Fixed some freaky bugs ;)
+2. Player updated. Harder, Better, Faster, Stronger. And more accurate.
+
+3. Change play position while playing preview.
+
+4. Load \ Unload intro & outro directly from video editor window.
+Check menu in left top corner of window.
+
+Bonus: Colorized menu! 
+Enable it in preference window (gear icon in right top corner). 
+
+Fixed:
+1. Set transition for intro.
+2. Now selected video cut will magnet only to nearest cuts.
 </Log>
