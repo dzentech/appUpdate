@@ -1,23 +1,24 @@
-<LATEST_RELEASE>1.4.2.0</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dropbox.com/s/o5t6g9qgz838pik/MixUp%20Setup.exe?dl=1</RELEASE_LINK>
+<LATEST_RELEASE>1.5.1.0</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/zv1zixf0x1-mixup-app-1510-update-release</RELEASE_LINK>
 <Log>
-------------------------- Release 1.4.2.0 ---------------------
+  
+  We're pleased to announce a major new update for the MixUp App!
+  
+- Selection of photo and video templates for event guests
+- Scene control manager: 
+  Customise the lighting for standby and recording scenes.
+- Projects are no longer depends to the orientation of the camera.
+- New information elements are displayed on the shooting screens: 
+  progress bar during recording and frame counter during photo shooting.
+- Animated start screen.
+- Playback of music while recording video.
+- Email address collector for QR sharing
+- Disclamers for start screen and sharing.
+- Event counters (see in preference window): Check how many sessions taken, 
+  how many photos printed, email sent, qrcode used and etc...
+- Added export/import of projects. Exchange projects quickly and easily.
+- Separate color correction settings for photos and videos.
+- Significantly accelerated video and photo processing. Improved photo quality.
+- The app now loads much faster. Interaction with the interface is now delay-free
 
-Cool new stuff in the video editor:
-1. Dublicate, Split and Delete function for any cuts.
-Press the right mouse button to open cut function menu;
-
-2. Player updated. Harder, Better, Faster, Stronger. And more accurate.
-
-3. Change play position while playing preview.
-
-4. Load \ Unload intro & outro directly from video editor window.
-Check menu in left top corner of window.
-
-Bonus: Colorized menu! 
-Enable it in preference window (gear icon in right top corner). 
-
-Fixed:
-1. Set transition for intro.
-2. Now selected video cut will magnet only to nearest cuts.
 </Log>
