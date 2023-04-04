@@ -1,19 +1,21 @@
 <LATEST_RELEASE>1.5.3.0</LATEST_RELEASE>
 <RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/zv1zixf0x1-mixup-app-1510-update-release</RELEASE_LINK>
 <Log>
-------------------------- Release 1.5.1.0 ---------------------
+-------------------------------------------- Release 1.5.1.0 -------------------------------------
 
 We're pleased to announce a major new update for the MixUp App!
   
 -Selection of photo and video templates for event guests
 -A bluetooth device operation manager. Customise the lighting for standby and recording scenes.
 -Projects are no longer depends to the orientation of the camera.
--New information elements are displayed on the shooting screens: progress bar during recording and frame counter during photo shooting.
+-New information elements are displayed on the shooting screens: progress bar during recording 
+  and frame counter during photo shooting.
 -Video can now be uploaded to the main screen!
 -Playback of music while recording video.
 -Email address collector for QR sharing
 -Disclamers for start screen and sharing.
--Event counters (see in preference window). Check how many photo/video sessions taken, how many photos printed, email sent, qrcode used and etc...
+-Event counters (see in preference window). Check how many photo/video sessions taken, 
+  how many photos printed, email sent, qrcode used and etc...
 -Added export/import of projects. Exchange projects quickly and easily.
 -Separate color correction settings for photos and videos.
 -Significantly accelerated video and photo processing. Improved photo quality.
