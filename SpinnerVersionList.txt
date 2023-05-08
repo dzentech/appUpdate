@@ -1,4 +1,4 @@
-LATEST_RELEASE=3.10.0.61
+LATEST_RELEASE=3.9.9.09
 RELEASE_LINK=https://www.dzentech.store/post360software/tpost/gvl9gd2vg1-spinner360-vfx-310-update-release
 LATEST_DEMO=3.10.0.61
 DEMO_LINK=https://www.dzentech.store/post360software/tpost/gvl9gd2vg1-spinner360-vfx-310-update-release
