@@ -1,24 +1,20 @@
-<LATEST_RELEASE>1.5.1.0</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/zv1zixf0x1-mixup-app-1510-update-release</RELEASE_LINK>
+<LATEST_RELEASE>1.5.2.2</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/mixuppost/tpost/5yu7n322e1-mixup-app-1522-update-release</RELEASE_LINK>
 <Log>
-  
-  We're pleased to announce a major new update for the MixUp App!
-  
-- Selection of photo and video templates for event guests
-- Scene control manager: 
-  Customise the lighting for standby and recording scenes.
-- Projects are no longer depends to the orientation of the camera.
-- New information elements are displayed on the shooting screens: 
-  progress bar during recording and frame counter during photo shooting.
-- Animated start screen.
-- Playback of music while recording video.
-- Email address collector for QR sharing
-- Disclamers for start screen and sharing.
-- Event counters (see in preference window): Check how many sessions taken, 
-  how many photos printed, email sent, qrcode used and etc...
-- Added export/import of projects. Exchange projects quickly and easily.
-- Separate color correction settings for photos and videos.
-- Significantly accelerated video and photo processing. Improved photo quality.
-- The app now loads much faster. Interaction with the interface is now delay-free
 
-</Log>
+Hello, everyone!
+We're pleased to announce a new update for the MixUp App!
+
+- (New) Video effects and transitions gallery in the video editor
+- (New) Color correction effects as video effects
+- (New) Hot folder for processing external video files of the selected project (works only with .mp4 files)
+- When creating a new project, standard music is now included instantly
+- Returned "add icon" in the projects window (for creating and importing projects)
+- A collection of free music has been added (when you click on the button to load music, a folder with the collection will open)
+- Chromakey render issues fixed
+- Fixed email base export for QR codes
+- Added scale parameter for printing
+- Multiple files can now be selected via the print test
+- New templates for still images were added
+- Faster video processing and customization files upload
+- License backup has been added. This will give the possibility to restore the licence after unauthorised changes to the registry
