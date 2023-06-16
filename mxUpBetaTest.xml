@@ -1,7 +1,23 @@
-<LATEST_RELEASE>1.5.2.0</LATEST_RELEASE>
+<LATEST_RELEASE>1.5.2.6</LATEST_RELEASE>
 <RELEASE_LINK>https://www.youtube.com/watch?v=oHg5SJYRHA0</RELEASE_LINK>
 <Log>
   
-  This update is only for you.
+Hello, everyone!
+We're pleased to announce a new update for the MixUp App!
+This update was made for prevent Surface pro overheat while using app.
+Also we added some new requested stuff.
+
+Fixed:
+- High processor usage while using QR code sharing
+- High processor usage while using Gallery
+
+Updated:
+- Camera will start only while it needed. Less processor usage in booth mode.
+- Optimized liveview (less graphic card usage)
+
+New stuff:
+- New photo templates
+- Custom countdown for first photo
+- You can now set the time to preview the photo after it has been taken
 
 </Log>
