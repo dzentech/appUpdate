@@ -1,22 +1,23 @@
-<LATEST_RELEASE>1.5.2.3</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/ish9mduf31-mixup-app-1523-update-release</RELEASE_LINK>
+<LATEST_RELEASE>1.5.2.5</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/mixup-booth-support/tpost/gtn53bu8p1-mixup-app-1525-hotfix-release</RELEASE_LINK>
 <Log>
 
 Hello, everyone!
-We're pleased to announce a new update for the MixUp App!
-This update was made for prevent Surface pro overheat while using app.
-Also we added some new requested stuff.
+We highly recommend that you upgrade to this version, as it fixes a lot of issues that were causing high CPU, GPU and memory load. 
+This could lead to high PC heating and eventually to lower Surface performance.
+Also many bugs were fixed which could lead to program hangs and crashes.
 
-Fixed:
-- High processor usage while using QR code sharing
-- High processor usage while using Gallery
-
-Updated:
-- Camera will start only while it needed. Less processor usage in booth mode.
-- Optimized liveview (less graphic card usage)
-
-New stuff:
-- New photo templates
-- Custom countdown for first photo
-- You can now set the time to preview the photo after it has been taken
+Changelog:
+- Canon camera: fixed crash if no photo downloaded
+- Canon camera: fixed high latency before photo capture
+- Fixed: Camera don't have enough time to start if only one project used (no options for users to select)
+- Now camera starts only before capture in booth mode
+- Fixed: high CPU load after chromakey capture
+- Fixed: Memory leaks on chromakey render
+- Optimized chromakey render on 720p resolution
+- Optimized memory usage while app running
+- Optimized CPU & GPU usage
+- Fixed overwriting video on chromakey render
+- Fixed QR code sharing hotspot initialization on app startup
+- Fixed crash on player load
 </Log>
