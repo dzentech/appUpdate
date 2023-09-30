@@ -1,4 +1,4 @@
-LATEST_RELEASE=4.0.0.62
-RELEASE_LINK=https://www.dzentech.store/post360software/tpost/gvl9gd2vg1-spinner360-vfx-40-update-release
-LATEST_RELEASE=4.0.0.62
-DEMO_LINK=https://www.dzentech.store/post360software/tpost/gvl9gd2vg1-spinner360-vfx-40-update-release
+LATEST_RELEASE=4.1.0.65
+RELEASE_LINK=https://www.dzentech.store/post360software/tpost/3f0muglen1-spinner360-vfx-41-update-release
+LATEST_RELEASE=4.1.0.65
+DEMO_LINK=https://www.dzentech.store/post360software/tpost/3f0muglen1-spinner360-vfx-41-update-release
