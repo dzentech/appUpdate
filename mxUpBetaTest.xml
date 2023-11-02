@@ -1,39 +1,19 @@
-<LATEST_RELEASE>1.6.1.3</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dzentech.store/mixup-booth-support/tpost/abjei4h721-mixup-app-1610-release</RELEASE_LINK>
+<LATEST_RELEASE>1.6.1.5</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/mixup-booth-support/tpost/c4i3v8d661-mixup-app-1614-update-release</RELEASE_LINK>
 <Log>
-Yay! New big update to the MixUp App!
-Watch our video about this update and try out the new features for your business.
+Release 1.6.1.4 Changelog:
+Hi! We've made a small but very useful update to the MixUp App.
 
-Hotfix 1.6.1.1 Changelog:
-- Fixed print fuction from Gallery
-- Fixed render files from GoPro
+Improvements:
+   The quality of final photos has been significantly improved. 
+   First of all we have increased the resolution for photo templates to 600dpi! 
+   Images on prints became sharper and clearer.
+   Also we added compression quality settings for your final photos. 
+   You can find this setting in the Render Settings window
 
-Release 1.6.1.0 Changelog:
-   
-- MixUp is now fully compatible with Spinner360 platforms and works with GoPro (10,11,12) Black cameras!
-   Especially for working with 360 booths we have created a new mode of operation - Admin Mode.
-   This is a super convenient and beautiful control interface for the booth administrator at the event.
-  
-- With the help of hotkeys you can control the platform rotation and shooting remotely. 
-   We also made a special lock mode so that guests can't unauthorizedly start shooting or change your settings.
-   In Admin mode we've built in the gallery, all you need is one Surface tablet to work with the 360 booth.
+Fixed:
+   -Fixed saving customization (background and overlay) for photo templates.
+   -Fixed a couple of small bugs with on-screen keyboard.
+   -Fixed mail sending statuses
 
-- For Gopro cameras we've made a helpful assistant for connecting to your camera via WiFi.
-   You can also work with GoPro via USB and use it simply as a SlowMo camera in the booth.
-  
-- To make SlowMo work well, we've added speed settings for your videos, which further enhances the capabilities of the video editor. 
-   You can speed up and slow down any video regardless of its FPS.
-   It's never been so convenient to customize your cool video presets for 360 booth. 
-   We have also added the ability to work with SlowMo video for Canon cameras.
-
-- For Canon cameras, you can now set custom Live View exposure settings. 
-   This is useful for working with flash or in difficult lighting conditions.
-
-- The menus now have on-screen keyboard support, when you interact with a text field it will automatically open (if enabled in Preferences)
-
-- For projects you can now add a custom preview for photo mode. 
-   This is very handy if you are working with chromakey and just want to show what the background of the photo will be. 
-   If the custom photo preview is not loaded, the preview will be generated automatically.
-
-And many more small updates, improvements and fixes.
 </Log>
