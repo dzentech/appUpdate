@@ -1,20 +1,40 @@
 <LATEST_RELEASE>1.6.1.5</LATEST_RELEASE>
 <RELEASE_LINK>https://www.dzentech.store/mixup-booth-support/tpost/c4i3v8d661-mixup-app-1614-update-release</RELEASE_LINK>
 <Log>
-Release 1.6.1.4 Changelog:
    
-Hi! We've made a small but very useful update to the MixUp App.
+Release 1.7.0.0 Changelog:
+   
+Hi! We are happy to announce that we have made a big update for MixUp App!
 
-Improvements:
-   The quality of final photos has been significantly improved. 
-   First of all we have increased the resolution for photo templates to 600dpi! 
-   Images on prints became sharper and clearer.
-   Also we added compression quality settings for your final photos. 
-   You can find this setting in the Render Settings window
+MixUp can now work with 360 panoramic video and photos, allowing you to do a whole new experience at events: a real little planet. 
+To do this, you'll need a Garmin Virb360 or GoPro MAX camera.
+Also we have added support for GoPro 6,7,8 camera.
+We've also added new features to the gallery that will make it easier for you to work with it
+and allow guests to hide content they don't like for some reason.
 
-Fixed:
-   -Fixed saving customization (background and overlay) for photo templates.
-   -Fixed a couple of small bugs with on-screen keyboard.
-   -Fixed mail sending statuses
+You can see the full changelog below.
 
+NEW FEATURES:
+   -360 Little Planet Panorama Render (Photo & Video);
+   -Added Gopro HERO 6,7,8 Black support;
+   -Added GoPro MAX & Garmin Virb360 camera support;
+   -Added Email test function;
+   -Added delay between sending emails to avoid mailbox blocking. 
+    You can select the delay time in the mail client settings menu.
+   -Added Event transfer (Import & Export);
+   -Added "Please contact administrator" new indication in Booth(Guest) mode;
+   -Booth mode will not blocking if some error with camera or platform occures. 
+    Guest will be able to open gallery screen (if avalible);
+   -New gallery functions: Admin mode & select multiply files for (Delete, Hide, Email send, Print). 
+    Guests can now hide content from gallery;
+
+Fix & Improvements :
+   -Significantly increased video processing speed;
+   -Fixed Filename issue if filename index goes above 9999;
+   -Fixed Spinner360 via USB connection operations;
+   -Fixed the problem of using intro and outro with high FPS;
+   -Fixed working with webcams and streaming devices that could only produce 720p resolution;
+   -Fixed chromakey photo test and file uploading as a reference in the chromakey menu;
+   -Fixed some issues that could lead to errors and closing the program
+   
 </Log>
