@@ -1,20 +1,26 @@
-<LATEST_RELEASE>1.6.1.4</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dzentech.store/mixup-booth-support/tpost/c4i3v8d661-mixup-app-1614-update-release</RELEASE_LINK>
+<LATEST_RELEASE>1.7.0.2</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/360booth-support/tpost/1sg78h7j31-mixup-app-1702-update-release</RELEASE_LINK>
 <Log>
-Release 1.6.1.4 Changelog:
+Release 1.7.0.2 Changelog:
    
-Hi! We've made a small but very useful update to the MixUp App.
+Hi, we've made a major new update to the MixUp app.
+We've added a new kind of processing - LittlePlanet, now you can create real 360 flyover videos with 360 cameras. 
+Use GoPro Max or Garmin Virb360 cameras to do this.
 
-Improvements:
-   The quality of final photos has been significantly improved. 
-   First of all we have increased the resolution for photo templates to 600dpi! 
-   Images on prints became sharper and clearer.
-   Also we added compression quality settings for your final photos. 
-   You can find this setting in the Render Settings window
+Mass actions for the administrator have been added to the gallery. Admin can send multiple files to mail, print, hide or delete them. 
+Guests can now hide their photo or video from the gallery.
 
-Fixed:
-   -Fixed saving customization (background and overlay) for photo templates.
-   -Fixed a couple of small bugs with on-screen keyboard.
-   -Fixed mail sending statuses
+We have added support for Gopro Hero Black (6,7,8) cameras.
 
+Video processing speed has been significantly accelerated, even on heavy video templates.
+The video editor has been improved. Now previews are created faster, and interaction with the interface has become more convenient.
+You no longer need to specify the frame rate in video templates. 
+
+Important! Be sure to recheck your video templates that were set to settings other than FPS:30 after installing the update. 
+The setting of cuts relative to the original timeline may have shifted.
+
+We have also added the ability to set the frame from which the preview is made for the gallery.
+
+And also a lot of fixes, improvements and optimizations have been made.
+   
 </Log>
