@@ -1,40 +1,26 @@
-<LATEST_RELEASE>1.7.0.0</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dzentech.store/mixup-booth-support/tpost/c4i3v8d661-mixup-app-1614-update-release</RELEASE_LINK>
+<LATEST_RELEASE>1.7.0.3</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/360booth-support/tpost/1sg78h7j31-mixup-app-1702-update-release</RELEASE_LINK>
 <Log>
+Release 1.7.0.2 Changelog:
    
-Release 1.7.0.0 Changelog:
-   
-Hi! We are happy to announce that we have made a big update for MixUp App!
+Hi, we've made a major new update to the MixUp app.
+We've added a new kind of processing - LittlePlanet, now you can create real 360 flyover videos with 360 cameras. 
+Use GoPro Max or Garmin Virb360 cameras to do this.
 
-MixUp can now work with 360 panoramic video and photos, allowing you to do a whole new experience at events: a real little planet. 
-To do this, you'll need a Garmin Virb360 or GoPro MAX camera.
-Also we have added support for GoPro 6,7,8 camera.
-We've also added new features to the gallery that will make it easier for you to work with it
-and allow guests to hide content they don't like for some reason.
+Mass actions for the administrator have been added to the gallery. Admin can send multiple files to mail, print, hide or delete them. 
+Guests can now hide their photo or video from the gallery.
 
-You can see the full changelog below.
+We have added support for Gopro Hero Black (6,7,8) cameras.
 
-NEW FEATURES:
-   -360 Little Planet Panorama Render (Photo & Video);
-   -Added Gopro HERO 6,7,8 Black support;
-   -Added GoPro MAX & Garmin Virb360 camera support;
-   -Added Email test function;
-   -Added delay between sending emails to avoid mailbox blocking. 
-    You can select the delay time in the mail client settings menu.
-   -Added Event transfer (Import & Export);
-   -Added "Please contact administrator" new indication in Booth(Guest) mode;
-   -Booth mode will not blocking if some error with camera or platform occures. 
-    Guest will be able to open gallery screen (if avalible);
-   -New gallery functions: Admin mode & select multiply files for (Delete, Hide, Email send, Print). 
-    Guests can now hide content from gallery;
+Video processing speed has been significantly accelerated, even on heavy video templates.
+The video editor has been improved. Now previews are created faster, and interaction with the interface has become more convenient.
+You no longer need to specify the frame rate in video templates. 
 
-Fix & Improvements :
-   -Significantly increased video processing speed;
-   -Fixed Filename issue if filename index goes above 9999;
-   -Fixed Spinner360 via USB connection operations;
-   -Fixed the problem of using intro and outro with high FPS;
-   -Fixed working with webcams and streaming devices that could only produce 720p resolution;
-   -Fixed chromakey photo test and file uploading as a reference in the chromakey menu;
-   -Fixed some issues that could lead to errors and closing the program
+Important! Be sure to recheck your video templates that were set to settings other than FPS:30 after installing the update. 
+The setting of cuts relative to the original timeline may have shifted.
+
+We have also added the ability to set the frame from which the preview is made for the gallery.
+
+And also a lot of fixes, improvements and optimizations have been made.
    
 </Log>
