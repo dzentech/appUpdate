@@ -1,4 +1,4 @@
-LATEST_RELEASE=4.1.0.65
-RELEASE_LINK=https://www.dzentech.store/post360software/tpost/3f0muglen1-spinner360-vfx-41-update-release
-LATEST_RELEASE=4.1.0.65
-DEMO_LINK=https://www.dzentech.store/post360software/tpost/3f0muglen1-spinner360-vfx-41-update-release
+LATEST_RELEASE=4.2.0.69
+RELEASE_LINK=https://www.dzentech.store/360booth-support/tpost/e2z9l88971-spinner360-vfx-42-gopro12-hotfix
+LATEST_RELEASE=4.2.0.69
+DEMO_LINK=https://www.dzentech.store/360booth-support/tpost/e2z9l88971-spinner360-vfx-42-gopro12-hotfix
