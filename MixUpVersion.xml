@@ -1,25 +1,29 @@
-<LATEST_RELEASE>1.7.0.2</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dzentech.store/360booth-support/tpost/1sg78h7j31-mixup-app-1702-update-release</RELEASE_LINK>
+<LATEST_RELEASE>1.8.0.1</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/mixup-booth-support/tpost/8e9v23tuz1-mixup-app-1801-update-release</RELEASE_LINK>
 <Log>
-Release 1.7.0.2 Changelog:
+Release 1.8.0.1 Changelog:
    
-Hi, we've made a major new update to the MixUp app.
-We've added a new kind of processing - LittlePlanet, now you can create real 360 flyover videos with 360 cameras. 
-Use GoPro Max or Garmin Virb360 cameras to do this.
+Hi, it's Ai Wizard time!
 
-Mass actions for the administrator have been added to the gallery. Admin can send multiple files to mail, print, hide or delete them. 
-Guests can now hide their photo or video from the gallery.
+We've been working on this update for a long time and we finally present you our Ai Wizard for photo processing. 
+We tried to push the maximum AI capabilities for your events.
+Now there are 3 options to work with AI - Deepfake, Ai Chromakey and Ai Painter. 
+Our favorite is Ai Painter in Imagine mode. AI will create stunning images based on your photos. 
+Trust us, your clients will love it.
 
-We have added support for Gopro Hero Black (6,7,8) cameras.
+Random template selection:
+In addition to adding this great AI feature, we have decided to add such a feature as random selection of project and templates. 
+This functionality can make a new experience of using your photo booth at an event. 
+Guests won't know what will be on the final content until the end.
 
-Video processing speed has been significantly accelerated, even on heavy video templates.
-The video editor has been improved. Now previews are created faster, and interaction with the interface has become more convenient.
-You no longer need to specify the frame rate in video templates. 
+Photo review screen:
+With this function, you can review the photo immediately after taking it and give the option to take it again.
 
-Important! Be sure to recheck your video templates that were set to settings other than FPS:30 after installing the update. 
-The setting of cuts relative to the original timeline may have shifted.
-
-We have also added the ability to set the frame from which the preview is made for the gallery.
+We have also made a number of improvements and fixes in the software. 
+- We made convenient scrolling with the touch screen.
+- Made more convenient color selection in the backlight menu.
+- We fixed the work with web cameras.
+- Made a better preview loading window for your awesome projects.
 
 And also a lot of fixes, improvements and optimizations have been made.
    
