@@ -1,7 +1,7 @@
 <LATEST_RELEASE>1.8.0.9</LATEST_RELEASE>
 <RELEASE_LINK>https://www.dzentech.store/mixup-booth-support/tpost/8e9v23tuz1-mixup-app-1800-update-release</RELEASE_LINK>
 <Log>
-Release 1.8.0.0 Changelog:
+Release 1.8.0.1 Changelog:
    
 Hi, it's Ai Wizard time!
 
@@ -15,6 +15,9 @@ Random template selection:
 In addition to adding this great AI feature, we have decided to add such a feature as random selection of project and templates. 
 This functionality can make a new experience of using your photo booth at an event. 
 Guests won't know what will be on the final content until the end.
+
+Photo review screen:
+With this function, you can review the photo immediately after taking it and give the option to take it again.
 
 We have also made a number of improvements and fixes in the software. 
 - We made convenient scrolling with the touch screen.
