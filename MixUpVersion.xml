@@ -1,8 +1,13 @@
-<LATEST_RELEASE>1.8.0.1</LATEST_RELEASE>
+<LATEST_RELEASE>1.8.0.2</LATEST_RELEASE>
 <RELEASE_LINK>https://www.dzentech.store/mixup-booth-support/tpost/8e9v23tuz1-mixup-app-1801-update-release</RELEASE_LINK>
 <Log>
-Release 1.8.0.1 Changelog:
-   
+Release 1.8.0.1 + 1.8.0.2 hotfix Changelog:
+
+Hotfix 1.8.0.2:
+- Fixed adding negative promt to Ai processing
+
+Release 1.8.0.1:
+
 Hi, it's Ai Wizard time!
 
 We've been working on this update for a long time and we finally present you our Ai Wizard for photo processing. 
@@ -24,7 +29,7 @@ We have also made a number of improvements and fixes in the software.
 - Made more convenient color selection in the backlight menu.
 - We fixed the work with web cameras.
 - Made a better preview loading window for your awesome projects.
-
+   
 And also a lot of fixes, improvements and optimizations have been made.
    
 </Log>
