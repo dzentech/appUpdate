@@ -1,42 +1,10 @@
-<LATEST_RELEASE>1.8.0.3</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dzentech.store/mixup-booth-support/tpost/8e9v23tuz1-mixup-app-1803-update-release</RELEASE_LINK>
+<LATEST_RELEASE>1.8.1.0</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/mixup-booth-support/tpost/j8v1k4fxp1-mixup-app-1810-update-release</RELEASE_LINK>
 <Log>
-Release 1.8.0.1 + 1.8.0.2 hotfix + 1.8.0.3 update Changelog:
-
-1.8.0.3 Update:
-- Added localization of booth screens
-- Added ability to print from gallery to guests
-- Fixed flash operation for Canon cameras
-- Fixed saving the order of AI templates in the library
-- Added standard demo token for AI processing (clean install only)
-   
-Hotfix 1.8.0.2:
-- Fixed adding negative promt to Ai processing
-
-Release 1.8.0.1:
-
-Hi, it's Ai Wizard time!
-
-We've been working on this update for a long time and we finally present you our Ai Wizard for photo processing. 
-We tried to push the maximum AI capabilities for your events.
-Now there are 3 options to work with AI - Deepfake, Ai Chromakey and Ai Painter. 
-Our favorite is Ai Painter in Imagine mode. AI will create stunning images based on your photos. 
-Trust us, your clients will love it.
-
-Random template selection:
-In addition to adding this great AI feature, we have decided to add such a feature as random selection of project and templates. 
-This functionality can make a new experience of using your photo booth at an event. 
-Guests won't know what will be on the final content until the end.
-
-Photo review screen:
-With this function, you can review the photo immediately after taking it and give the option to take it again.
-
-We have also made a number of improvements and fixes in the software. 
-- We made convenient scrolling with the touch screen.
-- Made more convenient color selection in the backlight menu.
-- We fixed the work with web cameras.
-- Made a better preview loading window for your awesome projects.
-   
-And also a lot of fixes, improvements and optimizations have been made.
-   
+- Fixed bugs in work with AI wizard
+- Speeded up work with AI wizard
+- Interface fixes for future localizations
+- Added full localization of the interface to Russian (set language in the preferences menu)
+- Fixed localizations to other languages (localizations only for photo booth screens)
+- Many small fixes and improvements
 </Log>
