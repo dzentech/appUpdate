@@ -1,10 +1,18 @@
-<LATEST_RELEASE>1.8.1.0</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dzentech.store/mixup-booth-support/tpost/j8v1k4fxp1-mixup-app-1810-update-release</RELEASE_LINK>
+<LATEST_RELEASE>1.8.1.1</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/mixup-booth-support/tpost/j8v1k4fxp1-mixup-app-1811-update-release</RELEASE_LINK>
 <Log>
+  Release 1.8.1.0 + Hotfix 1.8.1.1
+  
 - Fixed bugs in work with AI wizard
 - Speeded up work with AI wizard
 - Interface fixes for future localizations
 - Added full localization of the interface to Russian (set language in the preferences menu)
 - Fixed localizations to other languages (localizations only for photo booth screens)
 - Many small fixes and improvements
+- Added speed value control for SP105 Led devices
+
+Hotfix 1.8.1.1:
+-Fixed random window combobox
+-Added some localization files
+  
 </Log>
