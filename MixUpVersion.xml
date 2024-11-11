@@ -1,18 +1,21 @@
-<LATEST_RELEASE>1.8.1.1</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dzentech.store/mixup-booth-support/tpost/j8v1k4fxp1-mixup-app-1811-update-release</RELEASE_LINK>
+<LATEST_RELEASE>1.8.2.3</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/mixup-booth-support/tpost/32lnkhtd41-mixup-app-1823-update-release</RELEASE_LINK>
 <Log>
-  Release 1.8.1.0 + Hotfix 1.8.1.1
-  
-- Fixed bugs in work with AI wizard
-- Speeded up work with AI wizard
-- Interface fixes for future localizations
-- Added full localization of the interface to Russian (set language in the preferences menu)
-- Fixed localizations to other languages (localizations only for photo booth screens)
-- Many small fixes and improvements
-- Added speed value control for SP105 Led devices
-
-Hotfix 1.8.1.1:
--Fixed random window combobox
--Added some localization files
-  
+MixUp 1.8.2.3 Release Highlights:
+  - Unlimited Templates: No limit on templates in Booth and Admin modes.
+  - Printer Options: Select and save optional printers, supporting both strips and regular prints on the same printer. 
+    Up to 10 customizable printing options available.
+  - Enhanced User Control: Start button before countdown, hide specific interface buttons in Booth mode.
+  - Video Editor Improvements: Extendable timeline with flexible video segment arrangement.
+Camera Enhancements:
+  - Canon 550D issue fixed.
+  - GoPro 13 support added.
+  - Resolved artifact issues with webcams and low-res cameras.
+AI Features:
+  - New Ksuse Ai protocol functions: image processing, styles, censoring, cropping.
+  - Gender selection, image integrity check, and reprocess button fixes.
+GlamBot Integration:
+  - Full GlamBot integration with interface updates and scene editor improvements.
+  - New motion, custom poses, error logs, and "free movement" mode.
+  - Manual calibration and enhanced status display.
 </Log>
