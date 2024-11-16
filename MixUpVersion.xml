@@ -1,7 +1,7 @@
 <LATEST_RELEASE>1.8.2.5</LATEST_RELEASE>
 <RELEASE_LINK>https://www.dzentech.store/mixup-booth-support/tpost/32lnkhtd41-mixup-1823-release-1825-hotfix</RELEASE_LINK>
 <Log>
-MixUp 1.8.2.4 Hotfix:
+MixUp 1.8.2.5 Hotfix:
   - Fixed flash firing on Canon camera
   - Added Sharing screen timeout
   -Fixed Printing (if printer has Cyrillic names) issue
