@@ -1,9 +1,11 @@
-<LATEST_RELEASE>1.8.2.4</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dzentech.store/mixup-booth-support/tpost/32lnkhtd41-mixup-1823-release-1824-hotfix</RELEASE_LINK>
+<LATEST_RELEASE>1.8.2.5</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/mixup-booth-support/tpost/32lnkhtd41-mixup-1823-release-1825-hotfix</RELEASE_LINK>
 <Log>
 MixUp 1.8.2.4 Hotfix:
   - Fixed flash firing on Canon camera
   - Added Sharing screen timeout
+  -Fixed Printing (if printer has Cyrillic names) issue
+  -Added Robot Arm 3D visualisation in scene editor menu (beta)
 MixUp 1.8.2.3 Release Highlights:
   - Unlimited Templates: No limit on templates in Booth and Admin modes.
   - Printer Options: Select and save optional printers, supporting both strips and regular prints on the same printer. 
