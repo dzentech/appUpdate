@@ -1,26 +1,20 @@
-<LATEST_RELEASE>1.8.2.5</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dzentech.store/mixup-booth-support/tpost/32lnkhtd41-mixup-1823-release-1825-hotfix</RELEASE_LINK>
+<LATEST_RELEASE>1.8.3.0</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/ap3tpyd5u1-mixup-app-1830-update-release-robot-arm</RELEASE_LINK>
 <Log>
-MixUp 1.8.2.5 Hotfix:
-  - Fixed flash firing on Canon camera
-  - Added Sharing screen timeout
-  -Fixed Printing (if printer has Cyrillic names) issue
-  -Added Robot Arm 3D visualisation in scene editor menu (beta)
-MixUp 1.8.2.3 Release Highlights:
-  - Unlimited Templates: No limit on templates in Booth and Admin modes.
-  - Printer Options: Select and save optional printers, supporting both strips and regular prints on the same printer. 
-    Up to 10 customizable printing options available.
-  - Enhanced User Control: Start button before countdown, hide specific interface buttons in Booth mode.
-  - Video Editor Improvements: Extendable timeline with flexible video segment arrangement.
-Camera Enhancements:
-  - Canon 550D issue fixed.
-  - GoPro 13 support added.
-  - Resolved artifact issues with webcams and low-res cameras.
-AI Features:
-  - New Ksuse Ai protocol functions: image processing, styles, censoring, cropping.
-  - Gender selection, image integrity check, and reprocess button fixes.
-GlamBot Integration:
-  - Full GlamBot integration with interface updates and scene editor improvements.
-  - New motion, custom poses, error logs, and "free movement" mode.
-  - Manual calibration and enhanced status display.
+MixUp 1.8.3.0:
+  NEW: Visual 3D motion scene editor for robot arms
+  NEW: Synchronization of virtual scene motion with real robot arm (Real-Time editing mode)
+  NEW: Pose preview in robot arm scene display
+  NEW: Pose display type (virtual camera view)
+  NEW: Ability to arrange characters in a virtual robotic arm scene
+  NEW: Ability to customize the banner in the virtual robot arm scene
+  NEW: Robotic arm visualization scene editor
+  NEW: Robotic arm camera parameters for recording 3D visualization
+  NEW: Record visualization from the virtual robotic arm camera and directly upload it 
+       to the video editor for further customization of the processing template
+  
+  FIX: Fixed processing of robot arm statuses
+  FIX: Fixed handling of some Web cameras. (Zoom setting removed from Web cameras parameters)
+  FIX: Slightly changed AI Wizard menu interface
+  FIX: Fixed localization errors
 </Log>
