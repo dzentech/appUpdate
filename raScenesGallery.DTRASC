@@ -134,4 +134,53 @@
             </scenePose>
         </scenePoses>
     </scene>
+	    <scene>
+        <version>0</version>
+        <name>Red Carpet Pro</name>
+        <size>3</size>
+        <Status>0</Status>
+        <editMode>2</editMode>
+        <Xm>2000.000000000</Xm>
+        <Ym>0.000000000</Ym>
+        <Zm>269.700012207</Zm>
+        <camAngle>-90.000000000</camAngle>
+        <scenePoses>
+            <scenePose>
+                <A>0.000000000</A>
+                <B>-10.000000000</B>
+                <C>25.000000000</C>
+                <D>0.000003787</D>
+                <E>89.871269226</E>
+                <F>-0.000001014</F>
+                <Accel>50.000000000</Accel>
+                <Speed>100.000000000</Speed>
+                <type>0</type>
+                <TimeoutToNext>0.000000000</TimeoutToNext>
+            </scenePose>
+            <scenePose>
+                <A>0.000000000</A>
+                <B>100.000000000</B>
+                <C>20.000000000</C>
+                <D>0.000001723</D>
+                <E>-37.938251495</E>
+                <F>89.999992371</F>
+                <Accel>50.000000000</Accel>
+                <Speed>50.000000000</Speed>
+                <type>0</type>
+                <TimeoutToNext>0.000000000</TimeoutToNext>
+            </scenePose>
+            <scenePose>
+                <A>0.000000000</A>
+                <B>-49.099998474</B>
+                <C>93.400001526</C>
+                <D>0.000002585</D>
+                <E>64.315223694</E>
+                <F>89.999992371</F>
+                <Accel>50.000000000</Accel>
+                <Speed>50.000000000</Speed>
+                <type>0</type>
+                <TimeoutToNext>-1.000000000</TimeoutToNext>
+            </scenePose>
+        </scenePoses>
+    </scene>
 </gbScenes>
