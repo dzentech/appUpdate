@@ -1,20 +1,25 @@
-<LATEST_RELEASE>1.8.3.0</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/ap3tpyd5u1-mixup-app-1830-update-release-robot-arm</RELEASE_LINK>
+<LATEST_RELEASE>1.8.4.1</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/va3pa355g1-mixup-app-1841-update-release</RELEASE_LINK>
 <Log>
-MixUp 1.8.3.0:
-  NEW: Visual 3D motion scene editor for robot arms
-  NEW: Synchronization of virtual scene motion with real robot arm (Real-Time editing mode)
-  NEW: Pose preview in robot arm scene display
-  NEW: Pose display type (virtual camera view)
-  NEW: Ability to arrange characters in a virtual robotic arm scene
-  NEW: Ability to customize the banner in the virtual robot arm scene
-  NEW: Robotic arm visualization scene editor
-  NEW: Robotic arm camera parameters for recording 3D visualization
-  NEW: Record visualization from the virtual robotic arm camera and directly upload it 
-       to the video editor for further customization of the processing template
+MixUp 1.8.4.1 Release:
+
+  IMPORTANT: ALL DZEN TECH ROBOT ARM CLIENTS:
+  PLEASE, UPDATE ROBOT ARM FIRMWARE TO LATEST VERSION!
   
-  FIX: Fixed processing of robot arm statuses
-  FIX: Fixed handling of some Web cameras. (Zoom setting removed from Web cameras parameters)
-  FIX: Slightly changed AI Wizard menu interface
-  FIX: Fixed localization errors
+  Say hello to precision like never before! Our brand-new Point-Tracking Mode allows you to create dynamic, 
+  intricate movements for your robot arm with ease!Perfect for complex tasks and detailed workflows, 
+  this feature is a game-changer for anyone working on advanced robotics projects.
+  
+  NEW: Point-tracking mode fore Robot Arm scene editor.
+  NEW: Custom camera orientation for projects. Perfect for robot arm projects.
+  NEW: Online scene gallery. Download new scenes right from our cloud.
+  NEW: Import\Export scenes to file.
+  NEW: Ai Wizard now in separate menu from photo customization.
+  NEW: Advertising videos on render screen.
+
+  FIX: Virtual camera FOV calculation for robot arm visualization.
+  FIX: upload from robot arm to local scenes.
+  FIX: Issues with scene editing on robot arm.
+  FIX: Fixed localization errors.
+  
 </Log>
