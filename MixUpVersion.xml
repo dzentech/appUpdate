@@ -1,6 +1,14 @@
-<LATEST_RELEASE>1.8.4.1</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/va3pa355g1-mixup-app-1841-update-release</RELEASE_LINK>
+<LATEST_RELEASE>1.8.4.2</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/va3pa355g1-mixup-app-1842-update-release</RELEASE_LINK>
 <Log>
+
+MixUp App 1.8.4.2 Hotfix:
+Important: Install Hotfix if you have version 1.8.4.1 installed.
+  NEW: Canon cameras can now be operated in any mode (M, Tv, Av, P, Auto, etc.). Also added a memory card check.
+  FIX: App crashes when trying to connect to MixUp Pixel LED light (on some device revisions).
+  FIX: Fixed some bugs that could cause application brakes or crashes.
+  FIX: Fixed some localization texts.
+  
 MixUp 1.8.4.1 Release:
 
   IMPORTANT: ALL DZEN TECH ROBOT ARM CLIENTS:
@@ -21,5 +29,4 @@ MixUp 1.8.4.1 Release:
   FIX: upload from robot arm to local scenes.
   FIX: Issues with scene editing on robot arm.
   FIX: Fixed localization errors.
-  
 </Log>
