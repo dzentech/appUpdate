@@ -1,32 +1,25 @@
-<LATEST_RELEASE>1.8.4.2</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/va3pa355g1-mixup-app-1842-update-release</RELEASE_LINK>
-<Log>
-
-MixUp App 1.8.4.2 Hotfix:
-Important: Install Hotfix if you have version 1.8.4.1 installed.
-  NEW: Canon cameras can now be operated in any mode (M, Tv, Av, P, Auto, etc.). Also added a memory card check.
-  FIX: App crashes when trying to connect to MixUp Pixel LED light (on some device revisions).
-  FIX: Fixed some bugs that could cause application brakes or crashes.
-  FIX: Fixed some localization texts.
-  
-MixUp 1.8.4.1 Release:
+<LATEST_RELEASE>1.8.4.5</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/robotarm-support/tpost/1ffjz9u3x1-mixup-app-1845-update-release-ailive-rel</RELEASE_LINK>
+<Log> 
+MixUp 1.8.4.5 Release:
 
   IMPORTANT: ALL DZEN TECH ROBOT ARM CLIENTS:
   PLEASE, UPDATE ROBOT ARM FIRMWARE TO LATEST VERSION!
   
-  Say hello to precision like never before! Our brand-new Point-Tracking Mode allows you to create dynamic, 
-  intricate movements for your robot arm with ease!Perfect for complex tasks and detailed workflows, 
-  this feature is a game-changer for anyone working on advanced robotics projects.
+  Introducing MixUp 1.8.4.5 – your ticket to transforming events! 
+  With our brand-new Ailive feature, photos instantly turn into engaging videos. 
+  Enjoy seamless photo-to-video conversion, upgraded AI processing (v3.0), and uninterrupted camera performance. 
+  Update now to elevate your event experience with cutting-edge digital innovation!
   
-  NEW: Point-tracking mode fore Robot Arm scene editor.
-  NEW: Custom camera orientation for projects. Perfect for robot arm projects.
-  NEW: Online scene gallery. Download new scenes right from our cloud.
-  NEW: Import\Export scenes to file.
-  NEW: Ai Wizard now in separate menu from photo customization.
-  NEW: Advertising videos on render screen.
-
-  FIX: Virtual camera FOV calculation for robot arm visualization.
-  FIX: upload from robot arm to local scenes.
-  FIX: Issues with scene editing on robot arm.
-  FIX: Fixed localization errors.
+  -Added photo mode in AiLive video. Video styles and effects have been added.
+  -Introduced sequential processing: from photo to AI-enhanced photo, and from AI-enhanced photo to video.
+  -Enabled the option to upload videos for playback during processing.
+  -Launched a new version of the AI photo processor, v3.0.
+  -Fixed issues with AI photo styles.
+  -Changed the camera logic: the camera now remains connected throughout the photo booth operation.
+  -Optimized performance with Canon cameras, ensuring functionality in all camera modes.
+  -Added calculation for the glambot scene playback time.
+  -Fixed the saving process for robot arm scenes.
+  -Resolved update errors during the robot arm firmware upgrade.
+  
 </Log>
