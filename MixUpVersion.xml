@@ -1,6 +1,13 @@
-<LATEST_RELEASE>1.8.4.5</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/1ffjz9u3x1-mixup-app-1845-update-release-ailive-rel</RELEASE_LINK>
-<Log> 
+<LATEST_RELEASE>1.8.4.6</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/1ffjz9u3x1-mixup-app-1846-update-release-ailive-rel</RELEASE_LINK>
+<Log>
+MixUp 1.8.4.6 Hotfix Release:
+
+  + Added "Kling" AiLive processing model
+  + Added "Deepfake face fix" option for AiLive processing
+  + Fixed Ai template name check on create
+  + Fixed Ai Live processing in Booth mode
+  
 MixUp 1.8.4.5 Release:
 
   IMPORTANT: ALL DZEN TECH ROBOT ARM CLIENTS:
