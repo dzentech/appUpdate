@@ -1,8 +1,12 @@
-<LATEST_RELEASE>1.8.4.6</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/1ffjz9u3x1-mixup-app-1846-update-release-ailive-rel</RELEASE_LINK>
+<LATEST_RELEASE>1.8.4.7</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/1ffjz9u3x1-mixup-app-1847-update-release-ailive-rel</RELEASE_LINK>
 <Log>
+  
 MixUp 1.8.4.6 Hotfix Release:
-
+  + Fixed Ai Photo Render in Booth Mode. (The photo may have hung in the processing screen in AI photo mode).
+  + Optimized Ai Photo Render
+  
+MixUp 1.8.4.6 Hotfix Release:
   + Added "Kling" AiLive processing model
   + Added "Deepfake face fix" option for AiLive processing
   + Fixed Ai template name check on create
