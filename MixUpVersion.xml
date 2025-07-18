@@ -1,36 +1,33 @@
-<LATEST_RELEASE>1.8.4.7</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/1ffjz9u3x1-mixup-app-1847-update-release-ailive-rel</RELEASE_LINK>
+<LATEST_RELEASE>1.9.0.1</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/xime7c26i1-mixup-app-1901-release-our-biggest-updat</RELEASE_LINK>
 <Log>
-  
-MixUp 1.8.4.6 Hotfix Release:
-  + Fixed Ai Photo Render in Booth Mode. (The photo may have hung in the processing screen in AI photo mode).
-  + Optimized Ai Photo Render
-  
-MixUp 1.8.4.6 Hotfix Release:
-  + Added "Kling" AiLive processing model
-  + Added "Deepfake face fix" option for AiLive processing
-  + Fixed Ai template name check on create
-  + Fixed Ai Live processing in Booth mode
-  
-MixUp 1.8.4.5 Release:
+Experience the Next Evolution of MixUp App: Our Biggest Update Ever!
+Get ready to take your photo and video experience to new heights—MixUp’s most ambitious upgrade has arrived. 
+We’ve rebuilt, redesigned, and reimagined the way you create, share, and interact with your content. 
+Whether you’re a seasoned pro or just getting started, this powerhouse release will inspire you to update today.
 
-  IMPORTANT: ALL DZEN TECH ROBOT ARM CLIENTS:
-  PLEASE, UPDATE ROBOT ARM FIRMWARE TO LATEST VERSION!
+  1. Unleash Your Creativity with the All‑New Photo‑Template Editor
+  2. Instant Access Anywhere with “Link Base” Smart Links
+  3. More Ways to Share, More Ways to Shine
+  4. Robust Event Database & Archiving
+  5. Data‑Driven Engagement with Custom Surveys
+  6. Optimized Photobooth UI for Mirror Booths
+  7. Slicker, Faster, More Intuitive Photobooth Experience
+  8. Advanced Admin Menu for Photobooth Operators
+
+Bonus Features You’ll Love:
   
-  Introducing MixUp 1.8.4.5: your ticket to transforming events! 
-  With our brand-new Ailive feature, photos instantly turn into engaging videos. 
-  Enjoy seamless photo-to-video conversion, upgraded AI processing (v3.0), and uninterrupted camera performance. 
-  Update now to elevate your event experience with cutting-edge digital innovation!
-  
-  -Added photo mode in AiLive video. Video styles and effects have been added.
-  -Introduced sequential processing: from photo to AI-enhanced photo, and from AI-enhanced photo to video.
-  -Enabled the option to upload videos for playback during processing.
-  -Launched a new version of the AI photo processor, v3.0.
-  -Fixed issues with AI photo styles.
-  -Changed the camera logic: the camera now remains connected throughout the photo booth operation.
-  -Optimized performance with Canon cameras, ensuring functionality in all camera modes.
-  -Added calculation for the glambot scene playback time.
-  -Fixed the saving process for robot arm scenes.
-  -Resolved update errors during the robot arm firmware upgrade.
+-Flexible printing & auto‑print for instant on‑site keepsakes
+-Reliable AI downloads: No more missing files from your favorite services
+-Cutting‑edge AI models:
+-Photo: ChatGPT, Flux
+-Video: PixVerse v4.0 & v4.5, Kling v2.1 & v2.1 master
+-Fixed‑seed option: Consistent AI results every time
+-Multi‑image prompts: Enhance ChatGPT’s photo processing
+-Video auto‑quality slider: Choose between 5 MB and 100 MB
+-Post‑render display: Open file or reveal folder—your choice
+-Global timeout control: Customize actions on render timeout
+-Glambot enhancements: New “camera mount" POV, parking‑pose uploads
+-LED controller support for SP64x lighting systems
   
 </Log>
