@@ -1,7 +1,11 @@
-<LATEST_RELEASE>1.9.0.11</LATEST_RELEASE>
+<LATEST_RELEASE>1.9.0.12</LATEST_RELEASE>
 <RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/xime7c26i1-mixup-app-1901-release-our-biggest-updat</RELEASE_LINK>
 <Log>
 
+Hotfix 1.9.0.12:
+ -Fixed font size in virtual keyboard
+ -Fixed update links base on Ai token change
+ 
 Hotfix 1.9.0.11:
  -Fixed open additional print options menu
  -Optimized app log
