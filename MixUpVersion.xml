@@ -1,7 +1,16 @@
-<LATEST_RELEASE>1.9.0.12</LATEST_RELEASE>
+<LATEST_RELEASE>1.9.0.14</LATEST_RELEASE>
 <RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/xime7c26i1-mixup-app-19012-release-our-biggest-upda</RELEASE_LINK>
 <Log>
 
+Hotfix 1.9.0.14:
+ -Added border for working zone in Photo Template Editor
+ -Fixed photo template export form photo template editor
+ -Fixed "hide" layer behavior in template editor
+ -Fixed undo & redo behavior in template editor
+ -Added "Save" button in photo template editor
+ -"Background" and "Overlay" layers are locked by default
+ -Fixed show available networks in manual local sharing settings
+ 
 Hotfix 1.9.0.12:
  -Fixed font size in virtual keyboard
  -Fixed update links base on Ai token change
