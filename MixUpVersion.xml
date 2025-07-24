@@ -1,6 +1,13 @@
-<LATEST_RELEASE>1.9.0.14</LATEST_RELEASE>
+<LATEST_RELEASE>1.9.0.16</LATEST_RELEASE>
 <RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/xime7c26i1-mixup-app-19012-release-our-biggest-upda</RELEASE_LINK>
 <Log>
+
+Hotfix 1.9.0.16:
+ -Fixed Ai template test behavior
+ -Fixed Show Media after test behavior
+ -Fixed clean Ai temp folder ofter render
+ -Fixed Ai Live with multiply photos template
+ -Fixed erase ai render item from render queue
 
 Hotfix 1.9.0.14:
  -Added border for working zone in Photo Template Editor
