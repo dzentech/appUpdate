@@ -1,61 +1,25 @@
-<LATEST_RELEASE>1.9.0.16</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/xime7c26i1-mixup-app-19012-release-our-biggest-upda</RELEASE_LINK>
+<LATEST_RELEASE>1.9.1.0</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/yp2jijj371-mixup-app-1910-trading-cards-update</RELEASE_LINK>
 <Log>
+Release 1.9.1.0:
+This release brings a powerful set of creative tools to your photo templates, introduces live drawing on photos, and makes guest messaging and booth texts way easier to manage. 
+The headline feature? Automatic Trading Cards powered by guest survey data and AI perfect for sports nights, brand activations, and tournaments. 
+Update today and wow your crowd!
 
-Hotfix 1.9.0.16:
- -Fixed Ai template test behavior
- -Fixed Show Media after test behavior
- -Fixed clean Ai temp folder ofter render
- -Fixed Ai Live with multiply photos template
- -Fixed erase ai render item from render queue
+New features:
+-Template layers: Text, Shapes, QR, Signature, Survey Data tags
+-Automatic Trading Cards (survey data + AI)
+-Draw on photo before share/print
+-"Texts & Gudes" section consolidates all messages
+-Sharing "Done" button: lock or auto-close by timeout
+-Mirror content preview (not just live-view)
+-Processing screen settings moved to dedicated tab, min ad time added
+-Flux Context AI: choose image sets for better customization
 
-Hotfix 1.9.0.14:
- -Added border for working zone in Photo Template Editor
- -Fixed photo template export form photo template editor
- -Fixed "hide" layer behavior in template editor
- -Fixed undo & redo behavior in template editor
- -Added "Save" button in photo template editor
- -"Background" and "Overlay" layers are locked by default
- -Fixed show available networks in manual local sharing settings
+Improved / Fixed:
+-AI processing stability; faster photo processing
+-"Show Original photo" moved to Sharing screen customization
+-Counters fixed; event DB archive export fixed
+-Template import from export fixed
  
-Hotfix 1.9.0.12:
- -Fixed font size in virtual keyboard
- -Fixed update links base on Ai token change
- 
-Hotfix 1.9.0.11:
- -Fixed open additional print options menu
- -Optimized app log
- -Fixed open help window in Video Editor
-
-Release 1.9.0.1:
-  
-Experience the Next Evolution of MixUp App: Our Biggest Update Ever!
-Get ready to take your photo and video experience to new heights "MixUp" most ambitious upgrade has arrived. 
-We've rebuilt, redesigned, and reimagined the way you create, share, and interact with your content. 
-Whether you're a seasoned pro or just getting started, this powerhouse release will inspire you to update today.
-
-  1. Unleash Your Creativity with the All New Photo Template Editor
-  2. Instant Access Anywhere with "Link Base" Smart Links
-  3. More Ways to Share, More Ways to Shine
-  4. Robust Event Database & Archiving
-  5. Data Driven Engagement with Custom Surveys
-  6. Optimized Photobooth UI for Mirror Booths
-  7. Slicker, Faster, More Intuitive Photobooth Experience
-  8. Advanced Admin Menu for Photobooth Operators
-
-Bonus Features You'll Love:
-  
--Flexible printing & auto print for instant on site keepsakes
--Reliable AI downloads: No more missing files from your favorite services
--Cutting edge AI models:
--Photo: ChatGPT, Flux Kontext
--Video: PixVerse v4.0 & v4.5, Kling v2.1 & v2.1 master
--Fixed seed option: Consistent AI results every time
--Multi image prompts: Enhance ChatGPT's photo processing
--Video auto quality slider: Choose between 5MB and 100MB
--Post render display: Open file or reveal folder your choice
--Global timeout control: Customize actions on render timeout
--Glambot enhancements: New "camera mount" POV, parking pose uploads
--LED controller support for SP64x lighting systems
-  
 </Log>
