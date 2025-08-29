@@ -1,6 +1,12 @@
-<LATEST_RELEASE>1.9.1.0</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/yp2jijj371-mixup-app-1910-trading-cards-update</RELEASE_LINK>
+<LATEST_RELEASE>1.9.1.2</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/yp2jijj371-mixup-app-1912-trading-cards-update</RELEASE_LINK>
 <Log>
+ 
+Hotfix 1.9.1.2:
+-Fixed ai render issuses
+-Fixed check Photo Render Issues
+-Added notification on Ai Render & Photo render errors while session in progress
+
 Release 1.9.1.0:
 This release brings a powerful set of creative tools to your photo templates, introduces live drawing on photos, and makes guest messaging and booth texts way easier to manage. 
 The headline feature? Automatic Trading Cards powered by guest survey data and AI perfect for sports nights, brand activations, and tournaments. 
