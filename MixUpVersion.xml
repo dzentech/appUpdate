@@ -1,7 +1,15 @@
-<LATEST_RELEASE>1.9.1.5</LATEST_RELEASE>
+<LATEST_RELEASE>1.9.1.7</LATEST_RELEASE>
 <RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/yp2jijj371-mixup-app-1915-trading-cards-update</RELEASE_LINK>
 <Log>
 
+Update & Hotfix 1.9.1.7:
+-Significantly increased performance in the photo template editor and reduced load on video memory.
+-Fixed a bug with loading files into photo templates with Cyrillic characters in the file name.
+-Added PixVerse 5.0 model for Ai Live.
+-Fixed a bug with project duplication and renaming that caused photo templates to be lost.
+-Added status indicators for Projects, Wi-Fi, and Scene Control Center.
+-Fixed minor bugs in the UI.
+ 
 Update 1.9.1.5:
 -Now, in Chromakey and AI Chromakey, you don't need to load the background. 
  In this case, the image will have a transparent layer.
