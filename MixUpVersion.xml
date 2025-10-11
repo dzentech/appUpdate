@@ -16,5 +16,6 @@ MixUp App 1.9.2.2 - Update Highlights
 - Fixed project duplication/rename bug
 - Fixed AI render error flag reset
 - Added Canon USB reconnect dialog with Retry / Close options
+- Fixed a bug where the connection would not close, causing the application to reserve a large number of ports.
  
 </Log>
