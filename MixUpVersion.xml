@@ -17,5 +17,6 @@ MixUp App 1.9.2.2 - Update Highlights
 - Fixed AI render error flag reset
 - Added Canon USB reconnect dialog with Retry / Close options
 - Fixed a bug where the connection would not close, causing the application to reserve a large number of ports.
+- Fixed a bug with the use of additional image sets for AI processing.
  
 </Log>
