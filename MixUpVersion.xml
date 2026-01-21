@@ -1,22 +1,18 @@
-<LATEST_RELEASE>1.9.2.2</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dzentech.store/postmixupsoft/tpost/1r5jaxjki1-mixup-app-1922-build-in-ai-background-re</RELEASE_LINK>
+<LATEST_RELEASE>1.9.2.5</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/mixup-booth-support/tpost/vkbei94ae1-mixup-app-1925-update-gemini-30-pro</RELEASE_LINK>
 <Log>
 
-MixUp App 1.9.2.2 - Update Highlights
+MixUp App 1.9.2.5 - Update Highlights
 
-- Added built-in AI ChromaKey for photos
-- Improved chroma key performance and fixed customization loss bug
-- Added Gemini AI for enhanced photo processing
-- Fixed KSUSE API invalid download link issue
-- Added camera preview recording at 60 / 120 / 240 fps (Glambot)
-- Added option to save Little Planet 360 previews from menu
-- Improved AI queue handling: failed sessions now go to the end
-- Added settings for AI download concurrency and timeout
-- Fixed Spinner + Glambot simultaneous use issue
-- Fixed project duplication/rename bug
-- Fixed AI render error flag reset
-- Added Canon USB reconnect dialog with Retry / Close options
-- Fixed a bug where the connection would not close, causing the application to reserve a large number of ports.
-- Fixed a bug with the use of additional image sets for AI processing.
+- Added Gemini 3.0 Pro Ai render
+- Fixed remove items from Ai render queue
+- Optimized file upload to Ai render cloud
+- Fixed video chromakey rotate
+- Added splash screen on program shuttdown
+- Fixed load glambot scenes from import file
+- Canon cameras will now stop Live View on idle and start LV again on session start
+- Fixed mouse scroll on high resolution displays
+- Fixed some UI issues
+- Fixed DEMO mode launch
  
 </Log>
