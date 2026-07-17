@@ -2335,5 +2335,7 @@
         "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/eeFrAL6NjJUHCA"
       }
     ]
-  }
+  },
+  "changelog_url": "https://raw.githubusercontent.com/dzentech/appUpdate/main/changeLog.json",
+  "changelog_full_url": "https://raw.githubusercontent.com/dzentech/appUpdate/main/changeLogFull.json"
 }
