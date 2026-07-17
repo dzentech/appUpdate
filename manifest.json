@@ -41,8 +41,8 @@
     {
       "name": "libs",
       "file": "libs.upload",
-      "size": 69146763,
-      "sha256": "826EC9A149ADFD934A0D4B6D057B4A18BDF4A49C3B7D107824B2933DF284998A",
+      "size": 69250640,
+      "sha256": "14D332723EED7FE4F98EC21F64E7922A3DAE4187B67393D8E3C19BCDDCA580AF",
       "urls": [
         {
           "server": "dropbox",
@@ -59,8 +59,8 @@
     {
       "name": "Localization",
       "file": "Localization.upload",
-      "size": 673361,
-      "sha256": "DCEBE2F184BADD0AA075EA0160B612C77AB92BCE4DB02A6BDF39E2B27BC95D80",
+      "size": 673663,
+      "sha256": "F05CF333B7EAE0E98D697F6614EB2EAEA469172E731FAFA75D6A13E1C60AB528",
       "urls": [
         {
           "server": "dropbox",
@@ -216,8 +216,8 @@
     },
     {
       "path": "data/System/Localization/helpLinksWarn.xml",
-      "size": 56,
-      "sha256": "DA72E505674CF8D6978475F1E890B0D698A5C9805667A9E33C64992D66222380",
+      "size": 0,
+      "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
       "package": "Localization"
     },
     {
@@ -296,6 +296,12 @@
       "path": "data/System/Localization/ru-RU/Localization.xml",
       "size": 98321,
       "sha256": "79A3E71E9968562A1326C4C783B708B30CA08F020C03D10D006A17AD7E4B4546",
+      "package": "Localization"
+    },
+    {
+      "path": "data/System/Localization/ru-RU/Not_localized.xml",
+      "size": 449,
+      "sha256": "92E5456D1B68C9FD364CECFA7AE126FA35DA2C1FC8232508BFADE5AF0867F223",
       "package": "Localization"
     },
     {
@@ -2317,13 +2323,13 @@
     {
       "path": "License Manager.exe",
       "size": 2120720,
-      "sha256": "9AE64DBBC2245CC5B871FEAA05EBE74F88BBB2713F37E4505D9746855BCF869C",
+      "sha256": "5361936991E7EB823FB24B602BE2485E9EC87A8B4531E996AB3EF5E83393C35E",
       "package": "libs"
     },
     {
       "path": "MixUp.exe",
-      "size": 38547928,
-      "sha256": "36EF7E74AB4A3D39E462F22899C75D1B0BA9570801FAAAD529F97F0303ABFE7F",
+      "size": 38593496,
+      "sha256": "50DE55B80DBF7BA21FE52C6A315718F6F43F8D142DDFFBC8EA3881A3ED75387D",
       "package": "libs"
     },
     {
@@ -2352,14 +2358,14 @@
     },
     {
       "path": "ugyzuwam.dll",
-      "size": 4445456,
-      "sha256": "C0447BECF0F31702161B2ED3C195CAEC102020C98478DA4A2E925BB2B9559641",
+      "size": 4586256,
+      "sha256": "76C0845B2704F1E034F98EFD0A482CDA7D01298A08B43D25272062C5911AE3CA",
       "package": "libs"
     },
     {
       "path": "ugyzuwam.x64",
       "size": 158480,
-      "sha256": "E92B153D30E643EDD859B63B1FCDB1AEF9F91AA1D5A5C6751B0FB0BF46381E7A",
+      "sha256": "FFEEC26DEFD61A742DA0A428B84504802E7C8C9E653C1E2A52B86C124E3FC88B",
       "package": "libs"
     }
   ],
@@ -2375,7 +2381,7 @@
       {
         "server": "yandex",
         "name": "Yandex Disk",
-        "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/SNNc6PHIiQ8FYQ",
+        "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/Gx2e_r7DtnhRWQ",
         "file": "MixUp 2.0.0.20 Setup.zip"
       }
     ]
