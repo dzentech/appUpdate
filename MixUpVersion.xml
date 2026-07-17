@@ -1,18 +1,7 @@
-<LATEST_RELEASE>1.9.2.5</LATEST_RELEASE>
-<RELEASE_LINK>https://www.dzentech.store/mixup-booth-support/tpost/vkbei94ae1-mixup-app-1925-update-gemini-30-pro</RELEASE_LINK>
+<LATEST_RELEASE>2.0.0.20</LATEST_RELEASE>
+<RELEASE_LINK>https://www.dzentech.store/download/</RELEASE_LINK>
+<MANIFEST>https://raw.githubusercontent.com/dzentech/appUpdate/main/manifest.json</MANIFEST>
 <Log>
-
-MixUp App 1.9.2.5 - Update Highlights
-
-- Added Gemini 3.0 Pro Ai render
-- Fixed remove items from Ai render queue
-- Optimized file upload to Ai render cloud
-- Fixed video chromakey rotate
-- Added splash screen on program shuttdown
-- Fixed load glambot scenes from import file
-- Canon cameras will now stop Live View on idle and start LV again on session start
-- Fixed mouse scroll on high resolution displays
-- Fixed some UI issues
-- Fixed DEMO mode launch
- 
+Meet MixUp 2.0 — our biggest update yet! 
+Featuring a completely redesigned interface and reimagined workflows for a faster, smoother, and more intuitive experience.
 </Log>
