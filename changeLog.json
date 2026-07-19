@@ -1,9 +1,13 @@
 {
-  "version": "2.0.0.20",
+  "version": "2.0.0.21",
   "defaultLocale": "en-US",
   "changes": {
     "en-US": [
-      "Meet MixUp 2.0 — our biggest update yet, featuring a completely redesigned interface and reimagined workflows for a faster, smoother, and more intuitive experience.",
+      "Improved GoPro connectivity and fixed connection issues.",
+      "Fixed saving of survey responses.",
+      "Fixed GoPro connections over Bluetooth Low Energy (BLE).",
+      "Fixed automatic Wi-Fi connection.",
+      "Meet the official release of MixUp 2.0 — our biggest update yet, featuring a completely redesigned interface and reimagined workflows for a faster, smoother, and more intuitive experience.",
       "Introducing Events: organize projects, content, and guest interactions more conveniently than ever.",
       "Surveys have been significantly improved, with new capabilities that make collecting and managing responses easier.",
       "Unlock more creative possibilities for photos and videos, including video format and resolution conversion.",
@@ -15,7 +19,11 @@
       "MixUp 2.0 is packed with thoughtful improvements across the entire app. Update now and discover a new way to create, manage, and share unforgettable experiences."
     ],
     "es-ES": [
-      "Descubre MixUp 2.0: nuestra mayor actualización hasta la fecha, con una interfaz completamente renovada y flujos de trabajo rediseñados para ofrecer una experiencia más rápida, fluida e intuitiva.",
+      "Mejorada la conexión con las cámaras GoPro y corregidos los problemas de conectividad.",
+      "Corregido el guardado de las respuestas de los cuestionarios.",
+      "Corregida la conexión de las cámaras GoPro mediante Bluetooth Low Energy (BLE).",
+      "Corregida la conexión automática a redes Wi-Fi.",
+      "Descubre el lanzamiento oficial de MixUp 2.0: nuestra mayor actualización hasta la fecha, con una interfaz completamente renovada y flujos de trabajo rediseñados para ofrecer una experiencia más rápida, fluida e intuitiva.",
       "Presentamos los Eventos: organiza proyectos, contenidos e interacciones con los invitados de forma más cómoda que nunca.",
       "Hemos mejorado notablemente las encuestas y añadido nuevas funciones para facilitar la recopilación y la gestión de respuestas.",
       "Disfruta de más posibilidades creativas para fotos y vídeos, incluida la conversión del formato y la resolución de vídeo.",
@@ -27,7 +35,11 @@
       "MixUp 2.0 está repleto de mejoras en toda la aplicación. Actualiza ahora y descubre una nueva forma de crear, gestionar y compartir experiencias inolvidables."
     ],
     "de-DE": [
-      "Entdecke MixUp 2.0 — unser bisher größtes Update mit einer vollständig neu gestalteten Benutzeroberfläche und überarbeiteten Abläufen für ein schnelleres, flüssigeres und intuitiveres Erlebnis.",
+      "Die Verbindung zu GoPro-Kameras wurde verbessert und Verbindungsprobleme wurden behoben.",
+      "Das Speichern von Umfrageantworten wurde korrigiert.",
+      "Die GoPro-Verbindung über Bluetooth Low Energy (BLE) wurde korrigiert.",
+      "Die automatische WLAN-Verbindung wurde korrigiert.",
+      "Der offizielle Release von MixUp 2.0 ist da — unser bisher größtes Update mit einer vollständig neu gestalteten Benutzeroberfläche und überarbeiteten Abläufen für ein schnelleres, flüssigeres und intuitiveres Erlebnis.",
       "Neu: Events. Organisiere Projekte, Inhalte und Interaktionen mit Gästen jetzt so komfortabel wie nie zuvor.",
       "Umfragen wurden umfassend verbessert und um neue Funktionen ergänzt, damit sich Antworten noch leichter erfassen und verwalten lassen.",
       "Nutze neue kreative Möglichkeiten für Fotos und Videos — einschließlich der Konvertierung von Videoformat und Auflösung.",
@@ -39,7 +51,11 @@
       "MixUp 2.0 steckt voller durchdachter Verbesserungen in der gesamten App. Jetzt aktualisieren und eine neue Art entdecken, unvergessliche Erlebnisse zu erstellen, zu verwalten und zu teilen."
     ],
     "fr-FR": [
-      "Découvrez MixUp 2.0, notre plus grande mise à jour à ce jour, avec une interface entièrement repensée et des mécanismes revisités pour une expérience plus rapide, plus fluide et plus intuitive.",
+      "La connexion aux caméras GoPro a été améliorée et les problèmes de connectivité ont été corrigés.",
+      "La sauvegarde des réponses aux questionnaires a été corrigée.",
+      "La connexion des caméras GoPro via Bluetooth Low Energy (BLE) a été corrigée.",
+      "La connexion automatique au Wi-Fi a été corrigée.",
+      "Découvrez la version officielle de MixUp 2.0, notre plus grande mise à jour à ce jour, avec une interface entièrement repensée et des mécanismes revisités pour une expérience plus rapide, plus fluide et plus intuitive.",
       "Découvrez les Événements : organisez vos projets, vos contenus et les interactions avec vos invités plus facilement que jamais.",
       "Les questionnaires ont été considérablement améliorés et enrichis de nouvelles fonctionnalités pour simplifier la collecte et la gestion des réponses.",
       "Profitez de possibilités créatives inédites pour vos photos et vidéos, notamment la conversion du format et de la résolution des vidéos.",
@@ -51,7 +67,11 @@
       "MixUp 2.0 regorge d'améliorations soigneusement pensées dans toute l'application. Mettez à jour dès maintenant et découvrez une nouvelle façon de créer, gérer et partager des expériences inoubliables."
     ],
     "it-IT": [
-      "Scopri MixUp 2.0, il nostro aggiornamento più importante di sempre, con un'interfaccia completamente rinnovata e flussi di lavoro riprogettati per un'esperienza più veloce, fluida e intuitiva.",
+      "Migliorata la connessione alle fotocamere GoPro e risolti i problemi di connettività.",
+      "Risolto il problema con il salvataggio delle risposte ai questionari.",
+      "Risolta la connessione delle fotocamere GoPro tramite Bluetooth Low Energy (BLE).",
+      "Risolta la connessione automatica alle reti Wi-Fi.",
+      "Scopri la versione ufficiale di MixUp 2.0, il nostro aggiornamento più importante di sempre, con un'interfaccia completamente rinnovata e flussi di lavoro riprogettati per un'esperienza più veloce, fluida e intuitiva.",
       "Arrivano gli Eventi: organizza progetti, contenuti e interazioni con gli ospiti in modo più semplice che mai.",
       "I questionari sono stati notevolmente migliorati e arricchiti con nuove funzioni che semplificano la raccolta e la gestione delle risposte.",
       "Scopri nuove possibilità creative per foto e video, inclusa la conversione del formato e della risoluzione video.",
@@ -63,7 +83,11 @@
       "MixUp 2.0 è ricco di miglioramenti studiati con cura in tutta l'app. Aggiorna ora e scopri un nuovo modo di creare, gestire e condividere esperienze indimenticabili."
     ],
     "pt-BR": [
-      "Conheça o MixUp 2.0 — nossa maior atualização até hoje, com uma interface totalmente renovada e fluxos de trabalho repensados para oferecer uma experiência mais rápida, fluida e intuitiva.",
+      "A conexão com câmeras GoPro foi aprimorada e os problemas de conectividade foram corrigidos.",
+      "Corrigido o salvamento das respostas dos questionários.",
+      "Corrigida a conexão de câmeras GoPro via Bluetooth Low Energy (BLE).",
+      "Corrigida a conexão automática a redes Wi-Fi.",
+      "Conheça o lançamento oficial do MixUp 2.0 — nossa maior atualização até hoje, com uma interface totalmente renovada e fluxos de trabalho repensados para oferecer uma experiência mais rápida, fluida e intuitiva.",
       "Apresentamos os Eventos: organize projetos, conteúdos e interações com convidados de um jeito mais prático do que nunca.",
       "Os questionários foram amplamente aprimorados e receberam novos recursos para facilitar a coleta e o gerenciamento de respostas.",
       "Explore novas possibilidades criativas para fotos e vídeos, incluindo a conversão de formato e resolução de vídeo.",
@@ -75,7 +99,11 @@
       "O MixUp 2.0 está repleto de melhorias cuidadosamente desenvolvidas em todo o aplicativo. Atualize agora e descubra uma nova maneira de criar, gerenciar e compartilhar experiências inesquecíveis."
     ],
     "pt-PT": [
-      "Descubra o MixUp 2.0 — a nossa maior atualização de sempre, com uma interface totalmente renovada e fluxos de trabalho repensados para proporcionar uma experiência mais rápida, fluida e intuitiva.",
+      "A ligação às câmaras GoPro foi melhorada e os problemas de conectividade foram corrigidos.",
+      "Corrigido o armazenamento das respostas aos questionários.",
+      "Corrigida a ligação das câmaras GoPro através de Bluetooth Low Energy (BLE).",
+      "Corrigida a ligação automática a redes Wi-Fi.",
+      "Descubra o lançamento oficial do MixUp 2.0 — a nossa maior atualização de sempre, com uma interface totalmente renovada e fluxos de trabalho repensados para proporcionar uma experiência mais rápida, fluida e intuitiva.",
       "Apresentamos os Eventos: organize projetos, conteúdos e interações com convidados de forma mais simples do que nunca.",
       "Os questionários foram significativamente melhorados e receberam novas funcionalidades para facilitar a recolha e a gestão de respostas.",
       "Explore novas possibilidades criativas para fotografias e vídeos, incluindo a conversão do formato e da resolução de vídeo.",
@@ -87,7 +115,11 @@
       "O MixUp 2.0 está repleto de melhorias cuidadosamente desenvolvidas em toda a aplicação. Atualize agora e descubra uma nova forma de criar, gerir e partilhar experiências inesquecíveis."
     ],
     "ru-RU": [
-      "Встречайте MixUp 2.0 — наше самое масштабное обновление! Полностью новый интерфейс и переосмысленные механики делают работу быстрее, удобнее и интуитивнее.",
+      "Улучшено подключение камер GoPro и исправлены связанные с ним ошибки.",
+      "Исправлено сохранение ответов в анкетах.",
+      "Исправлено подключение камер GoPro по Bluetooth Low Energy (BLE).",
+      "Исправлено автоматическое подключение к Wi-Fi.",
+      "Встречайте официальный релиз MixUp 2.0 — наше самое масштабное обновление! Полностью новый интерфейс и переосмысленные механики делают работу быстрее, удобнее и интуитивнее.",
       "Представляем «Ивенты»: организовывать проекты, контент и взаимодействие с гостями теперь проще, чем когда-либо.",
       "Работа с анкетами стала значительно удобнее, а новые возможности помогают быстрее собирать ответы и управлять ими.",
       "Раскройте больше творческих возможностей для фото и видео — теперь можно менять формат и разрешение видеороликов.",
@@ -101,5 +133,5 @@
   },
   "schema": 1,
   "app": "MixUp",
-  "releasedAt": "2026-07-17T20:25:50+00:00"
+  "releasedAt": "2026-07-19T17:12:07+00:00"
 }
