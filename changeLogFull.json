@@ -4,6 +4,36 @@
   "defaultLocale": "en-US",
   "releases": [
     {
+      "version": "2.0.0.22",
+      "changes": {
+        "en-US": [
+          "Improved automatic updates and added rollback on installation failure."
+        ],
+        "es-ES": [
+          "Mejorada la actualización automática y añadido el restablecimiento si falla la instalación."
+        ],
+        "de-DE": [
+          "Automatische Updates wurden verbessert und bei Installationsfehlern wird der vorherige Stand wiederhergestellt."
+        ],
+        "fr-FR": [
+          "Amélioration des mises à jour automatiques et ajout d'une restauration en cas d'échec de l'installation."
+        ],
+        "it-IT": [
+          "Migliorati gli aggiornamenti automatici e aggiunto il ripristino in caso di errore di installazione."
+        ],
+        "pt-BR": [
+          "A atualização automática foi aprimorada e agora reverte em caso de falha na instalação."
+        ],
+        "pt-PT": [
+          "A atualização automática foi melhorada e agora reverte em caso de falha na instalação."
+        ],
+        "ru-RU": [
+          "Улучшено автообновление и добавлен откат при ошибке установки."
+        ]
+      },
+      "releasedAt": "2026-07-19T20:30:25+00:00"
+    },
+    {
       "version": "2.0.0.21",
       "changes": {
         "en-US": [
