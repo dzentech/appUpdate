@@ -1,57 +1,33 @@
 {
-  "version": "2.0.0.21",
+  "version": "2.0.0.22",
   "defaultLocale": "en-US",
   "changes": {
     "en-US": [
-      "Improved GoPro connectivity and fixed connection issues.",
-      "Fixed saving of survey responses.",
-      "Fixed GoPro connections over Bluetooth Low Energy (BLE).",
-      "Fixed automatic Wi-Fi connection."
+      "Improved automatic updates and added rollback on installation failure."
     ],
     "es-ES": [
-      "Mejorada la conexión con las cámaras GoPro y corregidos los problemas de conectividad.",
-      "Corregido el guardado de las respuestas de los cuestionarios.",
-      "Corregida la conexión de las cámaras GoPro mediante Bluetooth Low Energy (BLE).",
-      "Corregida la conexión automática a redes Wi-Fi."
+      "Mejorada la actualización automática y añadido el restablecimiento si falla la instalación."
     ],
     "de-DE": [
-      "Die Verbindung zu GoPro-Kameras wurde verbessert und Verbindungsprobleme wurden behoben.",
-      "Das Speichern von Umfrageantworten wurde korrigiert.",
-      "Die GoPro-Verbindung über Bluetooth Low Energy (BLE) wurde korrigiert.",
-      "Die automatische WLAN-Verbindung wurde korrigiert."
+      "Automatische Updates wurden verbessert und bei Installationsfehlern wird der vorherige Stand wiederhergestellt."
     ],
     "fr-FR": [
-      "La connexion aux caméras GoPro a été améliorée et les problèmes de connectivité ont été corrigés.",
-      "La sauvegarde des réponses aux questionnaires a été corrigée.",
-      "La connexion des caméras GoPro via Bluetooth Low Energy (BLE) a été corrigée.",
-      "La connexion automatique au Wi-Fi a été corrigée."
+      "Amélioration des mises à jour automatiques et ajout d'une restauration en cas d'échec de l'installation."
     ],
     "it-IT": [
-      "Migliorata la connessione alle fotocamere GoPro e risolti i problemi di connettività.",
-      "Risolto il problema con il salvataggio delle risposte ai questionari.",
-      "Risolta la connessione delle fotocamere GoPro tramite Bluetooth Low Energy (BLE).",
-      "Risolta la connessione automatica alle reti Wi-Fi."
+      "Migliorati gli aggiornamenti automatici e aggiunto il ripristino in caso di errore di installazione."
     ],
     "pt-BR": [
-      "A conexão com câmeras GoPro foi aprimorada e os problemas de conectividade foram corrigidos.",
-      "Corrigido o salvamento das respostas dos questionários.",
-      "Corrigida a conexão de câmeras GoPro via Bluetooth Low Energy (BLE).",
-      "Corrigida a conexão automática a redes Wi-Fi."
+      "A atualização automática foi aprimorada e agora reverte em caso de falha na instalação."
     ],
     "pt-PT": [
-      "A ligação às câmaras GoPro foi melhorada e os problemas de conectividade foram corrigidos.",
-      "Corrigido o armazenamento das respostas aos questionários.",
-      "Corrigida a ligação das câmaras GoPro através de Bluetooth Low Energy (BLE).",
-      "Corrigida a ligação automática a redes Wi-Fi."
+      "A atualização automática foi melhorada e agora reverte em caso de falha na instalação."
     ],
     "ru-RU": [
-      "Улучшено подключение камер GoPro и исправлены связанные с ним ошибки.",
-      "Исправлено сохранение ответов в анкетах.",
-      "Исправлено подключение камер GoPro по Bluetooth Low Energy (BLE).",
-      "Исправлено автоматическое подключение к Wi-Fi."
+      "Улучшено автообновление и добавлен откат при ошибке установки."
     ]
   },
   "schema": 1,
   "app": "MixUp",
-  "releasedAt": "2026-07-19T17:34:27+00:00"
+  "releasedAt": "2026-07-19T20:30:25+00:00"
 }
