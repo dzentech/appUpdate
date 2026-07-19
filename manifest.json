@@ -2387,23 +2387,6 @@
       "package": "main"
     }
   ],
-  "setup": {
-    "file": "MixUp 2.0.0.21 Setup.exe",
-    "urls": [
-      {
-        "server": "dropbox",
-        "name": "Dropbox",
-        "url": "https://www.dropbox.com/scl/fi/tzixs3q6i319nnr6o2390/MixUp-2.0.0.21-Setup.exe?rlkey=krm4072lekaee69t7184k8ifd&dl=1",
-        "file": "MixUp 2.0.0.21 Setup.exe"
-      },
-      {
-        "server": "yandex",
-        "name": "Yandex Disk",
-        "url": "https://yadi.sk/d/0zO6QMbhlHF8AA",
-        "file": "MixUp 2.0.0.21 Setup.exe"
-      }
-    ]
-  },
   "changelog_url": "https://raw.githubusercontent.com/dzentech/appUpdate/main/changeLog.json",
   "changelog_full_url": "https://raw.githubusercontent.com/dzentech/appUpdate/main/changeLogFull.json"
 }
