@@ -4,6 +4,44 @@
   "defaultLocale": "en-US",
   "releases": [
     {
+      "version": "2.0.0.23",
+      "changes": {
+        "en-US": [
+          "Fixed event export.",
+          "Fixed a crash when launching MixUp after connecting to a GoPro via Bluetooth Low Energy (BLE)."
+        ],
+        "es-ES": [
+          "Corregida la exportación de eventos.",
+          "Corregido un cierre inesperado al iniciar MixUp después de conectarse a una GoPro mediante Bluetooth Low Energy (BLE)."
+        ],
+        "de-DE": [
+          "Der Export von Events wurde korrigiert.",
+          "Ein Absturz beim Start von MixUp nach der Verbindung mit einer GoPro über Bluetooth Low Energy (BLE) wurde behoben."
+        ],
+        "fr-FR": [
+          "Correction de l'exportation des événements.",
+          "Correction d'un plantage au démarrage de MixUp après la connexion à une GoPro via Bluetooth Low Energy (BLE)."
+        ],
+        "it-IT": [
+          "Risolta l'esportazione degli eventi.",
+          "Risolto un arresto anomalo all'avvio di MixUp dopo la connessione a una GoPro tramite Bluetooth Low Energy (BLE)."
+        ],
+        "pt-BR": [
+          "Corrigida a exportação de eventos.",
+          "Corrigida uma falha ao iniciar o MixUp após a conexão com uma GoPro via Bluetooth Low Energy (BLE)."
+        ],
+        "pt-PT": [
+          "Corrigida a exportação de eventos.",
+          "Corrigida uma falha ao iniciar o MixUp após a ligação a uma GoPro através de Bluetooth Low Energy (BLE)."
+        ],
+        "ru-RU": [
+          "Исправлен экспорт ивентов.",
+          "Исправлен вылет при запуске MixUp после подключения к GoPro по Bluetooth Low Energy (BLE)."
+        ]
+      },
+      "releasedAt": "2026-07-21T19:28:45+00:00"
+    },
+    {
       "version": "2.0.0.22",
       "changes": {
         "en-US": [
