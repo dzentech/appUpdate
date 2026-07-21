@@ -1,6 +1,6 @@
 {
   "app": "MixUp",
-  "version": "2.0.0.22",
+  "version": "2.0.0.23",
   "packages": [
     {
       "name": "aModels",
@@ -11,12 +11,12 @@
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/1xy41ksyq9x9a4q02el2f/aModels.upload?rlkey=xml7o631meugzzmxf8f09oo3u&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/qr1epuiggik6u9zt1h4io/aModels.upload?rlkey=c2rq1tp6e37jdxz1t56zhojz9&dl=1"
         },
         {
           "server": "yandex",
           "name": "Yandex Disk",
-          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/hOTYhDOctfKtIw"
+          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/0AtiTm1ZK0rVKA"
         }
       ]
     },
@@ -29,12 +29,12 @@
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/o5lqsdslwwqhw9atx0xnf/Apps.upload?rlkey=2dttn4uugf0tij81f1yqk6tvw&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/cf3vuefr1s6gyhf2gmsi7/Apps.upload?rlkey=tklhdjrli700blpuafelido5f&dl=1"
         },
         {
           "server": "yandex",
           "name": "Yandex Disk",
-          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/Q4WI0JdJYff36g"
+          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/blo7uxFqSxXJXg"
         }
       ]
     },
@@ -47,48 +47,48 @@
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/38k75w179vsm74132eupt/libs.upload?rlkey=3d87vcakix6moonjqwcqcybcc&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/f9j3uf6kvo3av75m6nalt/libs.upload?rlkey=c6y54tsvquh95fr756x316754&dl=1"
         },
         {
           "server": "yandex",
           "name": "Yandex Disk",
-          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/BjhZAt3xNdR2tw"
+          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/rssrLVnyj-OT8g"
         }
       ]
     },
     {
       "name": "Localization",
       "file": "Localization.upload",
-      "size": 676680,
-      "sha256": "8B55658BCC7457E08D44D54E0228001C0D1A5BF75298AA49457B5FD49890E1AC",
+      "size": 677437,
+      "sha256": "9601E924DF8CE1AE6FBDD72865530581331FE4E4B7325148C629526EF8C7A0C7",
       "urls": [
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/289ggnfbjcs7or4lqmkpz/Localization.upload?rlkey=2shf7t96vllropcl58h9ukshh&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/4mgwidqd8fyoaw3g2fyhz/Localization.upload?rlkey=mnvck4domvebsb9h3z31nvron&dl=1"
         },
         {
           "server": "yandex",
           "name": "Yandex Disk",
-          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/qjzwSohjJyAjaw"
+          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/P1WsIfSUJ5uG2g"
         }
       ]
     },
     {
       "name": "main",
       "file": "main.upload",
-      "size": 17880974,
-      "sha256": "860A672FD97E865F38BEF59779DD2D6AB7ED359D113D7A47F0B3FAAA8FEF9FA7",
+      "size": 17886820,
+      "sha256": "F0576D46F32FDB178FF4F964FBBD297385FDFC9F2922D3D902F42751E7D46D26",
       "urls": [
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/cvwctx0o56gjn1rdr5vrp/main.upload?rlkey=q8buzwgqp8xvmfx6u1zike211&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/bg7ln661gbkfrhx4hj66o/main.upload?rlkey=mb6oy2rhe8da3v9tjia73s65v&dl=1"
         },
         {
           "server": "yandex",
           "name": "Yandex Disk",
-          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/wDYtzGzktzRScw"
+          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/1yi7IJ0NgOtp3A"
         }
       ]
     },
@@ -101,12 +101,12 @@
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/5kznigvay1vg2o6s5kom3/UI.upload?rlkey=57x7s73m59ing3f3rtmxaj4c9&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/inmdzz7pf8hyimz8m2v2c/UI.upload?rlkey=g3y5bidv5f99s94ygcb4o79id&dl=1"
         },
         {
           "server": "yandex",
           "name": "Yandex Disk",
-          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/yMYUl9-LGkQw1g"
+          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/y7aNcbIbOd94gw"
         }
       ]
     }
@@ -174,8 +174,8 @@
     },
     {
       "path": "data/System/Localization/de-DE/Localization.xml",
-      "size": 85516,
-      "sha256": "6B60F727429E4897F502D5C5590C685A7030E99B5E1762E76E27A9D218FF0EFA",
+      "size": 85989,
+      "sha256": "C08C86A661DDE3D951583DBED8AC9DA2B2671C8BC8EFE46197890F114E3C0995",
       "package": "Localization"
     },
     {
@@ -204,8 +204,8 @@
     },
     {
       "path": "data/System/Localization/es-ES/Localization.xml",
-      "size": 86273,
-      "sha256": "244A36F3B346263AF11DF2742CE23800673D9605778F05A4B9A981205E713ECA",
+      "size": 86766,
+      "sha256": "DD03DEA474CAE36B59F29B4035F28FC596C86F89D5F8A1F8A3C20B23E919D167",
       "package": "Localization"
     },
     {
@@ -222,8 +222,8 @@
     },
     {
       "path": "data/System/Localization/fr-FR/Localization.xml",
-      "size": 87574,
-      "sha256": "4EEA3C763119418D869C9DAD9B239EA62B90F9ACA6355E72E64AAF8C51D4FCFE",
+      "size": 88085,
+      "sha256": "821125A24C7C8BA530A58953CD1988EC862D1716F28DBAFA53CB1224564CF9C6",
       "package": "Localization"
     },
     {
@@ -234,8 +234,8 @@
     },
     {
       "path": "data/System/Localization/helpLinksWarn.xml",
-      "size": 192,
-      "sha256": "FCC4819ED96F57EB97533FE893678EEBB4636FDE5BDA046108678FD5E99EF97A",
+      "size": 56,
+      "sha256": "DA72E505674CF8D6978475F1E890B0D698A5C9805667A9E33C64992D66222380",
       "package": "Localization"
     },
     {
@@ -252,8 +252,8 @@
     },
     {
       "path": "data/System/Localization/it-IT/Localization.xml",
-      "size": 84748,
-      "sha256": "90402C47246D70208F095C9FF1478179FD83BE4DB2D1AB4E0CAF7300EBC2277C",
+      "size": 85237,
+      "sha256": "6FD0EBAE335C75E32535FDCD9E2701A023C2E91ABC240CE2D19E101A3C41CFB2",
       "package": "Localization"
     },
     {
@@ -276,8 +276,8 @@
     },
     {
       "path": "data/System/Localization/pt-BR/Localization.xml",
-      "size": 86174,
-      "sha256": "F4B495EE9B2E674F4A07F96CF0BD14305752FB8428967E7BF2D9D0580077B2EA",
+      "size": 86673,
+      "sha256": "56FCA108A7051AED019E6E3B7952788927D82B5A6DAF7C20EF8EE68563E6B796",
       "package": "Localization"
     },
     {
@@ -294,8 +294,8 @@
     },
     {
       "path": "data/System/Localization/pt-PT/Localization.xml",
-      "size": 86319,
-      "sha256": "4B03EEBEFACD1B4F2115496FFF7604B914F4882A3665BEC2C484C881F17074AF",
+      "size": 86817,
+      "sha256": "7EBE73B36B958AB7526FAC3A99FBFE1E4FF192C87BAA16D90CC11A55DDD540D4",
       "package": "Localization"
     },
     {
@@ -312,8 +312,8 @@
     },
     {
       "path": "data/System/Localization/ru-RU/Localization.xml",
-      "size": 100580,
-      "sha256": "5E8FD6DC21EE47AF186D97C7CBFEA67D8BE5B806BD18A57568434AD1DE78492C",
+      "size": 101183,
+      "sha256": "238E7658949AFAD84ABC36C83259F2E1BC05E173467069F1ED8483DB6AC91BFE",
       "package": "Localization"
     },
     {
@@ -2341,13 +2341,13 @@
     {
       "path": "License Manager.exe",
       "size": 2120720,
-      "sha256": "C26C5B3719FCE9209418BE36975AA9AE672DE0FB50051F6D9A4E8C234E709388",
+      "sha256": "9FA1280766641764A12BA74BCF4FF6AE6BF5776CB3CFEA7846780198C9467A64",
       "package": "main"
     },
     {
       "path": "MixUp.exe",
-      "size": 38738904,
-      "sha256": "C9D631191F90C9AC4B178981DA0E88076F7FA553A97F35229020FAAF5F6B55F6",
+      "size": 38748592,
+      "sha256": "96DAD6A16A88B5D21B639841E565A84F4F4F6D2FF98668021F8A504893532797",
       "package": "main"
     },
     {
@@ -2376,14 +2376,14 @@
     },
     {
       "path": "ugyzuwam.dll",
-      "size": 4439312,
-      "sha256": "C813DFAD7A3CCA522A8F4B715D6E773C94BFB694E2E71D60471D5B53EFAF6F25",
+      "size": 4433680,
+      "sha256": "16A764020ABE56BF870AF6CD6A22723D03A26CEBEEECBB506ADC528C302B5A85",
       "package": "main"
     },
     {
       "path": "ugyzuwam.x64",
       "size": 158480,
-      "sha256": "CE2B8AB72BA355A409FC3B410F2C5E96124492C9A208C8E033315DB401274E73",
+      "sha256": "6F05FFC012D56EE990529D1A2043FE6FBB0C559AD3DACA43B7A16870BA551427",
       "package": "main"
     }
   ],
