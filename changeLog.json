@@ -1,41 +1,41 @@
 {
-  "version": "2.0.0.23",
+  "version": "2.0.0.24",
   "defaultLocale": "en-US",
   "changes": {
     "en-US": [
-      "Fixed event export.",
-      "Fixed a crash when launching MixUp after connecting to a GoPro via Bluetooth Low Energy (BLE)."
+      "Payments: Added receipt delivery verification with automatic retries when sending fails.",
+      "Payments: Added an additional payment settings validation and terminal error checks."
     ],
     "es-ES": [
-      "Corregida la exportación de eventos.",
-      "Corregido un cierre inesperado al iniciar MixUp después de conectarse a una GoPro mediante Bluetooth Low Energy (BLE)."
+      "Pagos: Añadida la verificación del envío de recibos y los reintentos automáticos en caso de error.",
+      "Pagos: Añadida una comprobación adicional de la configuración de pago y la detección de errores del terminal."
     ],
     "de-DE": [
-      "Der Export von Events wurde korrigiert.",
-      "Ein Absturz beim Start von MixUp nach der Verbindung mit einer GoPro über Bluetooth Low Energy (BLE) wurde behoben."
+      "Zahlungen: Die Belegübermittlung wird jetzt geprüft und bei Fehlern automatisch wiederholt.",
+      "Zahlungen: Zusätzliche Prüfung der Zahlungseinstellungen und Erkennung von Terminalfehlern hinzugefügt."
     ],
     "fr-FR": [
-      "Correction de l'exportation des événements.",
-      "Correction d'un plantage au démarrage de MixUp après la connexion à une GoPro via Bluetooth Low Energy (BLE)."
+      "Paiements : ajout de la vérification de l'envoi des reçus et de nouvelles tentatives automatiques en cas d'échec.",
+      "Paiements : ajout d'une vérification supplémentaire des paramètres de paiement et des erreurs du terminal."
     ],
     "it-IT": [
-      "Risolta l'esportazione degli eventi.",
-      "Risolto un arresto anomalo all'avvio di MixUp dopo la connessione a una GoPro tramite Bluetooth Low Energy (BLE)."
+      "Pagamenti: aggiunta la verifica dell'invio delle ricevute e nuovi tentativi automatici in caso di errore.",
+      "Pagamenti: aggiunti un controllo supplementare delle impostazioni di pagamento e la verifica degli errori del terminale."
     ],
     "pt-BR": [
-      "Corrigida a exportação de eventos.",
-      "Corrigida uma falha ao iniciar o MixUp após a conexão com uma GoPro via Bluetooth Low Energy (BLE)."
+      "Pagamentos: Adicionada a verificação do envio de recibos e novas tentativas automáticas em caso de falha.",
+      "Pagamentos: Adicionadas uma validação extra das configurações de pagamento e a verificação de erros do terminal."
     ],
     "pt-PT": [
-      "Corrigida a exportação de eventos.",
-      "Corrigida uma falha ao iniciar o MixUp após a ligação a uma GoPro através de Bluetooth Low Energy (BLE)."
+      "Pagamentos: Adicionada a verificação do envio de recibos e novas tentativas automáticas em caso de falha.",
+      "Pagamentos: Adicionadas uma validação adicional das definições de pagamento e a verificação de erros do terminal."
     ],
     "ru-RU": [
-      "Исправлен экспорт ивентов.",
-      "Исправлен вылет при запуске MixUp после подключения к GoPro по Bluetooth Low Energy (BLE)."
+      "Платежи: добавлена проверка отправки чека и автоматические повторные попытки при неудаче.",
+      "Платежи: добавлена дополнительная проверка настроек оплаты и ошибок терминала."
     ]
   },
   "schema": 1,
   "app": "MixUp",
-  "releasedAt": "2026-07-21T19:46:32+00:00"
+  "releasedAt": "2026-07-22T16:09:39+00:00"
 }
