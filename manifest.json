@@ -1,6 +1,6 @@
 {
   "app": "MixUp",
-  "version": "2.0.0.24",
+  "version": "2.0.0.26",
   "packages": [
     {
       "name": "aModels",
@@ -11,12 +11,12 @@
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/edyppefwnbnf9g5mo4u16/aModels.upload?rlkey=nedh1jlmqtd6e02dt7gdpjbsg&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/i9i56r7rcxv0p28s3w48m/aModels.upload?rlkey=75r88xnsf55qutohad7wubwqc&dl=1"
         },
         {
           "server": "yandex",
           "name": "Yandex Disk",
-          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/p_QED23aNo5LiA"
+          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/x7_69NLv3Cet7g"
         }
       ]
     },
@@ -29,12 +29,12 @@
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/ae7hr8otasrl3ogvl1x1v/Apps.upload?rlkey=zz6n1u8qrw1ihdj2jgakn0inr&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/h3i96zax5sb44bc2d93v9/Apps.upload?rlkey=x7b8kr47mduiko6mxzxqhq4j4&dl=1"
         },
         {
           "server": "yandex",
           "name": "Yandex Disk",
-          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/ouaWwHx1d2Hs8w"
+          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/cLKfAtYGBn1fsA"
         }
       ]
     },
@@ -47,48 +47,48 @@
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/di3il3uxwmpgymaageb1z/libs.upload?rlkey=pqudzxtmqev3iu4jpaugc4zrj&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/60tlmd5r4scdyidor9jpz/libs.upload?rlkey=4s0y7f0r3293vrbjtk0719rao&dl=1"
         },
         {
           "server": "yandex",
           "name": "Yandex Disk",
-          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/Wwr0mUv2gE03mw"
+          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/ge8WNjrXtSubuw"
         }
       ]
     },
     {
       "name": "Localization",
       "file": "Localization.upload",
-      "size": 677290,
-      "sha256": "A5C42C9DEA765FAA99124F1A111AE0588D165A6745A2CE64B00AF3C0B6D5F20C",
+      "size": 680323,
+      "sha256": "122DDC77484FF4E342ED744A1DE3C619811C737350CCA9E78223CE9C1EE5423D",
       "urls": [
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/aydrpquc8blibaf4gyi1d/Localization.upload?rlkey=cork5f14sz9xa3ntm61wck7l8&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/hi97odq5zlqvweqyzaf53/Localization.upload?rlkey=2dn43jiseqoghnpck4eu3reao&dl=1"
         },
         {
           "server": "yandex",
           "name": "Yandex Disk",
-          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/7KoLak7RkKFD0Q"
+          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/kj3s2Yi_2yW_Dg"
         }
       ]
     },
     {
       "name": "main",
       "file": "main.upload",
-      "size": 18043828,
-      "sha256": "A78C524A4C6D671FC799C5089016F50100D9942E29F9BDA4F5EBBE6B662BC22B",
+      "size": 18271589,
+      "sha256": "EAD96DD19EA0FA7A71C8E5BCD52368270B916F8BB5916B5DC15D0B90FC7F457A",
       "urls": [
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/c4v1erqrroe1pggyu90ee/main.upload?rlkey=wd5sss4aag7hzfjesk7n64n9c&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/kd8t95ju6krdpeh4jwl89/main.upload?rlkey=82c5qdebde65yz9fpomdex2jy&dl=1"
         },
         {
           "server": "yandex",
           "name": "Yandex Disk",
-          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/uXB8CucTGNklGA"
+          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/YrA3Qrb85rjbXQ"
         }
       ]
     },
@@ -101,12 +101,12 @@
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/v1a0hs6janun9eq198hoo/UI.upload?rlkey=5lyavonaujusjdxdiw0sso6q9&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/wt84qr3sigs0in35hfhy5/UI.upload?rlkey=iumardy26t9o0tz0l6a8zb2ew&dl=1"
         },
         {
           "server": "yandex",
           "name": "Yandex Disk",
-          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/ZcT9Z8wEmagh8A"
+          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/IFYsg5E_gJ-tzw"
         }
       ]
     }
@@ -174,8 +174,8 @@
     },
     {
       "path": "data/System/Localization/de-DE/Localization.xml",
-      "size": 86044,
-      "sha256": "FBA0B462EB45D7F89ACFED3880898D10BEE4BD881F8F974D06D2450F6C75A0C8",
+      "size": 87317,
+      "sha256": "A83878916D44BB1A27914E1FB86EAB296A57B3EBE8170B511E11814145D3753A",
       "package": "Localization"
     },
     {
@@ -204,8 +204,8 @@
     },
     {
       "path": "data/System/Localization/es-ES/Localization.xml",
-      "size": 86817,
-      "sha256": "DB8ADB363F325188E710566C0C83FC27D170D922DDDBED7B82C79F0F04347EDC",
+      "size": 88046,
+      "sha256": "FFEF0E32B3CCE4C580536CE2F447FD8068501635090BBA1590194E09417C7763",
       "package": "Localization"
     },
     {
@@ -222,20 +222,14 @@
     },
     {
       "path": "data/System/Localization/fr-FR/Localization.xml",
-      "size": 88140,
-      "sha256": "43B908921A8B5E770FD59180CBFCA6BBB2BA7C0086A9D7158167DB424DC7D954",
+      "size": 89411,
+      "sha256": "0636B44283187C764DEB618B379E8B7A2B777C31A90BC2FC6359FE47C86230DE",
       "package": "Localization"
     },
     {
       "path": "data/System/Localization/helpLinks.xml",
       "size": 1829,
       "sha256": "99D5B6E4811B71055E7187447B46275CA295E3FDACBB6827B30EB486EF85FB7E",
-      "package": "Localization"
-    },
-    {
-      "path": "data/System/Localization/helpLinksWarn.xml",
-      "size": 56,
-      "sha256": "FC37AEDA8736D77F8C0751A0C689135E7DF8AE2D3558B8899AD246379F10B89A",
       "package": "Localization"
     },
     {
@@ -252,8 +246,8 @@
     },
     {
       "path": "data/System/Localization/it-IT/Localization.xml",
-      "size": 85292,
-      "sha256": "2E64F2A0EC5A6818E37FBF8F2A756B51D18FF424DDA3067FCC991D63532A145E",
+      "size": 86524,
+      "sha256": "C3C53529C879ED85DB617A4C356135F3447055ED4F467AA51FC510A15558971A",
       "package": "Localization"
     },
     {
@@ -276,8 +270,8 @@
     },
     {
       "path": "data/System/Localization/pt-BR/Localization.xml",
-      "size": 86729,
-      "sha256": "1B294C2D1258E4CAD96F2EF00B7329C067A401D7D874ABBEE42293AEB924A161",
+      "size": 87980,
+      "sha256": "12EA008CDD2BDF2F1769C55988C91C2F1915422AE148295309C14CF5C72AC247",
       "package": "Localization"
     },
     {
@@ -294,8 +288,8 @@
     },
     {
       "path": "data/System/Localization/pt-PT/Localization.xml",
-      "size": 86873,
-      "sha256": "A0DD2248E27229C42A2FCC991897531AED22E7F61D96B723D051A2F81B17933C",
+      "size": 88126,
+      "sha256": "90E55E0FFC6C9B3590DBA17B5FA7963FE7305AE06D734B817D814744460127AE",
       "package": "Localization"
     },
     {
@@ -312,8 +306,14 @@
     },
     {
       "path": "data/System/Localization/ru-RU/Localization.xml",
-      "size": 101238,
-      "sha256": "F931C8E8E3E6BDD767532016A518EA61EAC16CA2F1FBB80BB86604D5EBF5269B",
+      "size": 102784,
+      "sha256": "8C633F2671D8D086000730C18866124608B2533A942A0C99701F6C763A9E3D63",
+      "package": "Localization"
+    },
+    {
+      "path": "data/System/Localization/ru-RU/Not_localized.xml",
+      "size": 1216,
+      "sha256": "4633F718B148129CD0F84A389F7AAA1B443EA385F45D4B4E3EE7C3C2F207D93D",
       "package": "Localization"
     },
     {
@@ -2335,13 +2335,19 @@
     {
       "path": "License Manager.exe",
       "size": 2120720,
-      "sha256": "DA40815420E18E2FBC98E0F44C82E9439AB5488AB3E1B3EFF8C91E216235AF3E",
+      "sha256": "CF44DF90B5DA9ADD069CBE27FC9744F596E4DDB5F0F763EBA4B6808279866AD6",
       "package": "main"
     },
     {
       "path": "MixUp.exe",
-      "size": 38799320,
-      "sha256": "2EA8852031E38FDC339DAE8AE96B5CA3F819971F1BAD96DA52B8B1B075AC5B2D",
+      "size": 39106520,
+      "sha256": "F5FAF3E6AA834676B8A30C4A2BE0AA6F42B4A224DA9930DAA2C217C0D62040F4",
+      "package": "main"
+    },
+    {
+      "path": "MixUpWatchdog.exe",
+      "size": 568320,
+      "sha256": "2D8D57DF06D0F45CC14628BA958E59432CCC1207F4812BE8D0D7C5C789ABAFA4",
       "package": "main"
     },
     {
@@ -2370,14 +2376,14 @@
     },
     {
       "path": "ugyzuwam.dll",
-      "size": 4662544,
-      "sha256": "796862BBB748AF339BB5A517DC41BDF10AEF498614AAD46CFA5EBF90E1E5267D",
+      "size": 4521232,
+      "sha256": "C49A9FEC0E23BA55CD24FDE9C87B12229695E6ABF05BF9DA58FEABE3C04921F3",
       "package": "main"
     },
     {
       "path": "ugyzuwam.x64",
       "size": 158480,
-      "sha256": "4E3DCB343E19F90AA67E8AF1769EA79FD4B518765DE99D0570774CC56CD47E25",
+      "sha256": "2CCD94F173A3CE8D908BF7C2179AE82633958E080F0CC6D654D10AFFA359B3D5",
       "package": "main"
     }
   ],
