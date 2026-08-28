@@ -1,41 +1,81 @@
 {
-  "version": "2.0.0.24",
+  "version": "2.0.0.26",
   "defaultLocale": "en-US",
   "changes": {
     "en-US": [
-      "Payments: Added receipt delivery verification with automatic retries when sending fails.",
-      "Payments: Added an additional payment settings validation and terminal error checks."
+      "Improved event data reliability and the import and export of events, projects, and templates, including MixUp 1.x formats.",
+      "Fixed missing photo templates and improved the transfer of related AI templates.",
+      "Improved AI processing stability, image loading, retries, and job queue handling.",
+      "Improved Canon and GoPro connection, reconnection, and Live View reliability.",
+      "Restored email delivery and support for HTML email templates.",
+      "Improved hotspot, local Web Gallery, QR links, chroma key overlays, and the GlamBot editor.",
+      "Improved performance, crash recovery, and diagnostics, with fixes for freezes and unexpected shutdowns."
     ],
     "es-ES": [
-      "Pagos: Añadida la verificación del envío de recibos y los reintentos automáticos en caso de error.",
-      "Pagos: Añadida una comprobación adicional de la configuración de pago y la detección de errores del terminal."
+      "Mejorada la fiabilidad de los datos de eventos y la importación y exportación de eventos, proyectos y plantillas, incluidos los formatos de MixUp 1.x.",
+      "Corregida la pérdida de plantillas fotográficas y mejorada la transferencia de las plantillas de IA relacionadas.",
+      "Mejorada la estabilidad del procesamiento con IA, la carga de imágenes, los reintentos y la gestión de la cola de tareas.",
+      "Mejoradas la conexión, la reconexión y la fiabilidad de Live View para cámaras Canon y GoPro.",
+      "Restaurado el envío de correos electrónicos y la compatibilidad con plantillas HTML.",
+      "Mejorados el punto de acceso, la Web Gallery local, los enlaces QR, las superposiciones de croma y el editor de GlamBot.",
+      "Mejorados el rendimiento, la recuperación tras fallos y el diagnóstico, con correcciones para bloqueos y cierres inesperados."
     ],
     "de-DE": [
-      "Zahlungen: Die Belegübermittlung wird jetzt geprüft und bei Fehlern automatisch wiederholt.",
-      "Zahlungen: Zusätzliche Prüfung der Zahlungseinstellungen und Erkennung von Terminalfehlern hinzugefügt."
+      "Die Zuverlässigkeit von Event-Daten sowie der Import und Export von Events, Projekten und Vorlagen wurden verbessert, einschließlich MixUp-1.x-Formaten.",
+      "Fehlende Fotovorlagen wurden behoben und die Übertragung zugehöriger KI-Vorlagen wurde verbessert.",
+      "Die Stabilität der KI-Verarbeitung, das Laden von Bildern, Wiederholungsversuche und die Auftragswarteschlange wurden verbessert.",
+      "Verbindung, Wiederverbindung und Live View für Canon- und GoPro-Kameras funktionieren jetzt zuverlässiger.",
+      "Der E-Mail-Versand und die Unterstützung für HTML-E-Mail-Vorlagen wurden wiederhergestellt.",
+      "Hotspot, lokale Web Gallery, QR-Links, Chroma-Key-Überlagerungen und der GlamBot-Editor wurden verbessert.",
+      "Leistung, Wiederherstellung nach Abstürzen und Diagnose wurden verbessert sowie Einfrieren und unerwartete Programmabbrüche behoben."
     ],
     "fr-FR": [
-      "Paiements : ajout de la vérification de l'envoi des reçus et de nouvelles tentatives automatiques en cas d'échec.",
-      "Paiements : ajout d'une vérification supplémentaire des paramètres de paiement et des erreurs du terminal."
+      "Amélioration de la fiabilité des données d'événements ainsi que de l'importation et de l'exportation des événements, projets et modèles, y compris les formats MixUp 1.x.",
+      "Correction de la perte de modèles photo et amélioration du transfert des modèles d'IA associés.",
+      "Amélioration de la stabilité du traitement par IA, du chargement des images, des nouvelles tentatives et de la gestion de la file d'attente.",
+      "Amélioration de la connexion, de la reconnexion et de la fiabilité du Live View pour les appareils Canon et GoPro.",
+      "Rétablissement de l'envoi des e-mails et de la prise en charge des modèles HTML.",
+      "Amélioration du point d'accès, de la Web Gallery locale, des liens QR, des incrustations chroma key et de l'éditeur GlamBot.",
+      "Amélioration des performances, de la récupération après incident et des diagnostics, avec des corrections des blocages et fermetures inattendues."
     ],
     "it-IT": [
-      "Pagamenti: aggiunta la verifica dell'invio delle ricevute e nuovi tentativi automatici in caso di errore.",
-      "Pagamenti: aggiunti un controllo supplementare delle impostazioni di pagamento e la verifica degli errori del terminale."
+      "Migliorata l'affidabilità dei dati degli eventi e l'importazione ed esportazione di eventi, progetti e modelli, inclusi i formati MixUp 1.x.",
+      "Risolta la perdita dei modelli fotografici e migliorato il trasferimento dei relativi modelli IA.",
+      "Migliorata la stabilità dell'elaborazione IA, del caricamento delle immagini, dei nuovi tentativi e della gestione della coda dei processi.",
+      "Migliorate la connessione, la riconnessione e l'affidabilità di Live View per le fotocamere Canon e GoPro.",
+      "Ripristinati l'invio delle email e il supporto dei modelli email HTML.",
+      "Migliorati l'hotspot, la Web Gallery locale, i link QR, le sovrapposizioni chroma key e l'editor GlamBot.",
+      "Migliorate le prestazioni, il ripristino dopo gli arresti anomali e la diagnostica, con correzioni per blocchi e chiusure impreviste."
     ],
     "pt-BR": [
-      "Pagamentos: Adicionada a verificação do envio de recibos e novas tentativas automáticas em caso de falha.",
-      "Pagamentos: Adicionadas uma validação extra das configurações de pagamento e a verificação de erros do terminal."
+      "Aprimorada a confiabilidade dos dados de eventos e da importação e exportação de eventos, projetos e modelos, incluindo formatos do MixUp 1.x.",
+      "Corrigida a perda de modelos de foto e aprimorada a transferência dos modelos de IA relacionados.",
+      "Aprimorada a estabilidade do processamento por IA, do carregamento de imagens, das novas tentativas e da fila de tarefas.",
+      "Aprimoradas a conexão, a reconexão e a confiabilidade do Live View para câmeras Canon e GoPro.",
+      "Restaurados o envio de emails e o suporte a modelos HTML de email.",
+      "Aprimorados o ponto de acesso, a Web Gallery local, os links QR, as sobreposições de chroma key e o editor do GlamBot.",
+      "Aprimorados o desempenho, a recuperação após falhas e os diagnósticos, com correções para travamentos e encerramentos inesperados."
     ],
     "pt-PT": [
-      "Pagamentos: Adicionada a verificação do envio de recibos e novas tentativas automáticas em caso de falha.",
-      "Pagamentos: Adicionadas uma validação adicional das definições de pagamento e a verificação de erros do terminal."
+      "Melhorada a fiabilidade dos dados de eventos e da importação e exportação de eventos, projetos e modelos, incluindo formatos do MixUp 1.x.",
+      "Corrigida a perda de modelos de fotografia e melhorada a transferência dos modelos de IA associados.",
+      "Melhorada a estabilidade do processamento por IA, do carregamento de imagens, das novas tentativas e da fila de tarefas.",
+      "Melhoradas a ligação, a nova ligação e a fiabilidade do Live View para câmaras Canon e GoPro.",
+      "Restabelecidos o envio de emails e o suporte para modelos HTML de email.",
+      "Melhorados o ponto de acesso, a Web Gallery local, as ligações QR, as sobreposições de chroma key e o editor GlamBot.",
+      "Melhorados o desempenho, a recuperação após falhas e os diagnósticos, com correções para bloqueios e encerramentos inesperados."
     ],
     "ru-RU": [
-      "Платежи: добавлена проверка отправки чека и автоматические повторные попытки при неудаче.",
-      "Платежи: добавлена дополнительная проверка настроек оплаты и ошибок терминала."
+      "Повышена надёжность данных ивентов, а также импорта и экспорта ивентов, проектов и шаблонов, включая форматы MixUp 1.x.",
+      "Исправлена потеря фотошаблонов и улучшен перенос связанных ИИ-шаблонов.",
+      "Повышена стабильность ИИ-обработки, загрузки изображений, повторных попыток и очереди заданий.",
+      "Улучшены подключение, переподключение и стабильность Live View для камер Canon и GoPro.",
+      "Восстановлена отправка email и поддержка HTML-шаблонов писем.",
+      "Улучшена работа точки доступа, локальной Web Gallery, QR-ссылок, наложений хромакея и редактора GlamBot.",
+      "Повышена производительность, улучшены восстановление после сбоев и диагностика, исправлены зависания и аварийные завершения."
     ]
   },
   "schema": 1,
   "app": "MixUp",
-  "releasedAt": "2026-07-22T16:09:39+00:00"
+  "releasedAt": "2026-08-28T16:09:05+00:00"
 }
