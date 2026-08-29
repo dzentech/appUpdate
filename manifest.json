@@ -11,7 +11,7 @@
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/ytuuo0pk78jx79ix5y9r8/aModels.upload?rlkey=2o116l17bemcsyhh7e77w712t&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/i9i56r7rcxv0p28s3w48m/aModels.upload?rlkey=75r88xnsf55qutohad7wubwqc&dl=1"
         },
         {
           "server": "yandex",
@@ -29,7 +29,7 @@
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/t2y4gu4hqs40tbddcupz6/Apps.upload?rlkey=edf04m3z0hwlduuvgtn5cry1g&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/h3i96zax5sb44bc2d93v9/Apps.upload?rlkey=x7b8kr47mduiko6mxzxqhq4j4&dl=1"
         },
         {
           "server": "yandex",
@@ -47,7 +47,7 @@
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/p73yqqr206qlatnlgqkw6/libs.upload?rlkey=zs40eq3v2pyavbzx3xz0qa02t&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/60tlmd5r4scdyidor9jpz/libs.upload?rlkey=4s0y7f0r3293vrbjtk0719rao&dl=1"
         },
         {
           "server": "yandex",
@@ -65,7 +65,7 @@
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/5vzyk3xewijsk8via3bwn/Localization.upload?rlkey=5bwu1hdk4xxo3kbu5083dy3ul&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/hi97odq5zlqvweqyzaf53/Localization.upload?rlkey=2dn43jiseqoghnpck4eu3reao&dl=1"
         },
         {
           "server": "yandex",
@@ -83,7 +83,7 @@
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/hweqxhcpi7ksqs471gpox/main.upload?rlkey=i9sds045j9dxmu494dysoudtp&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/kd8t95ju6krdpeh4jwl89/main.upload?rlkey=82c5qdebde65yz9fpomdex2jy&dl=1"
         },
         {
           "server": "yandex",
@@ -101,7 +101,7 @@
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/hdwjlmdmfyp84t5iju6sn/UI.upload?rlkey=s9k465mj17rxu8uyb61wh54c2&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/wt84qr3sigs0in35hfhy5/UI.upload?rlkey=iumardy26t9o0tz0l6a8zb2ew&dl=1"
         },
         {
           "server": "yandex",
@@ -2393,13 +2393,13 @@
       {
         "server": "dropbox",
         "name": "Dropbox",
-        "url": "https://www.dropbox.com/scl/fi/s7rcx28bn8hc7x0tgz83k/MixUp-2.0.0.26-Setup.exe?rlkey=cuyviwcc4h0vawhr9aecpvbhd&dl=1",
+        "url": "https://www.dropbox.com/scl/fi/5iajnnii6neir4vqhres3/MixUp-2.0.0.26-Setup.exe?rlkey=e0tdbosfj81wvoyzfmkccujce&dl=1",
         "file": "MixUp 2.0.0.26 Setup.exe"
       },
       {
         "server": "yandex",
         "name": "Yandex Disk",
-        "url": "https://yadi.sk/d/iQYi68-Qbb5kMQ",
+        "url": "https://yadi.sk/d/bYsBECgcKs8ahA",
         "file": "MixUp 2.0.0.26 Setup.exe"
       }
     ]
