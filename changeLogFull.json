@@ -4,6 +4,76 @@
   "defaultLocale": "en-US",
   "releases": [
     {
+      "version": "2.0.0.27",
+      "changes": {
+        "en-US": [
+          "Improved Bluetooth connection stability and switching between devices.",
+          "Fixed Spinner 360 platform control and compatibility with different firmware versions.",
+          "Added Live View support for GoPro HERO8, HERO10, HERO11, HERO12, and HERO13 cameras.",
+          "Improved GoPro Live View smoothness, image quality, and latency.",
+          "Your GoPro Live View preference is now saved in settings.",
+          "Live View now pauses during GoPro file downloads and resumes automatically afterwards."
+        ],
+        "es-ES": [
+          "Mejorada la estabilidad de la conexión Bluetooth y del cambio entre dispositivos.",
+          "Corregido el control de la plataforma Spinner 360 y la compatibilidad con distintas versiones de firmware.",
+          "Añadida la compatibilidad con Live View para cámaras GoPro HERO8, HERO10, HERO11, HERO12 y HERO13.",
+          "Mejoradas la fluidez, la calidad de imagen y la latencia de GoPro Live View.",
+          "La preferencia de activación de GoPro Live View ahora se guarda en la configuración.",
+          "Live View ahora se pausa durante la descarga de archivos de GoPro y se reanuda automáticamente después."
+        ],
+        "de-DE": [
+          "Die Stabilität der Bluetooth-Verbindung und des Gerätewechsels wurde verbessert.",
+          "Die Steuerung der Spinner-360-Plattform und die Kompatibilität mit verschiedenen Firmware-Versionen wurden korrigiert.",
+          "Live View wird jetzt für GoPro HERO8, HERO10, HERO11, HERO12 und HERO13 unterstützt.",
+          "Flüssigkeit, Bildqualität und Latenz von GoPro Live View wurden verbessert.",
+          "Die Einstellung für GoPro Live View wird jetzt gespeichert.",
+          "Live View wird während des Herunterladens von GoPro-Dateien pausiert und danach automatisch fortgesetzt."
+        ],
+        "fr-FR": [
+          "Amélioration de la stabilité de la connexion Bluetooth et du passage d'un appareil à l'autre.",
+          "Correction du contrôle de la plateforme Spinner 360 et de la compatibilité avec différentes versions de firmware.",
+          "Ajout de la prise en charge du Live View pour les caméras GoPro HERO8, HERO10, HERO11, HERO12 et HERO13.",
+          "Amélioration de la fluidité, de la qualité d'image et de la latence du Live View GoPro.",
+          "Le choix d'activation du Live View GoPro est désormais enregistré dans les paramètres.",
+          "Le Live View se met désormais en pause pendant le téléchargement des fichiers GoPro et reprend automatiquement ensuite."
+        ],
+        "it-IT": [
+          "Migliorata la stabilità della connessione Bluetooth e del passaggio tra dispositivi.",
+          "Risolto il controllo della piattaforma Spinner 360 e la compatibilità con diverse versioni del firmware.",
+          "Aggiunto il supporto Live View per le fotocamere GoPro HERO8, HERO10, HERO11, HERO12 e HERO13.",
+          "Migliorate fluidità, qualità dell'immagine e latenza di GoPro Live View.",
+          "La preferenza di attivazione di GoPro Live View ora viene salvata nelle impostazioni.",
+          "Live View ora si mette in pausa durante il download dei file GoPro e riprende automaticamente al termine."
+        ],
+        "pt-BR": [
+          "Aprimorada a estabilidade da conexão Bluetooth e da alternância entre dispositivos.",
+          "Corrigidos o controle da plataforma Spinner 360 e a compatibilidade com diferentes versões de firmware.",
+          "Adicionado suporte ao Live View para câmeras GoPro HERO8, HERO10, HERO11, HERO12 e HERO13.",
+          "Aprimoradas a fluidez, a qualidade de imagem e a latência do GoPro Live View.",
+          "A preferência de ativação do GoPro Live View agora é salva nas configurações.",
+          "O Live View agora pausa durante o download de arquivos da GoPro e é retomado automaticamente depois."
+        ],
+        "pt-PT": [
+          "Melhorada a estabilidade da ligação Bluetooth e da mudança entre dispositivos.",
+          "Corrigidos o controlo da plataforma Spinner 360 e a compatibilidade com diferentes versões de firmware.",
+          "Adicionado suporte para Live View nas câmaras GoPro HERO8, HERO10, HERO11, HERO12 e HERO13.",
+          "Melhoradas a fluidez, a qualidade de imagem e a latência do GoPro Live View.",
+          "A preferência de ativação do GoPro Live View é agora guardada nas definições.",
+          "O Live View passa agora para pausa durante a transferência de ficheiros da GoPro e retoma automaticamente depois."
+        ],
+        "ru-RU": [
+          "Повышена стабильность Bluetooth-подключения и переключения между устройствами.",
+          "Исправлено управление платформой Spinner 360 и совместимость с разными версиями прошивки.",
+          "Добавлена поддержка Live View для камер GoPro HERO8, HERO10, HERO11, HERO12 и HERO13.",
+          "Улучшены плавность, качество изображения и задержка GoPro Live View.",
+          "Выбор включения GoPro Live View теперь сохраняется в настройках.",
+          "Во время скачивания файлов с GoPro Live View приостанавливается и затем автоматически возобновляется."
+        ]
+      },
+      "releasedAt": "2026-08-30T16:38:32+00:00"
+    },
+    {
       "version": "2.0.0.26",
       "changes": {
         "en-US": [
