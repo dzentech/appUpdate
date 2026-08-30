@@ -1,81 +1,73 @@
 {
-  "version": "2.0.0.26",
+  "version": "2.0.0.27",
   "defaultLocale": "en-US",
   "changes": {
     "en-US": [
-      "Improved event data reliability and the import and export of events, projects, and templates, including MixUp 1.x formats.",
-      "Fixed missing photo templates and improved the transfer of related AI templates.",
-      "Improved AI processing stability, image loading, retries, and job queue handling.",
-      "Improved Canon and GoPro connection, reconnection, and Live View reliability.",
-      "Restored email delivery and support for HTML email templates.",
-      "Improved hotspot, local Web Gallery, QR links, chroma key overlays, and the GlamBot editor.",
-      "Improved performance, crash recovery, and diagnostics, with fixes for freezes and unexpected shutdowns."
+      "Improved Bluetooth connection stability and switching between devices.",
+      "Fixed Spinner 360 platform control and compatibility with different firmware versions.",
+      "Added Live View support for GoPro HERO8, HERO10, HERO11, HERO12, and HERO13 cameras.",
+      "Improved GoPro Live View smoothness, image quality, and latency.",
+      "Your GoPro Live View preference is now saved in settings.",
+      "Live View now pauses during GoPro file downloads and resumes automatically afterwards."
     ],
     "es-ES": [
-      "Mejorada la fiabilidad de los datos de eventos y la importación y exportación de eventos, proyectos y plantillas, incluidos los formatos de MixUp 1.x.",
-      "Corregida la pérdida de plantillas fotográficas y mejorada la transferencia de las plantillas de IA relacionadas.",
-      "Mejorada la estabilidad del procesamiento con IA, la carga de imágenes, los reintentos y la gestión de la cola de tareas.",
-      "Mejoradas la conexión, la reconexión y la fiabilidad de Live View para cámaras Canon y GoPro.",
-      "Restaurado el envío de correos electrónicos y la compatibilidad con plantillas HTML.",
-      "Mejorados el punto de acceso, la Web Gallery local, los enlaces QR, las superposiciones de croma y el editor de GlamBot.",
-      "Mejorados el rendimiento, la recuperación tras fallos y el diagnóstico, con correcciones para bloqueos y cierres inesperados."
+      "Mejorada la estabilidad de la conexión Bluetooth y del cambio entre dispositivos.",
+      "Corregido el control de la plataforma Spinner 360 y la compatibilidad con distintas versiones de firmware.",
+      "Añadida la compatibilidad con Live View para cámaras GoPro HERO8, HERO10, HERO11, HERO12 y HERO13.",
+      "Mejoradas la fluidez, la calidad de imagen y la latencia de GoPro Live View.",
+      "La preferencia de activación de GoPro Live View ahora se guarda en la configuración.",
+      "Live View ahora se pausa durante la descarga de archivos de GoPro y se reanuda automáticamente después."
     ],
     "de-DE": [
-      "Die Zuverlässigkeit von Event-Daten sowie der Import und Export von Events, Projekten und Vorlagen wurden verbessert, einschließlich MixUp-1.x-Formaten.",
-      "Fehlende Fotovorlagen wurden behoben und die Übertragung zugehöriger KI-Vorlagen wurde verbessert.",
-      "Die Stabilität der KI-Verarbeitung, das Laden von Bildern, Wiederholungsversuche und die Auftragswarteschlange wurden verbessert.",
-      "Verbindung, Wiederverbindung und Live View für Canon- und GoPro-Kameras funktionieren jetzt zuverlässiger.",
-      "Der E-Mail-Versand und die Unterstützung für HTML-E-Mail-Vorlagen wurden wiederhergestellt.",
-      "Hotspot, lokale Web Gallery, QR-Links, Chroma-Key-Überlagerungen und der GlamBot-Editor wurden verbessert.",
-      "Leistung, Wiederherstellung nach Abstürzen und Diagnose wurden verbessert sowie Einfrieren und unerwartete Programmabbrüche behoben."
+      "Die Stabilität der Bluetooth-Verbindung und des Gerätewechsels wurde verbessert.",
+      "Die Steuerung der Spinner-360-Plattform und die Kompatibilität mit verschiedenen Firmware-Versionen wurden korrigiert.",
+      "Live View wird jetzt für GoPro HERO8, HERO10, HERO11, HERO12 und HERO13 unterstützt.",
+      "Flüssigkeit, Bildqualität und Latenz von GoPro Live View wurden verbessert.",
+      "Die Einstellung für GoPro Live View wird jetzt gespeichert.",
+      "Live View wird während des Herunterladens von GoPro-Dateien pausiert und danach automatisch fortgesetzt."
     ],
     "fr-FR": [
-      "Amélioration de la fiabilité des données d'événements ainsi que de l'importation et de l'exportation des événements, projets et modèles, y compris les formats MixUp 1.x.",
-      "Correction de la perte de modèles photo et amélioration du transfert des modèles d'IA associés.",
-      "Amélioration de la stabilité du traitement par IA, du chargement des images, des nouvelles tentatives et de la gestion de la file d'attente.",
-      "Amélioration de la connexion, de la reconnexion et de la fiabilité du Live View pour les appareils Canon et GoPro.",
-      "Rétablissement de l'envoi des e-mails et de la prise en charge des modèles HTML.",
-      "Amélioration du point d'accès, de la Web Gallery locale, des liens QR, des incrustations chroma key et de l'éditeur GlamBot.",
-      "Amélioration des performances, de la récupération après incident et des diagnostics, avec des corrections des blocages et fermetures inattendues."
+      "Amélioration de la stabilité de la connexion Bluetooth et du passage d'un appareil à l'autre.",
+      "Correction du contrôle de la plateforme Spinner 360 et de la compatibilité avec différentes versions de firmware.",
+      "Ajout de la prise en charge du Live View pour les caméras GoPro HERO8, HERO10, HERO11, HERO12 et HERO13.",
+      "Amélioration de la fluidité, de la qualité d'image et de la latence du Live View GoPro.",
+      "Le choix d'activation du Live View GoPro est désormais enregistré dans les paramètres.",
+      "Le Live View se met désormais en pause pendant le téléchargement des fichiers GoPro et reprend automatiquement ensuite."
     ],
     "it-IT": [
-      "Migliorata l'affidabilità dei dati degli eventi e l'importazione ed esportazione di eventi, progetti e modelli, inclusi i formati MixUp 1.x.",
-      "Risolta la perdita dei modelli fotografici e migliorato il trasferimento dei relativi modelli IA.",
-      "Migliorata la stabilità dell'elaborazione IA, del caricamento delle immagini, dei nuovi tentativi e della gestione della coda dei processi.",
-      "Migliorate la connessione, la riconnessione e l'affidabilità di Live View per le fotocamere Canon e GoPro.",
-      "Ripristinati l'invio delle email e il supporto dei modelli email HTML.",
-      "Migliorati l'hotspot, la Web Gallery locale, i link QR, le sovrapposizioni chroma key e l'editor GlamBot.",
-      "Migliorate le prestazioni, il ripristino dopo gli arresti anomali e la diagnostica, con correzioni per blocchi e chiusure impreviste."
+      "Migliorata la stabilità della connessione Bluetooth e del passaggio tra dispositivi.",
+      "Risolto il controllo della piattaforma Spinner 360 e la compatibilità con diverse versioni del firmware.",
+      "Aggiunto il supporto Live View per le fotocamere GoPro HERO8, HERO10, HERO11, HERO12 e HERO13.",
+      "Migliorate fluidità, qualità dell'immagine e latenza di GoPro Live View.",
+      "La preferenza di attivazione di GoPro Live View ora viene salvata nelle impostazioni.",
+      "Live View ora si mette in pausa durante il download dei file GoPro e riprende automaticamente al termine."
     ],
     "pt-BR": [
-      "Aprimorada a confiabilidade dos dados de eventos e da importação e exportação de eventos, projetos e modelos, incluindo formatos do MixUp 1.x.",
-      "Corrigida a perda de modelos de foto e aprimorada a transferência dos modelos de IA relacionados.",
-      "Aprimorada a estabilidade do processamento por IA, do carregamento de imagens, das novas tentativas e da fila de tarefas.",
-      "Aprimoradas a conexão, a reconexão e a confiabilidade do Live View para câmeras Canon e GoPro.",
-      "Restaurados o envio de emails e o suporte a modelos HTML de email.",
-      "Aprimorados o ponto de acesso, a Web Gallery local, os links QR, as sobreposições de chroma key e o editor do GlamBot.",
-      "Aprimorados o desempenho, a recuperação após falhas e os diagnósticos, com correções para travamentos e encerramentos inesperados."
+      "Aprimorada a estabilidade da conexão Bluetooth e da alternância entre dispositivos.",
+      "Corrigidos o controle da plataforma Spinner 360 e a compatibilidade com diferentes versões de firmware.",
+      "Adicionado suporte ao Live View para câmeras GoPro HERO8, HERO10, HERO11, HERO12 e HERO13.",
+      "Aprimoradas a fluidez, a qualidade de imagem e a latência do GoPro Live View.",
+      "A preferência de ativação do GoPro Live View agora é salva nas configurações.",
+      "O Live View agora pausa durante o download de arquivos da GoPro e é retomado automaticamente depois."
     ],
     "pt-PT": [
-      "Melhorada a fiabilidade dos dados de eventos e da importação e exportação de eventos, projetos e modelos, incluindo formatos do MixUp 1.x.",
-      "Corrigida a perda de modelos de fotografia e melhorada a transferência dos modelos de IA associados.",
-      "Melhorada a estabilidade do processamento por IA, do carregamento de imagens, das novas tentativas e da fila de tarefas.",
-      "Melhoradas a ligação, a nova ligação e a fiabilidade do Live View para câmaras Canon e GoPro.",
-      "Restabelecidos o envio de emails e o suporte para modelos HTML de email.",
-      "Melhorados o ponto de acesso, a Web Gallery local, as ligações QR, as sobreposições de chroma key e o editor GlamBot.",
-      "Melhorados o desempenho, a recuperação após falhas e os diagnósticos, com correções para bloqueios e encerramentos inesperados."
+      "Melhorada a estabilidade da ligação Bluetooth e da mudança entre dispositivos.",
+      "Corrigidos o controlo da plataforma Spinner 360 e a compatibilidade com diferentes versões de firmware.",
+      "Adicionado suporte para Live View nas câmaras GoPro HERO8, HERO10, HERO11, HERO12 e HERO13.",
+      "Melhoradas a fluidez, a qualidade de imagem e a latência do GoPro Live View.",
+      "A preferência de ativação do GoPro Live View é agora guardada nas definições.",
+      "O Live View passa agora para pausa durante a transferência de ficheiros da GoPro e retoma automaticamente depois."
     ],
     "ru-RU": [
-      "Повышена надёжность данных ивентов, а также импорта и экспорта ивентов, проектов и шаблонов, включая форматы MixUp 1.x.",
-      "Исправлена потеря фотошаблонов и улучшен перенос связанных ИИ-шаблонов.",
-      "Повышена стабильность ИИ-обработки, загрузки изображений, повторных попыток и очереди заданий.",
-      "Улучшены подключение, переподключение и стабильность Live View для камер Canon и GoPro.",
-      "Восстановлена отправка email и поддержка HTML-шаблонов писем.",
-      "Улучшена работа точки доступа, локальной Web Gallery, QR-ссылок, наложений хромакея и редактора GlamBot.",
-      "Повышена производительность, улучшены восстановление после сбоев и диагностика, исправлены зависания и аварийные завершения."
+      "Повышена стабильность Bluetooth-подключения и переключения между устройствами.",
+      "Исправлено управление платформой Spinner 360 и совместимость с разными версиями прошивки.",
+      "Добавлена поддержка Live View для камер GoPro HERO8, HERO10, HERO11, HERO12 и HERO13.",
+      "Улучшены плавность, качество изображения и задержка GoPro Live View.",
+      "Выбор включения GoPro Live View теперь сохраняется в настройках.",
+      "Во время скачивания файлов с GoPro Live View приостанавливается и затем автоматически возобновляется."
     ]
   },
   "schema": 1,
   "app": "MixUp",
-  "releasedAt": "2026-08-29T09:51:45+00:00"
+  "releasedAt": "2026-08-30T16:38:32+00:00"
 }
