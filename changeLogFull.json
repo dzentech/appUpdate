@@ -4,6 +4,47 @@
   "defaultLocale": "en-US",
   "releases": [
     {
+      "version": "2.0.0.33",
+      "replacesVersions": [
+        "2.0.0.32"
+      ],
+      "changes": {
+        "en-US": [
+          "Improved reliable downloading of AI-processed photos and videos with automatic recovery after temporary network or server errors.",
+          "Fixed GlamBot projects ignoring the scene selected in the project settings."
+        ],
+        "es-ES": [
+          "Mejorada la descarga fiable de fotos y vídeos procesados por IA, con recuperación automática tras errores temporales de red o del servidor.",
+          "Corregido un problema por el que los proyectos GlamBot ignoraban la escena seleccionada en los ajustes del proyecto."
+        ],
+        "de-DE": [
+          "Der zuverlässige Download von KI-verarbeiteten Fotos und Videos wurde verbessert, einschließlich automatischer Wiederherstellung nach vorübergehenden Netzwerk- oder Serverfehlern.",
+          "Ein Fehler wurde behoben, durch den GlamBot-Projekte die in den Projekteinstellungen ausgewählte Szene ignorierten."
+        ],
+        "fr-FR": [
+          "Amélioration de la fiabilité du téléchargement des photos et vidéos traitées par IA, avec reprise automatique après une erreur temporaire du réseau ou du serveur.",
+          "Correction des projets GlamBot qui ignoraient la scène sélectionnée dans les paramètres du projet."
+        ],
+        "it-IT": [
+          "Migliorata l'affidabilità del download di foto e video elaborati dall'IA, con ripristino automatico dopo errori temporanei di rete o del server.",
+          "Risolto un problema per cui i progetti GlamBot ignoravano la scena selezionata nelle impostazioni del progetto."
+        ],
+        "pt-BR": [
+          "Melhorada a confiabilidade do download de fotos e vídeos processados por IA, com recuperação automática após falhas temporárias de rede ou do servidor.",
+          "Corrigido um problema em que projetos GlamBot ignoravam a cena selecionada nas configurações do projeto."
+        ],
+        "pt-PT": [
+          "Melhorada a fiabilidade da transferência de fotografias e vídeos processados por IA, com recuperação automática após falhas temporárias de rede ou do servidor.",
+          "Corrigido um problema em que os projetos GlamBot ignoravam a cena selecionada nas definições do projeto."
+        ],
+        "ru-RU": [
+          "Повышена надёжность скачивания фото и видео после ИИ-обработки: добавлено автоматическое восстановление после временных ошибок сети или сервера.",
+          "Исправлено применение сцены GlamBot, выбранной в настройках проекта."
+        ]
+      },
+      "releasedAt": "2026-09-03T11:35:26+00:00"
+    },
+    {
       "version": "2.0.0.32",
       "changes": {
         "en-US": [
