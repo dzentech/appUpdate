@@ -1,89 +1,57 @@
 {
-  "version": "2.0.0.29",
+  "version": "2.0.0.30",
   "defaultLocale": "en-US",
   "changes": {
     "en-US": [
-      "Improved Bluetooth stability, device switching, and Spinner 360 compatibility with different firmware versions.",
-      "Expanded GoPro Live View support to HERO8, HERO10, HERO11, HERO12, and HERO13, with smoother video and lower latency.",
-      "GoPro Live View settings are now saved, and streaming pauses automatically while files download.",
-      "Improved the speed and reliability of downloading AI results and uploading files to cloud services.",
-      "Fixed occasional Live View flickering and brief interface freezes in camera settings.",
-      "Fixed photo strip frame transitions when photo confirmation is disabled.",
-      "Improved user data saving, safe app shutdown, and resource cleanup after leaving photo booth mode.",
-      "Improved diagnostics and recovery after failed updates, Wi-Fi connection statuses, and screen transitions."
+      "Fixed video processing preset settings being lost after restarting the app.",
+      "Improved startup recovery when saved settings or built-in photo template data is damaged.",
+      "Fixed several photo booth and administrator screen transitions that could leave an action stuck or select the wrong mode.",
+      "Improved diagnostics by recording the exact build type in application logs."
     ],
     "es-ES": [
-      "Mejoradas la estabilidad de Bluetooth, el cambio entre dispositivos y la compatibilidad de Spinner 360 con distintas versiones de firmware.",
-      "Ampliada la compatibilidad con GoPro Live View para HERO8, HERO10, HERO11, HERO12 y HERO13, con vídeo más fluido y menor latencia.",
-      "La configuración de GoPro Live View ahora se guarda y la transmisión se pausa automáticamente durante la descarga de archivos.",
-      "Mejoradas la velocidad y la fiabilidad de la descarga de resultados de IA y de la subida de archivos a servicios en la nube.",
-      "Corregidos el parpadeo ocasional de Live View y breves bloqueos de la interfaz en los ajustes de cámara.",
-      "Corregida la transición entre fotogramas de la tira fotográfica cuando la confirmación de fotos está desactivada.",
-      "Mejorados el guardado de datos de usuario, el cierre seguro de la aplicación y la liberación de recursos al salir del modo fotomatón.",
-      "Mejorados el diagnóstico y la recuperación tras actualizaciones fallidas, los estados de conexión Wi-Fi y las transiciones entre pantallas."
+      "Corregida la pérdida de los ajustes del preajuste de procesamiento de vídeo después de reiniciar la aplicación.",
+      "Mejorada la recuperación al iniciar cuando los ajustes guardados o los datos de una plantilla fotográfica integrada están dañados.",
+      "Corregidas varias transiciones del fotomatón y del modo administrador que podían dejar una acción bloqueada o elegir un modo incorrecto.",
+      "Mejorado el diagnóstico registrando el tipo exacto de compilación en los registros de la aplicación."
     ],
     "de-DE": [
-      "Die Bluetooth-Stabilität, der Gerätewechsel und die Kompatibilität von Spinner 360 mit verschiedenen Firmware-Versionen wurden verbessert.",
-      "Die Unterstützung von GoPro Live View wurde auf HERO8, HERO10, HERO11, HERO12 und HERO13 erweitert — mit flüssigerem Bild und geringerer Latenz.",
-      "Die Einstellungen für GoPro Live View werden jetzt gespeichert, und die Übertragung pausiert automatisch während des Herunterladens von Dateien.",
-      "Geschwindigkeit und Zuverlässigkeit beim Herunterladen von KI-Ergebnissen und Hochladen von Dateien in Cloud-Dienste wurden verbessert.",
-      "Gelegentliches Flackern von Live View und kurze Einfrierungen der Benutzeroberfläche in den Kameraeinstellungen wurden behoben.",
-      "Der Übergang zwischen Bildern im Fotostreifen wurde korrigiert, wenn die Fotobestätigung deaktiviert ist.",
-      "Speichern von Benutzerdaten, sicheres Beenden der App und Freigabe von Ressourcen nach dem Verlassen des Fotobox-Modus wurden verbessert.",
-      "Diagnose und Wiederherstellung nach fehlgeschlagenen Updates, WLAN-Verbindungsstatus und Bildschirmübergänge wurden verbessert."
+      "Ein Fehler wurde behoben, durch den Einstellungen der Videoverarbeitung nach einem Neustart verloren gingen.",
+      "Die Wiederherstellung beim Start wurde verbessert, wenn gespeicherte Einstellungen oder integrierte Fotovorlagen beschädigt sind.",
+      "Mehrere Übergänge im Fotobox- und Administratormodus wurden korrigiert, die Aktionen blockieren oder einen falschen Modus wählen konnten.",
+      "Die Diagnose wurde verbessert: Der genaue Build-Typ wird jetzt im Anwendungsprotokoll erfasst."
     ],
     "fr-FR": [
-      "Amélioration de la stabilité du Bluetooth, du passage d'un appareil à l'autre et de la compatibilité de Spinner 360 avec différentes versions de firmware.",
-      "Extension de la prise en charge du Live View GoPro aux HERO8, HERO10, HERO11, HERO12 et HERO13, avec une image plus fluide et une latence réduite.",
-      "Les réglages du Live View GoPro sont désormais enregistrés et la diffusion se met automatiquement en pause pendant le téléchargement des fichiers.",
-      "Amélioration de la vitesse et de la fiabilité du téléchargement des résultats d'IA et de l'envoi de fichiers vers les services cloud.",
-      "Correction du scintillement occasionnel du Live View et de courts blocages de l'interface dans les réglages de la caméra.",
-      "Correction du passage entre les images du photomaton lorsque la confirmation des photos est désactivée.",
-      "Amélioration de l'enregistrement des données utilisateur, de la fermeture sécurisée de l'application et de la libération des ressources après avoir quitté le mode borne photo.",
-      "Amélioration des diagnostics et de la récupération après une mise à jour échouée, des statuts de connexion Wi-Fi et des transitions entre écrans."
+      "Correction de la perte des réglages de traitement vidéo après le redémarrage de l'application.",
+      "Amélioration de la récupération au démarrage lorsque des réglages enregistrés ou une maquette photo intégrée sont endommagés.",
+      "Correction de plusieurs transitions du mode photomaton et administrateur pouvant bloquer une action ou sélectionner un mode incorrect.",
+      "Amélioration du diagnostic grâce à l'enregistrement du type exact de build dans les journaux de l'application."
     ],
     "it-IT": [
-      "Migliorate la stabilità del Bluetooth, il passaggio tra dispositivi e la compatibilità di Spinner 360 con diverse versioni del firmware.",
-      "Esteso il supporto GoPro Live View a HERO8, HERO10, HERO11, HERO12 e HERO13, con immagini più fluide e minore latenza.",
-      "Le impostazioni di GoPro Live View ora vengono salvate e la trasmissione si mette automaticamente in pausa durante il download dei file.",
-      "Migliorate velocità e affidabilità del download dei risultati IA e del caricamento dei file nei servizi cloud.",
-      "Risolti lo sfarfallio occasionale di Live View e brevi blocchi dell'interfaccia nelle impostazioni della fotocamera.",
-      "Risolto il passaggio tra i fotogrammi della striscia fotografica quando la conferma delle foto è disattivata.",
-      "Migliorati il salvataggio dei dati utente, la chiusura sicura dell'applicazione e la liberazione delle risorse dopo l'uscita dalla modalità photo booth.",
-      "Migliorati la diagnostica e il ripristino dopo aggiornamenti non riusciti, gli stati di connessione Wi-Fi e le transizioni tra schermate."
+      "Risolta la perdita delle impostazioni del preset di elaborazione video dopo il riavvio dell'applicazione.",
+      "Migliorato il ripristino all'avvio quando le impostazioni salvate o i dati di un modello fotografico integrato sono danneggiati.",
+      "Risolte diverse transizioni della modalità photo booth e amministratore che potevano bloccare un'azione o selezionare la modalità errata.",
+      "Migliorata la diagnostica registrando nei log il tipo esatto di build dell'applicazione."
     ],
     "pt-BR": [
-      "Aprimoradas a estabilidade do Bluetooth, a alternância entre dispositivos e a compatibilidade do Spinner 360 com diferentes versões de firmware.",
-      "Ampliado o suporte ao GoPro Live View para HERO8, HERO10, HERO11, HERO12 e HERO13, com imagem mais fluida e menor latência.",
-      "As configurações do GoPro Live View agora são salvas, e a transmissão pausa automaticamente durante o download de arquivos.",
-      "Aprimoradas a velocidade e a confiabilidade do download de resultados de IA e do envio de arquivos para serviços na nuvem.",
-      "Corrigidos o piscar ocasional do Live View e breves travamentos da interface nas configurações da câmera.",
-      "Corrigida a transição entre os quadros da tira de fotos quando a confirmação de fotos está desativada.",
-      "Aprimorados o salvamento de dados do usuário, o encerramento seguro do aplicativo e a liberação de recursos ao sair do modo cabine fotográfica.",
-      "Aprimorados os diagnósticos e a recuperação após atualizações malsucedidas, os status de conexão Wi-Fi e as transições entre telas."
+      "Corrigida a perda das configurações do preset de processamento de vídeo após reiniciar o aplicativo.",
+      "Aprimorada a recuperação na inicialização quando configurações salvas ou dados de um modelo de foto integrado estão danificados.",
+      "Corrigidas várias transições do modo cabine fotográfica e administrador que podiam travar uma ação ou selecionar o modo incorreto.",
+      "Aprimorados os diagnósticos com o registro do tipo exato de compilação nos logs do aplicativo."
     ],
     "pt-PT": [
-      "Melhoradas a estabilidade do Bluetooth, a mudança entre dispositivos e a compatibilidade do Spinner 360 com diferentes versões de firmware.",
-      "Alargado o suporte para GoPro Live View às HERO8, HERO10, HERO11, HERO12 e HERO13, com imagem mais fluida e menor latência.",
-      "As definições do GoPro Live View são agora guardadas e a transmissão entra automaticamente em pausa durante a transferência de ficheiros.",
-      "Melhoradas a velocidade e a fiabilidade da transferência de resultados de IA e do envio de ficheiros para serviços na nuvem.",
-      "Corrigidos o piscar ocasional do Live View e breves bloqueios da interface nas definições da câmara.",
-      "Corrigida a transição entre os fotogramas da tira de fotografias quando a confirmação das fotografias está desativada.",
-      "Melhorados a gravação dos dados do utilizador, o encerramento seguro da aplicação e a libertação de recursos ao sair do modo cabine fotográfica.",
-      "Melhorados os diagnósticos e a recuperação após atualizações falhadas, os estados de ligação Wi-Fi e as transições entre ecrãs."
+      "Corrigida a perda das definições do preset de processamento de vídeo após reiniciar a aplicação.",
+      "Melhorada a recuperação no arranque quando as definições guardadas ou os dados de um modelo fotográfico integrado estão danificados.",
+      "Corrigidas várias transições do modo cabine fotográfica e administrador que podiam bloquear uma ação ou selecionar o modo incorreto.",
+      "Melhorado o diagnóstico com o registo do tipo exato de compilação nos logs da aplicação."
     ],
     "ru-RU": [
-      "Повышена стабильность Bluetooth-подключения, переключения между устройствами и совместимость Spinner 360 с разными версиями прошивки.",
-      "Расширена поддержка GoPro Live View для HERO8, HERO10, HERO11, HERO12 и HERO13 — изображение стало плавнее, а задержка меньше.",
-      "Настройки GoPro Live View теперь сохраняются, а трансляция автоматически приостанавливается во время скачивания файлов.",
-      "Повышены скорость и стабильность скачивания результатов ИИ-обработки и загрузки файлов в облачные сервисы.",
-      "Исправлены периодическое мерцание Live View и кратковременная блокировка интерфейса в настройках камеры.",
-      "Исправлен переход между кадрами фотополоски при отключённом подтверждении снимков.",
-      "Повышена надёжность сохранения пользовательских данных, штатного закрытия приложения и освобождения ресурсов после выхода из режима фотобудки.",
-      "Улучшены диагностика и восстановление после неудачного обновления, статусы Wi-Fi-подключения и переходы между экранами."
+      "Исправлена потеря настроек пресета видеообработки после перезапуска приложения.",
+      "Улучшено восстановление запуска при повреждении сохранённых настроек или данных встроенного фотошаблона.",
+      "Исправлены переходы в режимах фотобудки и администратора, которые могли оставить действие зависшим или выбрать неверный режим.",
+      "Улучшена диагностика: в журнал приложения теперь записывается точный тип сборки."
     ]
   },
   "schema": 1,
   "app": "MixUp",
-  "releasedAt": "2026-09-01T19:40:43+00:00"
+  "releasedAt": "2026-09-03T06:50:36+00:00"
 }
