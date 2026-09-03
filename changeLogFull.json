@@ -4,60 +4,6 @@
   "defaultLocale": "en-US",
   "releases": [
     {
-      "version": "2.0.0.30",
-      "changes": {
-        "en-US": [
-          "Fixed video processing preset settings being lost after restarting the app.",
-          "Improved startup recovery when saved settings or built-in photo template data is damaged.",
-          "Fixed several photo booth and administrator screen transitions that could leave an action stuck or select the wrong mode.",
-          "Improved diagnostics by recording the exact build type in application logs."
-        ],
-        "es-ES": [
-          "Corregida la pérdida de los ajustes del preajuste de procesamiento de vídeo después de reiniciar la aplicación.",
-          "Mejorada la recuperación al iniciar cuando los ajustes guardados o los datos de una plantilla fotográfica integrada están dañados.",
-          "Corregidas varias transiciones del fotomatón y del modo administrador que podían dejar una acción bloqueada o elegir un modo incorrecto.",
-          "Mejorado el diagnóstico registrando el tipo exacto de compilación en los registros de la aplicación."
-        ],
-        "de-DE": [
-          "Ein Fehler wurde behoben, durch den Einstellungen der Videoverarbeitung nach einem Neustart verloren gingen.",
-          "Die Wiederherstellung beim Start wurde verbessert, wenn gespeicherte Einstellungen oder integrierte Fotovorlagen beschädigt sind.",
-          "Mehrere Übergänge im Fotobox- und Administratormodus wurden korrigiert, die Aktionen blockieren oder einen falschen Modus wählen konnten.",
-          "Die Diagnose wurde verbessert: Der genaue Build-Typ wird jetzt im Anwendungsprotokoll erfasst."
-        ],
-        "fr-FR": [
-          "Correction de la perte des réglages de traitement vidéo après le redémarrage de l'application.",
-          "Amélioration de la récupération au démarrage lorsque des réglages enregistrés ou une maquette photo intégrée sont endommagés.",
-          "Correction de plusieurs transitions du mode photomaton et administrateur pouvant bloquer une action ou sélectionner un mode incorrect.",
-          "Amélioration du diagnostic grâce à l'enregistrement du type exact de build dans les journaux de l'application."
-        ],
-        "it-IT": [
-          "Risolta la perdita delle impostazioni del preset di elaborazione video dopo il riavvio dell'applicazione.",
-          "Migliorato il ripristino all'avvio quando le impostazioni salvate o i dati di un modello fotografico integrato sono danneggiati.",
-          "Risolte diverse transizioni della modalità photo booth e amministratore che potevano bloccare un'azione o selezionare la modalità errata.",
-          "Migliorata la diagnostica registrando nei log il tipo esatto di build dell'applicazione."
-        ],
-        "pt-BR": [
-          "Corrigida a perda das configurações do preset de processamento de vídeo após reiniciar o aplicativo.",
-          "Aprimorada a recuperação na inicialização quando configurações salvas ou dados de um modelo de foto integrado estão danificados.",
-          "Corrigidas várias transições do modo cabine fotográfica e administrador que podiam travar uma ação ou selecionar o modo incorreto.",
-          "Aprimorados os diagnósticos com o registro do tipo exato de compilação nos logs do aplicativo."
-        ],
-        "pt-PT": [
-          "Corrigida a perda das definições do preset de processamento de vídeo após reiniciar a aplicação.",
-          "Melhorada a recuperação no arranque quando as definições guardadas ou os dados de um modelo fotográfico integrado estão danificados.",
-          "Corrigidas várias transições do modo cabine fotográfica e administrador que podiam bloquear uma ação ou selecionar o modo incorreto.",
-          "Melhorado o diagnóstico com o registo do tipo exato de compilação nos logs da aplicação."
-        ],
-        "ru-RU": [
-          "Исправлена потеря настроек пресета видеообработки после перезапуска приложения.",
-          "Улучшено восстановление запуска при повреждении сохранённых настроек или данных встроенного фотошаблона.",
-          "Исправлены переходы в режимах фотобудки и администратора, которые могли оставить действие зависшим или выбрать неверный режим.",
-          "Улучшена диагностика: в журнал приложения теперь записывается точный тип сборки."
-        ]
-      },
-      "releasedAt": "2026-09-03T06:50:36+00:00"
-    },
-    {
       "version": "2.0.0.29",
       "changes": {
         "en-US": [
