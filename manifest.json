@@ -1,6 +1,6 @@
 {
   "app": "MixUp",
-  "version": "2.0.0.32",
+  "version": "2.0.0.33",
   "packages": [
     {
       "name": "aModels",
@@ -11,12 +11,12 @@
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/8thvprv5yqdyy0millydn/aModels.upload?rlkey=rjkmf3ldgfjsql0krxe9182xb&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/j3x81sdsdw448b5ffthks/aModels.upload?rlkey=giqb0gt8o9i24pnnyymgsi5hj&dl=1"
         },
         {
           "server": "yandex",
           "name": "Yandex Disk",
-          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/sQ35OWXEOPc-_A"
+          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/8QCLbaoVyalB0w"
         }
       ]
     },
@@ -29,12 +29,12 @@
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/jzk81qjengxuvi4bpciwf/Apps.upload?rlkey=k3qw90bxwi7xl7hsic22ll5on&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/erniwlpep07yalzo7ln05/Apps.upload?rlkey=yvp613skbmrou0xwyfx4sb802&dl=1"
         },
         {
           "server": "yandex",
           "name": "Yandex Disk",
-          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/0uGG9Oy7osMsCw"
+          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/H7Yn9Z7hSNosuQ"
         }
       ]
     },
@@ -47,12 +47,12 @@
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/p8st3bi5qogw10qah140v/libs.upload?rlkey=97ypek2862q5ged3lv8yhxye0&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/9wofhomegbkqrv9hb6ob5/libs.upload?rlkey=pkou1ewblrixxp4yjzckrimgi&dl=1"
         },
         {
           "server": "yandex",
           "name": "Yandex Disk",
-          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/SIJuaDXu15b9HA"
+          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/cUbbNB0Kz_1-bA"
         }
       ]
     },
@@ -65,30 +65,30 @@
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/2cldc969euhcqhhl0p6ct/Localization.upload?rlkey=9lv175zuto6lu6cmqcag734mz&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/c0jun1i8wqgheo78zmpvy/Localization.upload?rlkey=8y2fayijvnwro7xvy7i9oakqu&dl=1"
         },
         {
           "server": "yandex",
           "name": "Yandex Disk",
-          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/vzXWnuWlSfYh9Q"
+          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/LsjurOYmT4uBpA"
         }
       ]
     },
     {
       "name": "main",
       "file": "main.upload",
-      "size": 18312192,
-      "sha256": "3F0176B5C75104C815044C81B1CD25EE38419452A772749D1CF9D31A11CCDE3B",
+      "size": 18326280,
+      "sha256": "A8F96E427613A6246F8CF8EBA9AB304221855662C6645404D9850198FE1698C0",
       "urls": [
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/8kilkt56rz6rmwaw1iblr/main.upload?rlkey=w6hd483kpcleuy27889gn69pw&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/ebe0p01dok385ktrh5ksr/main.upload?rlkey=appbrcw0k3vmg4n1ly0vgwe18&dl=1"
         },
         {
           "server": "yandex",
           "name": "Yandex Disk",
-          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/YieOVuA1Ke4R4A"
+          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/rDgApu-_KidspA"
         }
       ]
     },
@@ -101,12 +101,12 @@
         {
           "server": "dropbox",
           "name": "Dropbox",
-          "url": "https://www.dropbox.com/scl/fi/5xjcp9est9y1vmd5zj8fw/UI.upload?rlkey=t39cb8xta75sfubm2s2fp9ml4&dl=1"
+          "url": "https://www.dropbox.com/scl/fi/299h6iyr010g6w4enge8s/UI.upload?rlkey=0137ze538zor6zy58zbujzckt&dl=1"
         },
         {
           "server": "yandex",
           "name": "Yandex Disk",
-          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/zjsgt_4CgyDRWA"
+          "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/X0tM4aQaxO3iQQ"
         }
       ]
     }
@@ -2329,13 +2329,13 @@
     {
       "path": "License Manager.exe",
       "size": 2120720,
-      "sha256": "870F13BDD8D4D5A7BCB4B121991B0E31CDF78EF91FBE25E7C19F1EDF4009FCBB",
+      "sha256": "69F08E462312BC31C9E15984C92FE51F08BE7ACC6D78FA79D81B2EF8FFCFA9BC",
       "package": "main"
     },
     {
       "path": "MixUp.exe",
-      "size": 39246296,
-      "sha256": "3D53AC37A27C14C28B70A6EC54D6D5EAB87517C4703F44A52FFDD6769DED8768",
+      "size": 39251928,
+      "sha256": "A8C67FAFBA1DAA7A7D7E69E7351B317A49BCE37572F576F3304935B3A010884D",
       "package": "main"
     },
     {
@@ -2370,31 +2370,31 @@
     },
     {
       "path": "ugyzuwam.dll",
-      "size": 4487952,
-      "sha256": "0BC4445B3C758FAAE7BE218EBAE3ADC98F69650C8B7F8A5092CA15BDFB4FC87F",
+      "size": 4486416,
+      "sha256": "F6B3B68E45A840C9476F9D06E4993B4896BF00AB3559340BC1D7E1C39479352E",
       "package": "main"
     },
     {
       "path": "ugyzuwam.x64",
       "size": 158480,
-      "sha256": "B9E8EA002B14EF013ECC3FDBA30D7E20F10590CF71187B91555083EADC9A109E",
+      "sha256": "7DD24FFB96AE8CD31415D140E3B51CCBA5CE83EEE9976139A0CA4C272D769A76",
       "package": "main"
     }
   ],
   "setup": {
-    "file": "MixUp 2.0.0.32 Setup.exe",
+    "file": "MixUp 2.0.0.33 Setup.exe",
     "urls": [
       {
         "server": "dropbox",
         "name": "Dropbox",
-        "url": "https://www.dropbox.com/scl/fi/4ksupisw7860hkycdx3kk/MixUp-2.0.0.32-Setup.exe?rlkey=2vvk8r40sjk9uugxb1c14nnk1&dl=1",
-        "file": "MixUp 2.0.0.32 Setup.exe"
+        "url": "https://www.dropbox.com/scl/fi/oi5wuus0b0e66vthz27t4/MixUp-2.0.0.33-Setup.exe?rlkey=03p9dim4yzrz53f94hg4p5gox&dl=1",
+        "file": "MixUp 2.0.0.33 Setup.exe"
       },
       {
         "server": "yandex",
         "name": "Yandex Disk",
-        "url": "https://yadi.sk/d/bW41WhBGbha0-A",
-        "file": "MixUp 2.0.0.32 Setup.exe"
+        "url": "https://yadi.sk/d/3dHySrPSKAZhWg",
+        "file": "MixUp 2.0.0.33 Setup.exe"
       }
     ]
   },
