@@ -1,65 +1,44 @@
 {
-  "version": "2.0.0.32",
+  "version": "2.0.0.33",
   "defaultLocale": "en-US",
+  "replacesVersions": [
+    "2.0.0.32"
+  ],
   "changes": {
     "en-US": [
-      "Fixed event settings and video processing presets being lost after restarting the app.",
-      "Improved recovery of damaged or missing photo templates and compatibility with older project exports.",
-      "Fixed personal sharing link setup and link database refresh status.",
-      "Event database sessions can now be deleted safely without freezing the interface.",
-      "Fixed several photo booth and administrator screen transitions that could leave an action stuck or select the wrong mode."
+      "Improved reliable downloading of AI-processed photos and videos with automatic recovery after temporary network or server errors.",
+      "Fixed GlamBot projects ignoring the scene selected in the project settings."
     ],
     "es-ES": [
-      "Corregida la pérdida de los ajustes del evento y de procesamiento de vídeo tras reiniciar la aplicación.",
-      "Mejorada la recuperación de plantillas fotográficas dañadas o ausentes y la compatibilidad con exportaciones antiguas.",
-      "Corregida la configuración de enlaces personales para compartir y el estado de actualización de la base de enlaces.",
-      "Las sesiones del evento ahora se eliminan de forma segura sin bloquear la interfaz.",
-      "Corregidas varias transiciones del fotomatón y del modo administrador que podían dejar una acción bloqueada o elegir un modo incorrecto."
+      "Mejorada la descarga fiable de fotos y vídeos procesados por IA, con recuperación automática tras errores temporales de red o del servidor.",
+      "Corregido un problema por el que los proyectos GlamBot ignoraban la escena seleccionada en los ajustes del proyecto."
     ],
     "de-DE": [
-      "Ein Fehler wurde behoben, durch den Veranstaltungs- und Videoeinstellungen nach einem Neustart verloren gingen.",
-      "Die Wiederherstellung beschädigter oder fehlender Fotovorlagen und die Kompatibilität mit älteren Projektexporten wurden verbessert.",
-      "Die Einrichtung persönlicher Freigabelinks und der Aktualisierungsstatus der Linkdatenbank wurden korrigiert.",
-      "Sitzungen der Veranstaltungsdatenbank können jetzt sicher gelöscht werden, ohne die Oberfläche zu blockieren.",
-      "Mehrere Übergänge im Fotobox- und Administratormodus wurden korrigiert, die Aktionen blockieren oder einen falschen Modus wählen konnten."
+      "Der zuverlässige Download von KI-verarbeiteten Fotos und Videos wurde verbessert, einschließlich automatischer Wiederherstellung nach vorübergehenden Netzwerk- oder Serverfehlern.",
+      "Ein Fehler wurde behoben, durch den GlamBot-Projekte die in den Projekteinstellungen ausgewählte Szene ignorierten."
     ],
     "fr-FR": [
-      "Correction de la perte des réglages d'événement et de traitement vidéo après le redémarrage de l'application.",
-      "Amélioration de la récupération des modèles photo endommagés ou manquants et de la compatibilité avec les anciens exports.",
-      "Correction de la configuration des liens de partage personnels et de l'état d'actualisation de la base de liens.",
-      "Les sessions de la base d'événement peuvent désormais être supprimées sans bloquer l'interface.",
-      "Correction de plusieurs transitions du mode photomaton et administrateur pouvant bloquer une action ou sélectionner un mode incorrect."
+      "Amélioration de la fiabilité du téléchargement des photos et vidéos traitées par IA, avec reprise automatique après une erreur temporaire du réseau ou du serveur.",
+      "Correction des projets GlamBot qui ignoraient la scène sélectionnée dans les paramètres du projet."
     ],
     "it-IT": [
-      "Risolta la perdita delle impostazioni dell'evento e dei preset video dopo il riavvio dell'applicazione.",
-      "Migliorato il ripristino dei modelli fotografici danneggiati o mancanti e la compatibilità con le esportazioni precedenti.",
-      "Corretta la configurazione dei link personali di condivisione e lo stato di aggiornamento del database dei link.",
-      "Le sessioni del database dell'evento ora possono essere eliminate senza bloccare l'interfaccia.",
-      "Risolte diverse transizioni della modalità photo booth e amministratore che potevano bloccare un'azione o selezionare la modalità errata."
+      "Migliorata l'affidabilità del download di foto e video elaborati dall'IA, con ripristino automatico dopo errori temporanei di rete o del server.",
+      "Risolto un problema per cui i progetti GlamBot ignoravano la scena selezionata nelle impostazioni del progetto."
     ],
     "pt-BR": [
-      "Corrigida a perda das configurações do evento e dos presets de vídeo após reiniciar o aplicativo.",
-      "Aprimorada a recuperação de modelos de foto danificados ou ausentes e a compatibilidade com exportações antigas.",
-      "Corrigidas a configuração de links pessoais de compartilhamento e a indicação de atualização da base de links.",
-      "As sessões do evento agora podem ser excluídas sem travar a interface.",
-      "Corrigidas várias transições do modo cabine fotográfica e administrador que podiam travar uma ação ou selecionar o modo incorreto."
+      "Melhorada a confiabilidade do download de fotos e vídeos processados por IA, com recuperação automática após falhas temporárias de rede ou do servidor.",
+      "Corrigido um problema em que projetos GlamBot ignoravam a cena selecionada nas configurações do projeto."
     ],
     "pt-PT": [
-      "Corrigida a perda das definições do evento e dos presets de vídeo após reiniciar a aplicação.",
-      "Melhorada a recuperação de modelos fotográficos danificados ou em falta e a compatibilidade com exportações antigas.",
-      "Corrigidas a configuração de links pessoais de partilha e a indicação de atualização da base de links.",
-      "As sessões da base do evento podem agora ser eliminadas sem bloquear a interface.",
-      "Corrigidas várias transições dos modos cabine fotográfica e administrador que podiam bloquear uma ação ou selecionar o modo errado."
+      "Melhorada a fiabilidade da transferência de fotografias e vídeos processados por IA, com recuperação automática após falhas temporárias de rede ou do servidor.",
+      "Corrigido um problema em que os projetos GlamBot ignoravam a cena selecionada nas definições do projeto."
     ],
     "ru-RU": [
-      "Исправлена потеря настроек мероприятия и пресетов видеообработки после перезапуска приложения.",
-      "Улучшено восстановление повреждённых или отсутствующих фотошаблонов и совместимость со старыми экспортами проектов.",
-      "Исправлена настройка персональных ссылок для шеринга и отображение обновления базы ссылок.",
-      "Сессии из базы мероприятия теперь удаляются безопасно и без зависания интерфейса.",
-      "Исправлены переходы в режимах фотобудки и администратора, которые могли оставить действие зависшим или выбрать неверный режим."
+      "Повышена надёжность скачивания фото и видео после ИИ-обработки: добавлено автоматическое восстановление после временных ошибок сети или сервера.",
+      "Исправлено применение сцены GlamBot, выбранной в настройках проекта."
     ]
   },
   "schema": 1,
   "app": "MixUp",
-  "releasedAt": "2026-09-03T10:10:04+00:00"
+  "releasedAt": "2026-09-03T11:35:26+00:00"
 }
