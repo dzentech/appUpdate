@@ -1,9 +1,6 @@
 {
   "version": "2.0.0.32",
   "defaultLocale": "en-US",
-  "replacesVersions": [
-    "2.0.0.31"
-  ],
   "changes": {
     "en-US": [
       "Fixed event settings and video processing presets being lost after restarting the app.",
@@ -64,5 +61,5 @@
   },
   "schema": 1,
   "app": "MixUp",
-  "releasedAt": "2026-09-03T10:06:10+00:00"
+  "releasedAt": "2026-09-03T10:10:04+00:00"
 }
