@@ -1,44 +1,49 @@
 {
-  "version": "2.0.0.33",
+  "version": "2.0.0.34",
   "defaultLocale": "en-US",
-  "replacesVersions": [
-    "2.0.0.32"
-  ],
   "changes": {
     "en-US": [
-      "Improved reliable downloading of AI-processed photos and videos with automatic recovery after temporary network or server errors.",
-      "Fixed GlamBot projects ignoring the scene selected in the project settings."
+      "Fixed video project music, intro, outro, overlays, and other design assets not being saved or applied after switching projects or restarting MixUp.",
+      "Fixed the booth session timeout interrupting an active video recording, file download, or render.",
+      "Old failed AI jobs no longer show a blocking error when MixUp starts."
     ],
     "es-ES": [
-      "Mejorada la descarga fiable de fotos y vídeos procesados por IA, con recuperación automática tras errores temporales de red o del servidor.",
-      "Corregido un problema por el que los proyectos GlamBot ignoraban la escena seleccionada en los ajustes del proyecto."
+      "Corregido un problema por el que la música, la introducción, el cierre, las superposiciones y otros recursos de vídeo no se guardaban o aplicaban al cambiar de proyecto o reiniciar MixUp.",
+      "Corregido el tiempo de espera de la sesión, que podía interrumpir una grabación, descarga o renderizado en curso.",
+      "Las tareas de IA antiguas con error ya no muestran un aviso bloqueante al iniciar MixUp."
     ],
     "de-DE": [
-      "Der zuverlässige Download von KI-verarbeiteten Fotos und Videos wurde verbessert, einschließlich automatischer Wiederherstellung nach vorübergehenden Netzwerk- oder Serverfehlern.",
-      "Ein Fehler wurde behoben, durch den GlamBot-Projekte die in den Projekteinstellungen ausgewählte Szene ignorierten."
+      "Es wurde behoben, dass Musik, Intro, Outro, Overlays und weitere Videoelemente nach einem Projektwechsel oder Neustart nicht gespeichert oder angewendet wurden.",
+      "Der Sitzungs-Timeout unterbricht keine laufende Videoaufnahme, Dateiübertragung oder Berechnung mehr.",
+      "Ältere fehlgeschlagene KI-Aufträge zeigen beim Start von MixUp keine blockierende Fehlermeldung mehr."
     ],
     "fr-FR": [
-      "Amélioration de la fiabilité du téléchargement des photos et vidéos traitées par IA, avec reprise automatique après une erreur temporaire du réseau ou du serveur.",
-      "Correction des projets GlamBot qui ignoraient la scène sélectionnée dans les paramètres du projet."
+      "Correction de la perte de la musique, de l'intro, de l'outro, des superpositions et des autres éléments vidéo après un changement de projet ou un redémarrage de MixUp.",
+      "Le délai d'inactivité de la session n'interrompt plus un enregistrement vidéo, un téléchargement ou un rendu en cours.",
+      "Les anciennes tâches IA en échec n'affichent plus d'erreur bloquante au démarrage de MixUp."
     ],
     "it-IT": [
-      "Migliorata l'affidabilità del download di foto e video elaborati dall'IA, con ripristino automatico dopo errori temporanei di rete o del server.",
-      "Risolto un problema per cui i progetti GlamBot ignoravano la scena selezionata nelle impostazioni del progetto."
+      "Risolta la perdita di musica, intro, outro, sovrapposizioni e altri elementi video dopo il cambio di progetto o il riavvio di MixUp.",
+      "Il timeout della sessione non interrompe più una registrazione video, un download o un rendering in corso.",
+      "Le vecchie attività IA non riuscite non mostrano più un errore bloccante all'avvio di MixUp."
     ],
     "pt-BR": [
-      "Melhorada a confiabilidade do download de fotos e vídeos processados por IA, com recuperação automática após falhas temporárias de rede ou do servidor.",
-      "Corrigido um problema em que projetos GlamBot ignoravam a cena selecionada nas configurações do projeto."
+      "Corrigida a perda de música, introdução, encerramento, sobreposições e outros elementos de vídeo após trocar de projeto ou reiniciar o MixUp.",
+      "O tempo limite da sessão não interrompe mais uma gravação, download ou renderização em andamento.",
+      "Tarefas antigas de IA com falha não exibem mais um erro bloqueante ao iniciar o MixUp."
     ],
     "pt-PT": [
-      "Melhorada a fiabilidade da transferência de fotografias e vídeos processados por IA, com recuperação automática após falhas temporárias de rede ou do servidor.",
-      "Corrigido um problema em que os projetos GlamBot ignoravam a cena selecionada nas definições do projeto."
+      "Corrigida a perda de música, introdução, encerramento, sobreposições e outros elementos de vídeo após mudar de projeto ou reiniciar o MixUp.",
+      "O tempo limite da sessão deixou de interromper uma gravação, transferência ou renderização em curso.",
+      "As tarefas antigas de IA com falha deixaram de mostrar um erro bloqueante ao iniciar o MixUp."
     ],
     "ru-RU": [
-      "Повышена надёжность скачивания фото и видео после ИИ-обработки: добавлено автоматическое восстановление после временных ошибок сети или сервера.",
-      "Исправлено применение сцены GlamBot, выбранной в настройках проекта."
+      "Исправлено сохранение и применение музыки, заставок, наложений и другого оформления видеопроектов после смены проекта или перезапуска MixUp.",
+      "Таймаут сессии больше не прерывает активную запись видео, скачивание файла или рендер.",
+      "Старые неудачные задания ИИ больше не показывают блокирующую ошибку при запуске MixUp."
     ]
   },
   "schema": 1,
   "app": "MixUp",
-  "releasedAt": "2026-09-03T11:35:26+00:00"
+  "releasedAt": "2026-09-04T16:32:51+00:00"
 }
