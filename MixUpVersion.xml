@@ -1,7 +1,6 @@
-<LATEST_RELEASE>2.0.0.33</LATEST_RELEASE>
+<LATEST_RELEASE>2.0.0.34</LATEST_RELEASE>
 <RELEASE_LINK>https://www.dzentech.store/download/</RELEASE_LINK>
 <MANIFEST>https://raw.githubusercontent.com/dzentech/appUpdate/main/manifest.json</MANIFEST>
 <Log>
-Meet MixUp 2.0 - our biggest update yet! 
-Featuring a completely redesigned interface and reimagined workflows for a faster, smoother, and more intuitive experience.
+Fixed video project design assets persistence, active booth session timeouts, and stale AI error handling.
 </Log>
