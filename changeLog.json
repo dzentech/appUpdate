@@ -1,49 +1,73 @@
 {
-  "version": "2.0.0.34",
+  "version": "2.0.0.35",
   "defaultLocale": "en-US",
   "changes": {
     "en-US": [
-      "Fixed video project music, intro, outro, overlays, and other design assets not being saved or applied after switching projects or restarting MixUp.",
-      "Fixed the booth session timeout interrupting an active video recording, file download, or render.",
-      "Old failed AI jobs no longer show a blocking error when MixUp starts."
-    ],
-    "es-ES": [
-      "Corregido un problema por el que la música, la introducción, el cierre, las superposiciones y otros recursos de vídeo no se guardaban o aplicaban al cambiar de proyecto o reiniciar MixUp.",
-      "Corregido el tiempo de espera de la sesión, que podía interrumpir una grabación, descarga o renderizado en curso.",
-      "Las tareas de IA antiguas con error ya no muestran un aviso bloqueante al iniciar MixUp."
-    ],
-    "de-DE": [
-      "Es wurde behoben, dass Musik, Intro, Outro, Overlays und weitere Videoelemente nach einem Projektwechsel oder Neustart nicht gespeichert oder angewendet wurden.",
-      "Der Sitzungs-Timeout unterbricht keine laufende Videoaufnahme, Dateiübertragung oder Berechnung mehr.",
-      "Ältere fehlgeschlagene KI-Aufträge zeigen beim Start von MixUp keine blockierende Fehlermeldung mehr."
-    ],
-    "fr-FR": [
-      "Correction de la perte de la musique, de l'intro, de l'outro, des superpositions et des autres éléments vidéo après un changement de projet ou un redémarrage de MixUp.",
-      "Le délai d'inactivité de la session n'interrompt plus un enregistrement vidéo, un téléchargement ou un rendu en cours.",
-      "Les anciennes tâches IA en échec n'affichent plus d'erreur bloquante au démarrage de MixUp."
-    ],
-    "it-IT": [
-      "Risolta la perdita di musica, intro, outro, sovrapposizioni e altri elementi video dopo il cambio di progetto o il riavvio di MixUp.",
-      "Il timeout della sessione non interrompe più una registrazione video, un download o un rendering in corso.",
-      "Le vecchie attività IA non riuscite non mostrano più un errore bloccante all'avvio di MixUp."
-    ],
-    "pt-BR": [
-      "Corrigida a perda de música, introdução, encerramento, sobreposições e outros elementos de vídeo após trocar de projeto ou reiniciar o MixUp.",
-      "O tempo limite da sessão não interrompe mais uma gravação, download ou renderização em andamento.",
-      "Tarefas antigas de IA com falha não exibem mais um erro bloqueante ao iniciar o MixUp."
-    ],
-    "pt-PT": [
-      "Corrigida a perda de música, introdução, encerramento, sobreposições e outros elementos de vídeo após mudar de projeto ou reiniciar o MixUp.",
-      "O tempo limite da sessão deixou de interromper uma gravação, transferência ou renderização em curso.",
-      "As tarefas antigas de IA com falha deixaram de mostrar um erro bloqueante ao iniciar o MixUp."
+      "Fixed an intermittent image validation error that could reject correctly downloaded AI results.",
+      "Improved sharing and printing stability when switching sessions or opening empty and deleted content; updated secure cloud connections.",
+      "Unified the booth screen editor with settings for guides, countdown, and the start button, including text appearance and positioning.",
+      "Added an optional rounded booth header with smoother recording and multi-photo progress, plus larger touch controls.",
+      "Added recent actions, quick time-lock control, and convenient exit buttons; the fullscreen icon now reflects the current state.",
+      "Fixed theme color parsing, interface spacing, and missing translations."
     ],
     "ru-RU": [
-      "Исправлено сохранение и применение музыки, заставок, наложений и другого оформления видеопроектов после смены проекта или перезапуска MixUp.",
-      "Таймаут сессии больше не прерывает активную запись видео, скачивание файла или рендер.",
-      "Старые неудачные задания ИИ больше не показывают блокирующую ошибку при запуске MixUp."
+      "Исправлена плавающая ошибка проверки изображений, из-за которой корректно скачанный результат ИИ мог отклоняться.",
+      "Повышена стабильность шеринга и печати при переключении сессий и работе с пустым или удалённым контентом; обновлены защищённые подключения к облачным сервисам.",
+      "Объединён редактор экранов будки: оформление и расположение подсказок, обратного отсчёта и кнопки старта теперь настраиваются в одном месте.",
+      "Добавлена скруглённая шапка будки с плавным прогрессом записи и серии снимков, а также увеличенными сенсорными кнопками. Прежний стиль можно вернуть.",
+      "Добавлены последние действия, быстрое переключение блокировки по времени и кнопки выхода; иконка полного экрана теперь отражает текущее состояние.",
+      "Исправлены чтение цветов темы, отступы интерфейса и недостающие переводы."
+    ],
+    "de-DE": [
+      "Ein sporadischer Fehler bei der Bildprüfung wurde behoben, durch den korrekt heruntergeladene KI-Ergebnisse abgelehnt werden konnten.",
+      "Teilen und Drucken sind beim Sitzungswechsel sowie bei leeren oder gelöschten Inhalten stabiler; sichere Cloud-Verbindungen wurden aktualisiert.",
+      "Der Booth-Bildschirmeditor vereint nun Hinweise, Countdown und Startschaltfläche samt Textgestaltung und Positionierung.",
+      "Eine optionale abgerundete Kopfzeile bietet einen flüssigeren Fortschritt für Aufnahmen und Fotoserien sowie größere Touch-Bedienelemente.",
+      "Letzte Aktionen, eine schnelle Zeitsperre und praktische Beenden-Schaltflächen wurden ergänzt; das Vollbildsymbol zeigt den aktuellen Zustand.",
+      "Das Einlesen von Designfarben, Abstände und fehlende Übersetzungen wurden korrigiert."
+    ],
+    "es-ES": [
+      "Corregido un error intermitente de validación que podía rechazar imágenes de IA descargadas correctamente.",
+      "Mejorada la estabilidad al compartir e imprimir al cambiar de sesión o abrir contenido vacío o eliminado; actualizadas las conexiones seguras a la nube.",
+      "El editor de pantallas de la cabina reúne las guías, la cuenta atrás y el botón de inicio, con ajustes de texto y posición.",
+      "Añadida una cabecera redondeada opcional con progreso más fluido de grabación y series de fotos, y controles táctiles más grandes.",
+      "Añadidas acciones recientes, un control rápido del bloqueo por horario y botones de salida; el icono de pantalla completa refleja su estado.",
+      "Corregidos la lectura de colores del tema, los espaciados y las traducciones que faltaban."
+    ],
+    "fr-FR": [
+      "Correction d'une erreur intermittente de validation pouvant rejeter des images IA correctement téléchargées.",
+      "Partage et impression plus stables lors du changement de session ou avec des contenus vides ou supprimés ; connexions cloud sécurisées mises à jour.",
+      "L'éditeur des écrans de la cabine regroupe les indications, le compte à rebours et le bouton de démarrage, avec réglages du texte et du positionnement.",
+      "Ajout d'un en-tête arrondi facultatif avec une progression plus fluide des enregistrements et séries de photos, et de plus grandes commandes tactiles.",
+      "Ajout des actions récentes, d'un accès rapide au verrouillage horaire et de boutons de sortie ; l'icône plein écran reflète son état.",
+      "Correction de la lecture des couleurs du thème, des espacements et des traductions manquantes."
+    ],
+    "it-IT": [
+      "Corretto un errore intermittente di convalida che poteva rifiutare immagini IA scaricate correttamente.",
+      "Migliorata la stabilità di condivisione e stampa durante il cambio di sessione o con contenuti vuoti o eliminati; aggiornate le connessioni cloud sicure.",
+      "L'editor delle schermate della cabina riunisce guide, conto alla rovescia e pulsante di avvio, con impostazioni di testo e posizione.",
+      "Aggiunta un'intestazione arrotondata opzionale con avanzamento più fluido di registrazioni e serie di foto e comandi touch più grandi.",
+      "Aggiunte attività recenti, un controllo rapido del blocco orario e pulsanti di uscita; l'icona a schermo intero riflette lo stato attuale.",
+      "Corretti la lettura dei colori del tema, le spaziature e le traduzioni mancanti."
+    ],
+    "pt-BR": [
+      "Corrigido um erro intermitente de validação que podia rejeitar imagens de IA baixadas corretamente.",
+      "Melhorada a estabilidade do compartilhamento e da impressão ao trocar de sessão ou abrir conteúdo vazio ou excluído; atualizadas as conexões seguras com a nuvem.",
+      "O editor de telas da cabine reúne orientações, contagem regressiva e botão de início, com ajustes de texto e posicionamento.",
+      "Adicionado um cabeçalho arredondado opcional com progresso mais suave de gravações e séries de fotos, além de controles de toque maiores.",
+      "Adicionadas ações recentes, controle rápido do bloqueio por horário e botões de saída; o ícone de tela cheia reflete o estado atual.",
+      "Corrigidos a leitura das cores do tema, os espaçamentos e as traduções ausentes."
+    ],
+    "pt-PT": [
+      "Corrigido um erro intermitente de validação que podia rejeitar imagens de IA transferidas corretamente.",
+      "Melhorada a estabilidade da partilha e da impressão ao mudar de sessão ou abrir conteúdo vazio ou eliminado; atualizadas as ligações seguras à nuvem.",
+      "O editor de ecrãs da cabine reúne indicações, contagem decrescente e botão de início, com ajustes de texto e posicionamento.",
+      "Adicionado um cabeçalho arredondado opcional com progresso mais suave das gravações e séries de fotografias, além de controlos táteis maiores.",
+      "Adicionadas ações recentes, controlo rápido do bloqueio por horário e botões de saída; o ícone de ecrã inteiro reflete o estado atual.",
+      "Corrigidos a leitura das cores do tema, os espaçamentos e as traduções em falta."
     ]
   },
   "schema": 1,
   "app": "MixUp",
-  "releasedAt": "2026-09-04T16:32:51+00:00"
+  "releasedAt": "2026-09-07T12:47:15+00:00"
 }
