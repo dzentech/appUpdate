@@ -1,6 +1,6 @@
-<LATEST_RELEASE>2.0.0.34</LATEST_RELEASE>
+<LATEST_RELEASE>2.0.0.35</LATEST_RELEASE>
 <RELEASE_LINK>https://www.dzentech.store/download/</RELEASE_LINK>
 <MANIFEST>https://raw.githubusercontent.com/dzentech/appUpdate/main/manifest.json</MANIFEST>
 <Log>
-Fixed video project design assets persistence, active booth session timeouts, and stale AI error handling.
+Improved AI result downloads, sharing stability, booth screen editing, and touch controls.
 </Log>
