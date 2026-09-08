@@ -77,8 +77,8 @@
     {
       "name": "main",
       "file": "main.upload",
-      "size": 17870187,
-      "sha256": "A5B56BDF4512992FEA60E881F79DF18D4ED3A803A6941318C56DEB7C0816001B",
+      "size": 17939074,
+      "sha256": "96A597684BB3DBC96A99A68736C08DAD1310277A16D661FE1D48730E70EBA393",
       "urls": [
         {
           "server": "dropbox",
@@ -2347,7 +2347,7 @@
     {
       "path": "License Manager.exe",
       "size": 2120720,
-      "sha256": "CB9C777B79B08D0D34854ECF82EFCF289656B06AB5BF6D5EB98A9DF96B9DF40F",
+      "sha256": "24894A78C5B7B90BB742E24A02E7A48CA360A444D58E44DA7269753BD354559F",
       "package": "main"
     },
     {
@@ -2394,14 +2394,14 @@
     },
     {
       "path": "ugyzuwam.dll",
-      "size": 4514576,
-      "sha256": "4AECE7CDA9130395FA075E5FDB3C6567916C88F8FCA59F62E5D6C7765C815F34",
+      "size": 4629264,
+      "sha256": "156FD5232784A3AD075369C5EB1F63C2636D7A85A7AEDBC31C9DF66F61FF640C",
       "package": "main"
     },
     {
       "path": "ugyzuwam.x64",
       "size": 158480,
-      "sha256": "6A63E6F3B6C5D25B50CA7727181D7E23541F78138791D9CBAE43CF15A0A4ED3A",
+      "sha256": "8969074AF12F1D80BCE54DA230C74CEBE0169FD905FFE51595C22EA5C27EB8BD",
       "package": "main"
     }
   ],
@@ -2417,7 +2417,7 @@
       {
         "server": "yandex",
         "name": "Yandex Disk",
-        "url": "https://yadi.sk/d/K5ZwERyedv6CjA",
+        "url": "https://yadi.sk/d/aE5C0E6nk1mIww",
         "file": "MixUp 2.0.0.36 Setup.exe"
       }
     ]
