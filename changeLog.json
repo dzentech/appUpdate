@@ -1,73 +1,137 @@
 {
-  "version": "2.0.0.35",
+  "version": "2.0.0.36",
   "defaultLocale": "en-US",
   "changes": {
     "en-US": [
+      "Fixed video project music, intro, outro, overlays, and other design assets not being saved or applied after switching projects or restarting MixUp.",
+      "Fixed the booth session timeout interrupting an active video recording, file download, or render.",
+      "Old failed AI jobs no longer show a blocking error when MixUp starts.",
       "Fixed an intermittent image validation error that could reject correctly downloaded AI results.",
       "Improved sharing and printing stability when switching sessions or opening empty and deleted content; updated secure cloud connections.",
       "Unified the booth screen editor with settings for guides, countdown, and the start button, including text appearance and positioning.",
       "Added an optional rounded booth header with smoother recording and multi-photo progress, plus larger touch controls.",
       "Added recent actions, quick time-lock control, and convenient exit buttons; the fullscreen icon now reflects the current state.",
-      "Fixed theme color parsing, interface spacing, and missing translations."
+      "Fixed theme color parsing, interface spacing, and missing translations.",
+      "Fixed AI result downloads when the server reports a size different from the actual file.",
+      "Fixed missing previews when importing AI template packs.",
+      "Downloaded AI images now use the extension that matches their actual file format.",
+      "Improved startup speed when sharing backup history has accumulated.",
+      "System printer settings now open in a separate helper process and can be closed directly with the close icon."
     ],
     "ru-RU": [
+      "Исправлено сохранение и применение музыки, заставок, наложений и другого оформления видеопроектов после смены проекта или перезапуска MixUp.",
+      "Таймаут сессии больше не прерывает активную запись видео, скачивание файла или рендер.",
+      "Старые неудачные задания ИИ больше не показывают блокирующую ошибку при запуске MixUp.",
       "Исправлена плавающая ошибка проверки изображений, из-за которой корректно скачанный результат ИИ мог отклоняться.",
       "Повышена стабильность шеринга и печати при переключении сессий и работе с пустым или удалённым контентом; обновлены защищённые подключения к облачным сервисам.",
       "Объединён редактор экранов будки: оформление и расположение подсказок, обратного отсчёта и кнопки старта теперь настраиваются в одном месте.",
       "Добавлена скруглённая шапка будки с плавным прогрессом записи и серии снимков, а также увеличенными сенсорными кнопками. Прежний стиль можно вернуть.",
       "Добавлены последние действия, быстрое переключение блокировки по времени и кнопки выхода; иконка полного экрана теперь отражает текущее состояние.",
-      "Исправлены чтение цветов темы, отступы интерфейса и недостающие переводы."
+      "Исправлены чтение цветов темы, отступы интерфейса и недостающие переводы.",
+      "Исправлена загрузка результатов ИИ, когда размер в ответе сервера не соответствует фактическому файлу.",
+      "Исправлено исчезновение превью при импорте наборов ИИ-шаблонов.",
+      "Скачанные ИИ-изображения теперь сохраняются с расширением, соответствующим их фактическому формату.",
+      "Ускорен запуск при накоплении резервных копий данных шеринга.",
+      "Системные настройки принтера открываются в отдельном процессе и закрываются кнопкой с крестиком."
     ],
     "de-DE": [
+      "Es wurde behoben, dass Musik, Intro, Outro, Overlays und weitere Videoelemente nach einem Projektwechsel oder Neustart nicht gespeichert oder angewendet wurden.",
+      "Der Sitzungs-Timeout unterbricht keine laufende Videoaufnahme, Dateiübertragung oder Berechnung mehr.",
+      "Ältere fehlgeschlagene KI-Aufträge zeigen beim Start von MixUp keine blockierende Fehlermeldung mehr.",
       "Ein sporadischer Fehler bei der Bildprüfung wurde behoben, durch den korrekt heruntergeladene KI-Ergebnisse abgelehnt werden konnten.",
       "Teilen und Drucken sind beim Sitzungswechsel sowie bei leeren oder gelöschten Inhalten stabiler; sichere Cloud-Verbindungen wurden aktualisiert.",
       "Der Booth-Bildschirmeditor vereint nun Hinweise, Countdown und Startschaltfläche samt Textgestaltung und Positionierung.",
       "Eine optionale abgerundete Kopfzeile bietet einen flüssigeren Fortschritt für Aufnahmen und Fotoserien sowie größere Touch-Bedienelemente.",
       "Letzte Aktionen, eine schnelle Zeitsperre und praktische Beenden-Schaltflächen wurden ergänzt; das Vollbildsymbol zeigt den aktuellen Zustand.",
-      "Das Einlesen von Designfarben, Abstände und fehlende Übersetzungen wurden korrigiert."
+      "Das Einlesen von Designfarben, Abstände und fehlende Übersetzungen wurden korrigiert.",
+      "Der Download von KI-Ergebnissen funktioniert nun auch bei abweichenden Größenangaben des Servers.",
+      "Fehlende Vorschaubilder beim Import von KI-Vorlagenpaketen wurden korrigiert.",
+      "Heruntergeladene KI-Bilder werden jetzt mit der Dateiendung ihres tatsächlichen Formats gespeichert.",
+      "Der Start wurde beschleunigt, wenn sich viele Sicherungen der Sharing-Daten angesammelt haben.",
+      "Die Systemdruckereinstellungen werden in einem separaten Prozess geöffnet und lassen sich direkt über das Schließen-Symbol schließen."
     ],
     "es-ES": [
+      "Corregido un problema por el que la música, la introducción, el cierre, las superposiciones y otros recursos de vídeo no se guardaban o aplicaban al cambiar de proyecto o reiniciar MixUp.",
+      "Corregido el tiempo de espera de la sesión, que podía interrumpir una grabación, descarga o renderizado en curso.",
+      "Las tareas de IA antiguas con error ya no muestran un aviso bloqueante al iniciar MixUp.",
       "Corregido un error intermitente de validación que podía rechazar imágenes de IA descargadas correctamente.",
       "Mejorada la estabilidad al compartir e imprimir al cambiar de sesión o abrir contenido vacío o eliminado; actualizadas las conexiones seguras a la nube.",
       "El editor de pantallas de la cabina reúne las guías, la cuenta atrás y el botón de inicio, con ajustes de texto y posición.",
       "Añadida una cabecera redondeada opcional con progreso más fluido de grabación y series de fotos, y controles táctiles más grandes.",
       "Añadidas acciones recientes, un control rápido del bloqueo por horario y botones de salida; el icono de pantalla completa refleja su estado.",
-      "Corregidos la lectura de colores del tema, los espaciados y las traducciones que faltaban."
+      "Corregidos la lectura de colores del tema, los espaciados y las traducciones que faltaban.",
+      "Corregida la descarga de resultados de IA cuando el tamaño indicado por el servidor difiere del archivo real.",
+      "Corregida la pérdida de vistas previas al importar paquetes de plantillas de IA.",
+      "Las imágenes de IA descargadas ahora se guardan con la extensión correspondiente a su formato real.",
+      "Inicio más rápido cuando se han acumulado copias de seguridad de los datos de uso compartido.",
+      "Los ajustes del sistema de la impresora se abren en un proceso independiente y pueden cerrarse directamente con el icono de cerrar."
     ],
     "fr-FR": [
+      "Correction de la perte de la musique, de l'intro, de l'outro, des superpositions et des autres éléments vidéo après un changement de projet ou un redémarrage de MixUp.",
+      "Le délai d'inactivité de la session n'interrompt plus un enregistrement vidéo, un téléchargement ou un rendu en cours.",
+      "Les anciennes tâches IA en échec n'affichent plus d'erreur bloquante au démarrage de MixUp.",
       "Correction d'une erreur intermittente de validation pouvant rejeter des images IA correctement téléchargées.",
       "Partage et impression plus stables lors du changement de session ou avec des contenus vides ou supprimés ; connexions cloud sécurisées mises à jour.",
       "L'éditeur des écrans de la cabine regroupe les indications, le compte à rebours et le bouton de démarrage, avec réglages du texte et du positionnement.",
       "Ajout d'un en-tête arrondi facultatif avec une progression plus fluide des enregistrements et séries de photos, et de plus grandes commandes tactiles.",
       "Ajout des actions récentes, d'un accès rapide au verrouillage horaire et de boutons de sortie ; l'icône plein écran reflète son état.",
-      "Correction de la lecture des couleurs du thème, des espacements et des traductions manquantes."
+      "Correction de la lecture des couleurs du thème, des espacements et des traductions manquantes.",
+      "Correction du téléchargement des résultats IA lorsque la taille annoncée par le serveur diffère du fichier réel.",
+      "Correction des aperçus manquants lors de l'importation de packs de modèles IA.",
+      "Les images IA téléchargées sont désormais enregistrées avec l'extension correspondant à leur format réel.",
+      "Démarrage accéléré lorsque de nombreuses sauvegardes des données de partage se sont accumulées.",
+      "Les paramètres système de l'imprimante s'ouvrent dans un processus séparé et se ferment directement avec l'icône de fermeture."
     ],
     "it-IT": [
+      "Risolta la perdita di musica, intro, outro, sovrapposizioni e altri elementi video dopo il cambio di progetto o il riavvio di MixUp.",
+      "Il timeout della sessione non interrompe più una registrazione video, un download o un rendering in corso.",
+      "Le vecchie attività IA non riuscite non mostrano più un errore bloccante all'avvio di MixUp.",
       "Corretto un errore intermittente di convalida che poteva rifiutare immagini IA scaricate correttamente.",
       "Migliorata la stabilità di condivisione e stampa durante il cambio di sessione o con contenuti vuoti o eliminati; aggiornate le connessioni cloud sicure.",
       "L'editor delle schermate della cabina riunisce guide, conto alla rovescia e pulsante di avvio, con impostazioni di testo e posizione.",
       "Aggiunta un'intestazione arrotondata opzionale con avanzamento più fluido di registrazioni e serie di foto e comandi touch più grandi.",
       "Aggiunte attività recenti, un controllo rapido del blocco orario e pulsanti di uscita; l'icona a schermo intero riflette lo stato attuale.",
-      "Corretti la lettura dei colori del tema, le spaziature e le traduzioni mancanti."
+      "Corretti la lettura dei colori del tema, le spaziature e le traduzioni mancanti.",
+      "Corretto il download dei risultati IA quando la dimensione indicata dal server differisce da quella del file effettivo.",
+      "Corrette le anteprime mancanti durante l'importazione di pacchetti di modelli IA.",
+      "Le immagini IA scaricate ora vengono salvate con l'estensione corrispondente al loro formato effettivo.",
+      "Avvio più rapido quando si sono accumulate molte copie di backup dei dati di condivisione.",
+      "Le impostazioni di sistema della stampante si aprono in un processo separato e possono essere chiuse direttamente con l'icona di chiusura."
     ],
     "pt-BR": [
-      "Corrigido um erro intermitente de validação que podia rejeitar imagens de IA baixadas corretamente.",
+      "Corrigida a perda de música, introdução, encerramento, sobreposições e outros elementos de vídeo após trocar de projeto ou reiniciar o MixUp.",
+      "O tempo limite da sessão não interrompe mais uma gravação, download ou renderização em andamento.",
+      "Tarefas antigas de IA com falha não exibem mais um erro bloqueante ao iniciar o MixUp.",
+      "Corrigido um erro intermitente de validação que podia rejeitar imagens IA baixadas corretamente.",
       "Melhorada a estabilidade do compartilhamento e da impressão ao trocar de sessão ou abrir conteúdo vazio ou excluído; atualizadas as conexões seguras com a nuvem.",
       "O editor de telas da cabine reúne orientações, contagem regressiva e botão de início, com ajustes de texto e posicionamento.",
       "Adicionado um cabeçalho arredondado opcional com progresso mais suave de gravações e séries de fotos, além de controles de toque maiores.",
       "Adicionadas ações recentes, controle rápido do bloqueio por horário e botões de saída; o ícone de tela cheia reflete o estado atual.",
-      "Corrigidos a leitura das cores do tema, os espaçamentos e as traduções ausentes."
+      "Corrigidos a leitura das cores do tema, os espaçamentos e as traduções ausentes.",
+      "Corrigido o download de resultados de IA quando o tamanho informado pelo servidor difere do arquivo real.",
+      "Corrigidas as prévias ausentes ao importar pacotes de modelos de IA.",
+      "As imagens de IA baixadas agora são salvas com a extensão correspondente ao seu formato real.",
+      "Inicialização mais rápida quando muitos backups dos dados de compartilhamento foram acumulados.",
+      "As configurações do sistema da impressora são abertas em um processo separado e podem ser fechadas diretamente pelo ícone de fechar."
     ],
     "pt-PT": [
-      "Corrigido um erro intermitente de validação que podia rejeitar imagens de IA transferidas corretamente.",
+      "Corrigida a perda de música, introdução, encerramento, sobreposições e outros elementos de vídeo após mudar de projeto ou reiniciar o MixUp.",
+      "O tempo limite da sessão deixou de interromper uma gravação, transferência ou renderização em curso.",
+      "As tarefas antigas de IA com falha deixaram de mostrar um erro bloqueante ao iniciar o MixUp.",
+      "Corrigido um erro intermitente de validação que podia rejeitar imagens IA transferidas corretamente.",
       "Melhorada a estabilidade da partilha e da impressão ao mudar de sessão ou abrir conteúdo vazio ou eliminado; atualizadas as ligações seguras à nuvem.",
       "O editor de ecrãs da cabine reúne indicações, contagem decrescente e botão de início, com ajustes de texto e posicionamento.",
       "Adicionado um cabeçalho arredondado opcional com progresso mais suave das gravações e séries de fotografias, além de controlos táteis maiores.",
       "Adicionadas ações recentes, controlo rápido do bloqueio por horário e botões de saída; o ícone de ecrã inteiro reflete o estado atual.",
-      "Corrigidos a leitura das cores do tema, os espaçamentos e as traduções em falta."
+      "Corrigidos a leitura das cores do tema, os espaçamentos e as traduções em falta.",
+      "Corrigida a transferência de resultados de IA quando o tamanho indicado pelo servidor difere do ficheiro real.",
+      "Corrigidas as pré-visualizações em falta ao importar pacotes de modelos de IA.",
+      "As imagens IA transferidas são agora guardadas com a extensão correspondente ao seu formato real.",
+      "Arranque mais rápido quando se acumularam muitas cópias de segurança dos dados de partilha.",
+      "As definições de sistema da impressora abrem num processo separado e podem ser fechadas diretamente através do ícone de fechar."
     ]
   },
   "schema": 1,
   "app": "MixUp",
-  "releasedAt": "2026-09-07T12:47:15+00:00"
+  "releasedAt": "2026-09-08T10:31:52+00:00"
 }
