@@ -4,6 +4,32 @@
   "defaultLocale": "en-US",
   "releases": [
     {
+      "version": "2.0.0.37",
+      "changes": {
+        "en-US": [
+          "Fixed video render jobs picking up another recording from the queue.",
+          "Fixed portrait video rotation, cropping and live view aspect ratio.",
+          "Fixed missing music after exporting and importing video projects or opening the editor.",
+          "Temporary video render files are now cleaned up after use.",
+          "Improved Canon camera diagnostics and error handling.",
+          "The rounded booth header is now the default for new events and events without a saved header preference.",
+          "Made GoPro camera settings more compact; temporarily hid experimental printer supplies checks.",
+          "Release preparation now synchronizes and verifies UI assets before packaging."
+        ],
+        "ru-RU": [
+          "Исправлен выбор исходного ролика при обработке очереди видео.",
+          "Исправлены поворот, кадрирование вертикального видео и пропорции Live View.",
+          "Исправлена потеря музыки при экспорте и импорте видеопроектов и открытии редактора.",
+          "Временные файлы обработки видео теперь удаляются после использования.",
+          "Расширена диагностика камер Canon и обработка ошибок.",
+          "Скруглённая шапка будки теперь включена по умолчанию для новых мероприятий и мероприятий без сохранённого выбора стиля шапки.",
+          "Настройки GoPro стали компактнее; экспериментальная проверка расходников принтера временно скрыта.",
+          "При подготовке релиза добавлены синхронизация и проверка UI-ассетов перед упаковкой."
+        ]
+      },
+      "releasedAt": "2026-09-10T20:01:06+00:00"
+    },
+    {
       "version": "2.0.0.36",
       "changes": {
         "en-US": [
