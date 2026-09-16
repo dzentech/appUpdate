@@ -1,29 +1,29 @@
 {
-  "version": "2.0.0.37",
+  "version": "2.0.0.38",
   "defaultLocale": "en-US",
   "changes": {
     "en-US": [
-      "Fixed video render jobs picking up another recording from the queue.",
-      "Fixed portrait video rotation, cropping and live view aspect ratio.",
-      "Fixed missing music after exporting and importing video projects or opening the editor.",
-      "Temporary video render files are now cleaned up after use.",
-      "Improved Canon camera diagnostics and error handling.",
-      "The rounded booth header is now the default for new events and events without a saved header preference.",
-      "Made GoPro camera settings more compact; temporarily hid experimental printer supplies checks.",
-      "Release preparation now synchronizes and verifies UI assets before packaging."
+      "Added original video audio: keep the source track or follow timeline cuts, speed changes and reverse playback. Uploaded music takes priority.",
+      "Added source-audio waveform and improved audio controls, customization cards and tooltips.",
+      "Muted looping previews in video settings and customization; sound remains available in the video editor and rendered output.",
+      "Integrated MixUp Manager for updates, installation diagnostics, repair, rollback and AI model downloads.",
+      "Improved USB device selection and search filtering; fixed a UI stall when disabling a spinner during device search.",
+      "Improved project, event and template cards: long names are shortened and photo, video and AI modes use icons.",
+      "Reduced repetitive log messages while retaining diagnostic summaries.",
+      "Update packages now include the complete Manager runtime, the signed printer helper and current UI assets."
     ],
     "ru-RU": [
-      "Исправлен выбор исходного ролика при обработке очереди видео.",
-      "Исправлены поворот, кадрирование вертикального видео и пропорции Live View.",
-      "Исправлена потеря музыки при экспорте и импорте видеопроектов и открытии редактора.",
-      "Временные файлы обработки видео теперь удаляются после использования.",
-      "Расширена диагностика камер Canon и обработка ошибок.",
-      "Скруглённая шапка будки теперь включена по умолчанию для новых мероприятий и мероприятий без сохранённого выбора стиля шапки.",
-      "Настройки GoPro стали компактнее; экспериментальная проверка расходников принтера временно скрыта.",
-      "При подготовке релиза добавлены синхронизация и проверка UI-ассетов перед упаковкой."
+      "Добавлен звук исходного видео: дорожку можно оставить без монтажа или синхронизировать с нарезкой, изменением скорости и реверсом. Загруженная музыка имеет приоритет.",
+      "Добавлена звуковая волна исходного видео; улучшены настройки аудио, плитки оформления и подсказки.",
+      "Отключён звук зацикленного превью в настройках видео и оформления. В видеоредакторе и готовом ролике звук сохраняется.",
+      "Подключён MixUp Manager: обновление, диагностика и восстановление установки, откат версии и загрузка ИИ-моделей.",
+      "Улучшены выбор и фильтрация USB-устройств; исправлено зависание интерфейса при выключении спиннера во время поиска.",
+      "Улучшены карточки проектов, мероприятий и шаблонов: длинные названия сокращаются, режимы фото, видео и ИИ обозначены иконками.",
+      "Сокращены повторяющиеся записи в логах с сохранением диагностических сводок.",
+      "В пакеты обновления включены полный комплект Manager, подписанный модуль настроек принтера и актуальные UI-ассеты."
     ]
   },
   "schema": 1,
   "app": "MixUp",
-  "releasedAt": "2026-09-10T20:01:06+00:00"
+  "releasedAt": "2026-09-16T15:54:32+00:00"
 }
