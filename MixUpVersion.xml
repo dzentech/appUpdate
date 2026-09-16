@@ -1,6 +1,6 @@
-<LATEST_RELEASE>2.0.0.37</LATEST_RELEASE>
+<LATEST_RELEASE>2.0.0.38</LATEST_RELEASE>
 <RELEASE_LINK>https://www.dzentech.store/download/</RELEASE_LINK>
 <MANIFEST>https://raw.githubusercontent.com/dzentech/appUpdate/main/manifest.json</MANIFEST>
 <Log>
-Fixed video queue sources, portrait framing, music import and temporary file cleanup; improved camera diagnostics and UI packaging.
+Original video audio and timeline audio, audio waveform and customization UI, integrated update and repair Manager, device selection fixes.
 </Log>
