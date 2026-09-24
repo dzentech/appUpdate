@@ -4,6 +4,84 @@
   "defaultLocale": "en-US",
   "releases": [
     {
+      "version": "2.0.0.39",
+      "changes": {
+        "en-US": [
+          "Added a local session API for integrations on this computer or the local network: prepare and start sessions, select capture mode, project and AI template, and prefill questionnaires.",
+          "The session API can report session status, list and download results, and send photos to configured printers. Access uses a persistent API key; internal application settings are not exposed.",
+          "Added a separate API settings dialog and improved the application settings layout.",
+          "Improved GoPro photo capture: MixUp checks for a newly created image instead of accepting an older file, with bounded waiting and additional camera diagnostics.",
+          "Photo capture failures now block further capture until a successful camera test photo. Details and recovery guidance are shown to the administrator, while guests receive a neutral message.",
+          "Reorganized booth Control into Status, Event and Activity history tabs. Event dates, pause and time locking are grouped together; recent actions and camera errors are available directly in the window.",
+          "Improved Control sizing and scrolling so capture and device controls do not overlap status messages."
+        ],
+        "de-DE": [
+          "Eine lokale Sitzungs-API ermöglicht Integrationen auf diesem Computer oder im lokalen Netzwerk: Sitzungen vorbereiten und starten, Aufnahmemodus, Projekt und KI-Vorlage auswählen sowie Fragebögen vorab ausfüllen.",
+          "Die Sitzungs-API liefert den Sitzungsstatus und eine Ergebnisliste, ermöglicht das Herunterladen fertiger Dateien und sendet Fotos an konfigurierte Drucker. Der Zugriff erfolgt über einen dauerhaften API-Schlüssel; interne Anwendungseinstellungen sind nicht zugänglich.",
+          "Die API-Einstellungen haben nun einen eigenen Dialog. Das Layout der Anwendungseinstellungen wurde verbessert.",
+          "GoPro-Fotoaufnahmen wurden verbessert: MixUp prüft, ob ein neues Bild erstellt wurde, statt eine ältere Datei zu übernehmen. Die Wartezeit ist begrenzt, und zusätzliche Kameradiagnosen stehen zur Verfügung.",
+          "Nach einem Fehler bei der Fotoaufnahme bleiben weitere Aufnahmen bis zu einem erfolgreichen Kameratestfoto gesperrt. Details und Hinweise zur Fehlerbehebung werden dem Administrator angezeigt; Gäste erhalten eine neutrale Meldung.",
+          "Die Fotobox-Steuerung ist jetzt in die Registerkarten Status, Veranstaltung und Aktivitätsverlauf aufgeteilt. Veranstaltungszeiten, Pause und zeitabhängige Sperre sind zusammengefasst; letzte Aktionen und Kamerafehler sind direkt im Fenster verfügbar.",
+          "Fenstergröße und Scrollverhalten der Steuerung wurden verbessert, damit Aufnahme- und Gerätesteuerungen keine Statusmeldungen überdecken."
+        ],
+        "es-ES": [
+          "Se ha añadido una API local de sesiones para integraciones en este equipo o en la red local: preparar e iniciar sesiones, seleccionar el modo de captura, el proyecto y la plantilla de IA, y rellenar cuestionarios de antemano.",
+          "La API permite consultar el estado de la sesión, enumerar y descargar resultados y enviar fotos a las impresoras configuradas. El acceso utiliza una clave de API permanente; los ajustes internos de la aplicación no están disponibles.",
+          "Los ajustes de la API tienen ahora un diálogo independiente. Se ha mejorado la distribución de los ajustes de la aplicación.",
+          "Se ha mejorado la captura de fotos con GoPro: MixUp comprueba que se haya creado una imagen nueva en lugar de aceptar un archivo anterior, con un tiempo de espera limitado y diagnósticos adicionales de la cámara.",
+          "Tras un error al tomar una foto, se bloquean las nuevas capturas hasta obtener una foto de prueba correcta. El administrador recibe detalles e indicaciones de recuperación; los invitados ven un mensaje neutro.",
+          "El control de la cabina se organiza ahora en las pestañas Estado, Evento e Historial de actividad. Las fechas del evento, la pausa y el bloqueo por horario se agrupan; las últimas acciones y los errores de cámara se consultan en la misma ventana.",
+          "Se han mejorado el tamaño y el desplazamiento de la ventana de control para que los controles de captura y dispositivos no se superpongan a los mensajes de estado."
+        ],
+        "fr-FR": [
+          "Ajout d’une API locale de sessions pour les intégrations sur cet ordinateur ou le réseau local : préparer et démarrer des sessions, sélectionner le mode de prise de vue, le projet et le modèle d’IA, et préremplir les questionnaires.",
+          "L’API permet de consulter l’état d’une session, de répertorier et télécharger les résultats, et d’envoyer des photos aux imprimantes configurées. L’accès utilise une clé API permanente ; les paramètres internes de l’application ne sont pas accessibles.",
+          "Les paramètres de l’API disposent désormais d’une boîte de dialogue séparée. La disposition des paramètres de l’application a été améliorée.",
+          "La prise de photos GoPro a été améliorée : MixUp vérifie qu’une nouvelle image a été créée au lieu d’accepter un ancien fichier, avec un délai d’attente limité et des diagnostics supplémentaires de la caméra.",
+          "Après un échec de prise de vue, les nouvelles captures sont bloquées jusqu’à la réussite d’une photo de test. Les détails et les conseils de dépannage sont présentés à l’administrateur ; les invités reçoivent un message neutre.",
+          "Le contrôle de la borne est désormais réparti entre les onglets État, Événement et Historique des actions. Les dates, la pause et le verrouillage horaire sont regroupés ; les dernières actions et les erreurs de caméra sont accessibles dans la même fenêtre.",
+          "La taille et le défilement de la fenêtre de contrôle ont été améliorés afin que les commandes de capture et des appareils ne recouvrent pas les messages d’état."
+        ],
+        "it-IT": [
+          "Aggiunta un’API locale delle sessioni per integrazioni su questo computer o nella rete locale: preparazione e avvio delle sessioni, selezione della modalità di ripresa, del progetto e del modello IA e compilazione anticipata dei questionari.",
+          "L’API permette di consultare lo stato della sessione, elencare e scaricare i risultati e inviare foto alle stampanti configurate. L’accesso utilizza una chiave API permanente; le impostazioni interne dell’applicazione non sono accessibili.",
+          "Le impostazioni dell’API ora dispongono di una finestra separata. È stata migliorata la disposizione delle impostazioni dell’applicazione.",
+          "Migliorata l’acquisizione di foto GoPro: MixUp verifica che sia stata creata una nuova immagine anziché accettare un file precedente, con un tempo di attesa limitato e ulteriori dati diagnostici della fotocamera.",
+          "Dopo un errore di acquisizione, le nuove foto sono bloccate fino al completamento di una foto di prova riuscita. L’amministratore riceve dettagli e indicazioni per il ripristino; agli ospiti viene mostrato un messaggio neutro.",
+          "Il controllo della cabina è ora suddiviso nelle schede Stato, Evento e Cronologia attività. Date dell’evento, pausa e blocco a orario sono raggruppati; le ultime azioni e gli errori della fotocamera sono disponibili nella stessa finestra.",
+          "Migliorati dimensioni e scorrimento della finestra di controllo, evitando che i comandi di acquisizione e dei dispositivi si sovrappongano ai messaggi di stato."
+        ],
+        "pt-BR": [
+          "Adicionada uma API local de sessões para integrações neste computador ou na rede local: preparar e iniciar sessões, selecionar o modo de captura, o projeto e o modelo de IA e preencher questionários antecipadamente.",
+          "A API permite consultar o status da sessão, listar e baixar resultados e enviar fotos às impressoras configuradas. O acesso utiliza uma chave de API permanente; as configurações internas do aplicativo não ficam disponíveis.",
+          "As configurações da API agora ficam em uma janela separada. A organização das configurações do aplicativo foi melhorada.",
+          "A captura de fotos com GoPro foi melhorada: o MixUp verifica se uma nova imagem foi criada em vez de aceitar um arquivo anterior, com tempo de espera limitado e diagnósticos adicionais da câmera.",
+          "Após uma falha na captura de fotos, novas capturas ficam bloqueadas até que uma foto de teste seja concluída com sucesso. O administrador recebe detalhes e orientações de recuperação; os convidados veem uma mensagem neutra.",
+          "O controle da cabine foi reorganizado nas abas Status, Evento e Histórico de atividades. Datas do evento, pausa e bloqueio por horário ficam agrupados; ações recentes e erros da câmera estão disponíveis na própria janela.",
+          "O tamanho e a rolagem da janela de controle foram melhorados para que os controles de captura e dispositivos não se sobreponham às mensagens de status."
+        ],
+        "pt-PT": [
+          "Adicionada uma API local de sessões para integrações neste computador ou na rede local: preparar e iniciar sessões, selecionar o modo de captura, o projeto e o modelo de IA e preencher questionários antecipadamente.",
+          "A API permite consultar o estado da sessão, listar e transferir resultados e enviar fotografias para as impressoras configuradas. O acesso utiliza uma chave de API permanente; as definições internas da aplicação não estão acessíveis.",
+          "As definições da API passam a ter uma janela separada. A disposição das definições da aplicação foi melhorada.",
+          "A captura de fotografias com GoPro foi melhorada: o MixUp verifica se foi criada uma nova imagem em vez de aceitar um ficheiro anterior, com um tempo de espera limitado e diagnósticos adicionais da câmara.",
+          "Após uma falha na captura de fotografias, novas capturas ficam bloqueadas até ser tirada uma fotografia de teste com sucesso. O administrador recebe detalhes e orientações de recuperação; os convidados veem uma mensagem neutra.",
+          "O controlo da cabine foi reorganizado nos separadores Estado, Evento e Histórico de atividades. Datas do evento, pausa e bloqueio por horário ficam agrupados; as últimas ações e os erros da câmara estão disponíveis na própria janela.",
+          "O tamanho e o deslocamento da janela de controlo foram melhorados para que os controlos de captura e dos dispositivos não se sobreponham às mensagens de estado."
+        ],
+        "ru-RU": [
+          "Добавлен локальный API сессий для интеграций на этом компьютере и в локальной сети: подготовка и запуск сессий, выбор режима съёмки, проекта и ИИ-шаблона, предварительное заполнение анкет.",
+          "Через API можно получать статус сессии, список результатов, скачивать готовые файлы и отправлять фотографии на настроенные принтеры. Доступ выполняется по постоянному API-ключу; внутренние настройки приложения через API недоступны.",
+          "Настройки API вынесены в отдельное окно; улучшена компоновка общих настроек приложения.",
+          "Улучшена фотосъёмка GoPro: проверяется появление нового снимка вместо использования старого файла, ограничено время ожидания и расширена диагностика камеры.",
+          "При ошибке фотосъёмки повторный запуск блокируется до успешного тестового снимка. Подробности и рекомендации доступны администратору, а гостю показывается нейтральное сообщение.",
+          "Окно управления будкой разделено на вкладки «Статус», «Мероприятие» и «История действий». Даты, пауза и блокировка по времени собраны вместе; последние действия и ошибки камеры доступны прямо в окне.",
+          "Исправлены размеры и прокрутка окна управления: кнопки съёмки и устройств больше не перекрывают сообщения о состоянии."
+        ]
+      },
+      "releasedAt": "2026-09-24T11:21:00+00:00"
+    },
+    {
       "version": "2.0.0.38",
       "changes": {
         "en-US": [
