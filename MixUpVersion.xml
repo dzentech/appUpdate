@@ -1,6 +1,6 @@
-<LATEST_RELEASE>2.0.0.39</LATEST_RELEASE>
+<LATEST_RELEASE>2.0.0.40</LATEST_RELEASE>
 <RELEASE_LINK>https://www.dzentech.store/download/</RELEASE_LINK>
 <MANIFEST>https://raw.githubusercontent.com/dzentech/appUpdate/main/manifest.json</MANIFEST>
 <Log>
-Local session API, GoPro fresh-photo validation and camera diagnostics, tabbed booth Control.
+Canon USB detection fixes, local gallery controls and per-device downloads, cloud account disconnection and status fixes.
 </Log>
