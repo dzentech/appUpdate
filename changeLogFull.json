@@ -4,6 +4,68 @@
   "defaultLocale": "en-US",
   "releases": [
     {
+      "version": "2.0.0.40",
+      "changes": {
+        "en-US": [
+          "Fixed detection and connection of Canon cameras, including EOS R50, when Windows and the Canon SDK report different USB interfaces. Improved camera model names and connection diagnostics.",
+          "Local web gallery downloads are now available regardless of how the gallery was opened. Administrators can disable downloads for an individual browser, for example on a display tablet, without affecting other devices.",
+          "Local gallery settings now show a compact address button with open and copy actions and a separate QR Code button. These controls are disabled while the server is stopped.",
+          "Added separate Disconnect controls for Dropbox and Yandex Disk. Saved authorization is removed only from this computer; cloud files and upload folder settings are preserved. Fixed authorization targeting the wrong provider.",
+          "Corrected booth cloud status checks so unused cloud services do not produce misleading connection warnings when only the local gallery is used."
+        ],
+        "ru-RU": [
+          "Исправлены обнаружение и подключение камер Canon, включая EOS R50, когда Windows и SDK Canon сообщают разные USB-интерфейсы. Улучшены отображение модели камеры и диагностика подключения.",
+          "Скачивание в локальной веб-галерее теперь доступно независимо от способа её открытия. Администратор может отключить скачивание в отдельном браузере, например на демонстрационном планшете, не затрагивая другие устройства.",
+          "В настройках локальной галереи появилась компактная кнопка с адресом, действиями открытия и копирования, а также отдельная кнопка QR-кода. При остановленном сервере эти элементы недоступны.",
+          "Добавлены отдельные кнопки отключения Dropbox и Яндекс.Диска. Сохранённая авторизация удаляется только на этом компьютере; файлы в облаке и настройки папок сохраняются. Исправлен выбор провайдера при авторизации.",
+          "Исправлена проверка облачных статусов в будке: неиспользуемые облачные сервисы больше не вызывают ложные предупреждения о подключении при работе только с локальной галереей."
+        ],
+        "de-DE": [
+          "Erkennung und Verbindung von Canon-Kameras, einschließlich EOS R50, wurden korrigiert, wenn Windows und das Canon SDK unterschiedliche USB-Schnittstellen melden. Modellnamen und Verbindungsdiagnose wurden verbessert.",
+          "Downloads in der lokalen Webgalerie sind jetzt unabhängig davon verfügbar, wie die Galerie geöffnet wurde. Administratoren können Downloads in einem einzelnen Browser deaktivieren, etwa auf einem Präsentationstablet, ohne andere Geräte zu beeinflussen.",
+          "Die Einstellungen der lokalen Galerie zeigen jetzt eine kompakte Adressschaltfläche zum Öffnen, eine Kopieraktion und eine separate QR-Code-Schaltfläche. Bei gestopptem Server sind diese Elemente deaktiviert.",
+          "Separate Schaltflächen zum Trennen von Dropbox und Yandex Disk wurden hinzugefügt. Gespeicherte Zugangsdaten werden nur auf diesem Computer entfernt; Cloud-Dateien und Upload-Ordner bleiben erhalten. Die Auswahl des Anbieters bei der Autorisierung wurde korrigiert.",
+          "Die Cloud-Statusprüfung der Fotobox wurde korrigiert: Nicht verwendete Cloud-Dienste lösen bei ausschließlicher Nutzung der lokalen Galerie keine irreführenden Verbindungswarnungen mehr aus."
+        ],
+        "es-ES": [
+          "Se corrigieron la detección y la conexión de cámaras Canon, incluida la EOS R50, cuando Windows y el SDK de Canon indican interfaces USB diferentes. Se mejoraron los nombres de los modelos y el diagnóstico de conexión.",
+          "Las descargas de la galería web local están disponibles independientemente de cómo se haya abierto. El administrador puede desactivarlas en un navegador concreto, por ejemplo en una tableta de exposición, sin afectar a otros dispositivos.",
+          "Los ajustes de la galería local muestran un botón compacto con la dirección para abrirla, una acción de copia y un botón independiente de código QR. Estos controles se desactivan cuando el servidor está detenido.",
+          "Se añadieron controles independientes para desconectar Dropbox y Yandex Disk. La autorización guardada se elimina solo de este equipo; se conservan los archivos en la nube y las carpetas de carga. Se corrigió la selección del proveedor al autorizar.",
+          "Se corrigieron las comprobaciones de estado en la cabina para que los servicios de nube no utilizados no produzcan avisos de conexión engañosos al usar únicamente la galería local."
+        ],
+        "fr-FR": [
+          "Correction de la détection et de la connexion des appareils Canon, dont l’EOS R50, lorsque Windows et le SDK Canon indiquent des interfaces USB différentes. Amélioration des noms de modèles et du diagnostic de connexion.",
+          "Le téléchargement dans la galerie web locale est désormais disponible quel que soit le mode d’ouverture. L’administrateur peut le désactiver dans un navigateur précis, par exemple sur une tablette de présentation, sans affecter les autres appareils.",
+          "Les paramètres de la galerie locale affichent un bouton d’adresse compact pour l’ouvrir, une action de copie et un bouton QR Code séparé. Ces commandes sont désactivées lorsque le serveur est arrêté.",
+          "Ajout de commandes de déconnexion distinctes pour Dropbox et Yandex Disk. L’autorisation enregistrée est supprimée uniquement de cet ordinateur ; les fichiers dans le cloud et les dossiers d’envoi sont conservés. Correction du choix du fournisseur lors de l’autorisation.",
+          "Correction des vérifications d’état du cloud dans la cabine : les services inutilisés ne produisent plus d’avertissements de connexion trompeurs lorsque seule la galerie locale est utilisée."
+        ],
+        "it-IT": [
+          "Corretti il rilevamento e la connessione delle fotocamere Canon, inclusa EOS R50, quando Windows e l’SDK Canon segnalano interfacce USB diverse. Migliorati i nomi dei modelli e la diagnostica della connessione.",
+          "I download nella galleria web locale sono ora disponibili indipendentemente da come viene aperta. L’amministratore può disabilitarli in un singolo browser, ad esempio su un tablet espositivo, senza influire sugli altri dispositivi.",
+          "Le impostazioni della galleria locale mostrano un pulsante compatto con l’indirizzo per aprirla, un’azione di copia e un pulsante QR Code separato. Questi controlli sono disabilitati quando il server è fermo.",
+          "Aggiunti controlli separati per disconnettere Dropbox e Yandex Disk. L’autorizzazione salvata viene rimossa solo da questo computer; i file nel cloud e le cartelle di caricamento vengono conservati. Corretta la selezione del provider durante l’autorizzazione.",
+          "Corretti i controlli dello stato cloud nella cabina: i servizi non utilizzati non generano avvisi di connessione fuorvianti quando si usa solo la galleria locale."
+        ],
+        "pt-BR": [
+          "Corrigidas a detecção e a conexão de câmeras Canon, incluindo a EOS R50, quando o Windows e o SDK da Canon informam interfaces USB diferentes. Melhorados os nomes dos modelos e o diagnóstico de conexão.",
+          "Os downloads na galeria web local agora estão disponíveis independentemente de como ela foi aberta. O administrador pode desativá-los em um navegador específico, por exemplo em um tablet de exposição, sem afetar outros dispositivos.",
+          "As configurações da galeria local agora mostram um botão compacto com o endereço para abri-la, uma ação de cópia e um botão de QR Code separado. Esses controles ficam desativados quando o servidor está parado.",
+          "Adicionados controles separados para desconectar Dropbox e Yandex Disk. A autorização salva é removida apenas deste computador; os arquivos na nuvem e as pastas de envio são preservados. Corrigida a seleção do provedor na autorização.",
+          "Corrigidas as verificações de status da nuvem na cabine para que serviços não utilizados não gerem avisos de conexão enganosos quando apenas a galeria local é usada."
+        ],
+        "pt-PT": [
+          "Corrigidas a deteção e a ligação de câmaras Canon, incluindo a EOS R50, quando o Windows e o SDK da Canon indicam interfaces USB diferentes. Melhorados os nomes dos modelos e o diagnóstico da ligação.",
+          "As transferências na galeria web local estão agora disponíveis independentemente da forma como é aberta. O administrador pode desativá-las num navegador específico, por exemplo num tablet de exposição, sem afetar outros dispositivos.",
+          "As definições da galeria local apresentam agora um botão compacto com o endereço para a abrir, uma ação de cópia e um botão de código QR separado. Estes controlos ficam desativados quando o servidor está parado.",
+          "Adicionados controlos separados para desligar Dropbox e Yandex Disk. A autorização guardada é removida apenas deste computador; os ficheiros na nuvem e as pastas de envio são preservados. Corrigida a seleção do fornecedor na autorização.",
+          "Corrigidas as verificações de estado da nuvem na cabine para que os serviços não utilizados não gerem avisos de ligação enganadores quando apenas a galeria local é utilizada."
+        ]
+      },
+      "releasedAt": "2026-09-28T15:21:34+00:00"
+    },
+    {
       "version": "2.0.0.39",
       "changes": {
         "en-US": [
