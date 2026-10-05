@@ -1,6 +1,6 @@
-<LATEST_RELEASE>2.0.0.40</LATEST_RELEASE>
+<LATEST_RELEASE>2.0.0.41</LATEST_RELEASE>
 <RELEASE_LINK>https://www.dzentech.store/download/</RELEASE_LINK>
 <MANIFEST>https://raw.githubusercontent.com/dzentech/appUpdate/main/manifest.json</MANIFEST>
 <Log>
-Canon USB detection fixes, local gallery controls and per-device downloads, cloud account disconnection and status fixes.
+Fixed printer option application and saved margins/offsets; improved print failure diagnostics.
 </Log>
