@@ -4,6 +4,52 @@
   "defaultLocale": "en-US",
   "releases": [
     {
+      "version": "2.0.0.41",
+      "changes": {
+        "en-US": [
+          "Fixed saved settings being ignored for main, optional and custom printer options, including printers with long or driver-specific queue names. Test printing and session printing now apply the selected option consistently.",
+          "Print margins and image offsets are now saved and restored together with scale. Jobs already queued retain their selected settings when an option is edited later.",
+          "Improved printing diagnostics: logs record the selected option and settings accepted by the driver. Failed image loading or page submission is no longer reported as successful printing."
+        ],
+        "ru-RU": [
+          "Исправлено игнорирование сохранённых настроек основного, опционального и дополнительных вариантов печати, в том числе у принтеров с длинными или специфичными для драйвера именами очередей. Тестовая печать и печать сессий корректно применяют выбранную опцию.",
+          "Поля печати и смещение изображения теперь сохраняются и восстанавливаются вместе с масштабом. Задания в очереди сохраняют выбранные настройки при последующем редактировании опции.",
+          "Улучшена диагностика печати: в лог записываются выбранная опция и настройки, принятые драйвером. Ошибки загрузки изображения или отправки страницы больше не отображаются как успешная печать."
+        ],
+        "de-DE": [
+          "Gespeicherte Einstellungen für Haupt-, optionale und zusätzliche Druckoptionen werden jetzt korrekt angewendet, auch bei langen oder treiberspezifischen Warteschlangennamen. Testdruck und Sitzungsdruck verwenden die ausgewählte Option einheitlich.",
+          "Druckränder und Bildversatz werden jetzt zusammen mit der Skalierung gespeichert und wiederhergestellt. Bereits eingereihte Aufträge behalten ihre Einstellungen, wenn eine Option später bearbeitet wird.",
+          "Verbesserte Druckdiagnose: Das Protokoll enthält die ausgewählte Option und die vom Treiber übernommenen Einstellungen. Fehler beim Laden eines Bildes oder Übermitteln einer Seite werden nicht mehr als erfolgreicher Druck gemeldet."
+        ],
+        "es-ES": [
+          "Se corrigió la aplicación de los ajustes guardados en las opciones de impresión principal, opcional y adicionales, incluso con nombres de cola largos o específicos del controlador. La impresión de prueba y de sesiones aplican la opción seleccionada de forma coherente.",
+          "Los márgenes y el desplazamiento de la imagen se guardan y restauran junto con la escala. Los trabajos ya en cola conservan sus ajustes aunque la opción se modifique después.",
+          "Se mejoró el diagnóstico de impresión: el registro incluye la opción seleccionada y los ajustes aceptados por el controlador. Los errores al cargar imágenes o enviar páginas ya no se notifican como impresiones correctas."
+        ],
+        "fr-FR": [
+          "Correction de l’application des paramètres enregistrés pour les options d’impression principale, facultative et supplémentaires, y compris avec des noms de file longs ou propres au pilote. Les impressions de test et de session appliquent désormais correctement l’option choisie.",
+          "Les marges et le décalage de l’image sont désormais enregistrés et restaurés avec l’échelle. Les travaux déjà en attente conservent leurs paramètres si l’option est modifiée ensuite.",
+          "Amélioration du diagnostic d’impression : le journal indique l’option choisie et les paramètres acceptés par le pilote. Les erreurs de chargement d’image ou d’envoi de page ne sont plus signalées comme des impressions réussies."
+        ],
+        "it-IT": [
+          "Corretta l’applicazione delle impostazioni salvate per le opzioni di stampa principale, opzionale e aggiuntive, anche con nomi di coda lunghi o specifici del driver. La stampa di prova e delle sessioni applica ora coerentemente l’opzione selezionata.",
+          "I margini e lo spostamento dell’immagine vengono ora salvati e ripristinati insieme alla scala. I lavori già in coda mantengono le proprie impostazioni anche se l’opzione viene modificata in seguito.",
+          "Migliorata la diagnostica di stampa: il registro riporta l’opzione selezionata e le impostazioni accettate dal driver. Gli errori di caricamento dell’immagine o invio della pagina non vengono più segnalati come stampe riuscite."
+        ],
+        "pt-BR": [
+          "Corrigida a aplicação das configurações salvas nas opções de impressão principal, opcional e adicionais, inclusive com nomes de fila longos ou específicos do driver. A impressão de teste e das sessões agora aplica corretamente a opção selecionada.",
+          "As margens e o deslocamento da imagem agora são salvos e restaurados junto com a escala. Os trabalhos já na fila mantêm suas configurações se a opção for alterada depois.",
+          "Melhorado o diagnóstico de impressão: o log registra a opção selecionada e as configurações aceitas pelo driver. Falhas no carregamento da imagem ou no envio da página não são mais informadas como impressões bem-sucedidas."
+        ],
+        "pt-PT": [
+          "Corrigida a aplicação das definições guardadas nas opções de impressão principal, opcional e adicionais, incluindo nomes de fila longos ou específicos do controlador. A impressão de teste e das sessões aplica agora corretamente a opção selecionada.",
+          "As margens e o deslocamento da imagem são agora guardados e restaurados juntamente com a escala. Os trabalhos já na fila mantêm as suas definições se a opção for alterada posteriormente.",
+          "Melhorado o diagnóstico de impressão: o registo inclui a opção selecionada e as definições aceites pelo controlador. As falhas de carregamento da imagem ou envio da página já não são apresentadas como impressões bem-sucedidas."
+        ]
+      },
+      "releasedAt": "2026-10-05T12:08:31+00:00"
+    },
+    {
       "version": "2.0.0.40",
       "changes": {
         "en-US": [
