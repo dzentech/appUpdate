@@ -1,6 +1,6 @@
-<LATEST_RELEASE>2.0.0.41</LATEST_RELEASE>
+<LATEST_RELEASE>2.0.0.42</LATEST_RELEASE>
 <RELEASE_LINK>https://www.dzentech.store/download/</RELEASE_LINK>
 <MANIFEST>https://raw.githubusercontent.com/dzentech/appUpdate/main/manifest.json</MANIFEST>
 <Log>
-Fixed printer option application and saved margins/offsets; improved print failure diagnostics.
+Spinner USB timeout protection, protocol-confirmed connection readiness and improved connection diagnostics.
 </Log>
