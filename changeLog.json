@@ -1,49 +1,41 @@
 {
-  "version": "2.0.0.41",
-  "defaultLocale": "en-US",
+  "version": "2.0.0.42",
   "changes": {
     "en-US": [
-      "Fixed saved settings being ignored for main, optional and custom printer options, including printers with long or driver-specific queue names. Test printing and session printing now apply the selected option consistently.",
-      "Print margins and image offsets are now saved and restored together with scale. Jobs already queued retain their selected settings when an option is edited later.",
-      "Improved printing diagnostics: logs record the selected option and settings accepted by the driver. Failed image loading or page submission is no longer reported as successful printing."
+      "Improved Spinner USB connection reliability: bounded command transmission prevents a stalled USB write from indefinitely blocking reconnection or switching to Bluetooth.",
+      "Spinner is now shown as connected only after the controller responds and initial synchronization completes. Added connection and Start/Stop diagnostics."
     ],
     "ru-RU": [
-      "Исправлено игнорирование сохранённых настроек основного, опционального и дополнительных вариантов печати, в том числе у принтеров с длинными или специфичными для драйвера именами очередей. Тестовая печать и печать сессий корректно применяют выбранную опцию.",
-      "Поля печати и смещение изображения теперь сохраняются и восстанавливаются вместе с масштабом. Задания в очереди сохраняют выбранные настройки при последующем редактировании опции.",
-      "Улучшена диагностика печати: в лог записываются выбранная опция и настройки, принятые драйвером. Ошибки загрузки изображения или отправки страницы больше не отображаются как успешная печать."
+      "Повышена надёжность USB-подключения спиннера: ограничено время отправки команд, чтобы зависшая передача не блокировала повторное подключение и переход на Bluetooth на неопределённое время.",
+      "Статус подключения спиннера теперь появляется только после ответа контроллера и начальной синхронизации. Добавлена диагностика подключения и команд запуска/остановки."
     ],
     "de-DE": [
-      "Gespeicherte Einstellungen für Haupt-, optionale und zusätzliche Druckoptionen werden jetzt korrekt angewendet, auch bei langen oder treiberspezifischen Warteschlangennamen. Testdruck und Sitzungsdruck verwenden die ausgewählte Option einheitlich.",
-      "Druckränder und Bildversatz werden jetzt zusammen mit der Skalierung gespeichert und wiederhergestellt. Bereits eingereihte Aufträge behalten ihre Einstellungen, wenn eine Option später bearbeitet wird.",
-      "Verbesserte Druckdiagnose: Das Protokoll enthält die ausgewählte Option und die vom Treiber übernommenen Einstellungen. Fehler beim Laden eines Bildes oder Übermitteln einer Seite werden nicht mehr als erfolgreicher Druck gemeldet."
+      "Zuverlässigkeit der USB-Verbindung des Spinners verbessert: Eine Zeitbegrenzung für die Befehlsübertragung verhindert, dass ein blockierter USB-Schreibvorgang die erneute Verbindung oder den Wechsel zu Bluetooth unbegrenzt verhindert.",
+      "Der Spinner wird erst nach einer Antwort des Controllers und abgeschlossener Erstsynchronisierung als verbunden angezeigt. Diagnose für Verbindungen und Start/Stopp hinzugefügt."
     ],
     "es-ES": [
-      "Se corrigió la aplicación de los ajustes guardados en las opciones de impresión principal, opcional y adicionales, incluso con nombres de cola largos o específicos del controlador. La impresión de prueba y de sesiones aplican la opción seleccionada de forma coherente.",
-      "Los márgenes y el desplazamiento de la imagen se guardan y restauran junto con la escala. Los trabajos ya en cola conservan sus ajustes aunque la opción se modifique después.",
-      "Se mejoró el diagnóstico de impresión: el registro incluye la opción seleccionada y los ajustes aceptados por el controlador. Los errores al cargar imágenes o enviar páginas ya no se notifican como impresiones correctas."
+      "Mejorada la fiabilidad de la conexión USB del Spinner: el tiempo de envío de comandos está limitado para que una escritura USB bloqueada no impida indefinidamente reconectar o cambiar a Bluetooth.",
+      "El Spinner solo aparece conectado después de que el controlador responda y termine la sincronización inicial. Se añadieron diagnósticos de conexión e inicio/parada."
     ],
     "fr-FR": [
-      "Correction de l’application des paramètres enregistrés pour les options d’impression principale, facultative et supplémentaires, y compris avec des noms de file longs ou propres au pilote. Les impressions de test et de session appliquent désormais correctement l’option choisie.",
-      "Les marges et le décalage de l’image sont désormais enregistrés et restaurés avec l’échelle. Les travaux déjà en attente conservent leurs paramètres si l’option est modifiée ensuite.",
-      "Amélioration du diagnostic d’impression : le journal indique l’option choisie et les paramètres acceptés par le pilote. Les erreurs de chargement d’image ou d’envoi de page ne sont plus signalées comme des impressions réussies."
+      "Fiabilité de la connexion USB du Spinner améliorée : un délai limite de transmission des commandes empêche une écriture USB bloquée de bloquer indéfiniment la reconnexion ou le passage au Bluetooth.",
+      "Le Spinner apparaît connecté uniquement après la réponse du contrôleur et la synchronisation initiale. Ajout de diagnostics de connexion et de démarrage/arrêt."
     ],
     "it-IT": [
-      "Corretta l’applicazione delle impostazioni salvate per le opzioni di stampa principale, opzionale e aggiuntive, anche con nomi di coda lunghi o specifici del driver. La stampa di prova e delle sessioni applica ora coerentemente l’opzione selezionata.",
-      "I margini e lo spostamento dell’immagine vengono ora salvati e ripristinati insieme alla scala. I lavori già in coda mantengono le proprie impostazioni anche se l’opzione viene modificata in seguito.",
-      "Migliorata la diagnostica di stampa: il registro riporta l’opzione selezionata e le impostazioni accettate dal driver. Gli errori di caricamento dell’immagine o invio della pagina non vengono più segnalati come stampe riuscite."
+      "Migliorata l'affidabilità della connessione USB dello Spinner: un limite di tempo per l'invio dei comandi impedisce che una scrittura USB bloccata ostacoli indefinitamente la riconnessione o il passaggio al Bluetooth.",
+      "Lo Spinner risulta connesso solo dopo la risposta del controller e la sincronizzazione iniziale. Aggiunta la diagnostica di connessione e avvio/arresto."
     ],
     "pt-BR": [
-      "Corrigida a aplicação das configurações salvas nas opções de impressão principal, opcional e adicionais, inclusive com nomes de fila longos ou específicos do driver. A impressão de teste e das sessões agora aplica corretamente a opção selecionada.",
-      "As margens e o deslocamento da imagem agora são salvos e restaurados junto com a escala. Os trabalhos já na fila mantêm suas configurações se a opção for alterada depois.",
-      "Melhorado o diagnóstico de impressão: o log registra a opção selecionada e as configurações aceitas pelo driver. Falhas no carregamento da imagem ou no envio da página não são mais informadas como impressões bem-sucedidas."
+      "Melhorada a confiabilidade da conexão USB do Spinner: o envio de comandos tem tempo limite para que uma gravação USB bloqueada não impeça indefinidamente a reconexão ou a troca para Bluetooth.",
+      "O Spinner só aparece conectado após a resposta do controlador e a sincronização inicial. Adicionados diagnósticos de conexão e início/parada."
     ],
     "pt-PT": [
-      "Corrigida a aplicação das definições guardadas nas opções de impressão principal, opcional e adicionais, incluindo nomes de fila longos ou específicos do controlador. A impressão de teste e das sessões aplica agora corretamente a opção selecionada.",
-      "As margens e o deslocamento da imagem são agora guardados e restaurados juntamente com a escala. Os trabalhos já na fila mantêm as suas definições se a opção for alterada posteriormente.",
-      "Melhorado o diagnóstico de impressão: o registo inclui a opção selecionada e as definições aceites pelo controlador. As falhas de carregamento da imagem ou envio da página já não são apresentadas como impressões bem-sucedidas."
+      "Melhorada a fiabilidade da ligação USB do Spinner: o envio de comandos tem um limite de tempo para que uma escrita USB bloqueada não impeça indefinidamente a religação ou a mudança para Bluetooth.",
+      "O Spinner só aparece ligado após a resposta do controlador e a sincronização inicial. Adicionados diagnósticos de ligação e início/paragem."
     ]
   },
   "schema": 1,
   "app": "MixUp",
-  "releasedAt": "2026-10-05T12:08:31+00:00"
+  "releasedAt": "2026-10-23T17:05:36+00:00",
+  "defaultLocale": "en-US"
 }
