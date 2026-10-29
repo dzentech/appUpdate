@@ -4,6 +4,36 @@
   "defaultLocale": "en-US",
   "releases": [
     {
+      "version": "2.0.0.43",
+      "changes": {
+        "en-US": [
+          "Fixed video preview orientation for files with rotation metadata, including GoPro footage. Portrait videos now appear in the correct orientation during preview and seeking; export behavior is unchanged."
+        ],
+        "ru-RU": [
+          "Исправлена ориентация видеопревью для файлов с метаданными поворота, в том числе видео GoPro. Вертикальные ролики теперь правильно отображаются при просмотре и перемотке; поведение экспорта не изменено."
+        ],
+        "de-DE": [
+          "Ausrichtung der Videovorschau für Dateien mit Rotationsmetadaten korrigiert, einschließlich GoPro-Aufnahmen. Hochformatvideos werden bei der Vorschau und beim Suchen korrekt ausgerichtet; das Exportverhalten bleibt unverändert."
+        ],
+        "es-ES": [
+          "Corregida la orientación de la vista previa de archivos con metadatos de rotación, incluidos vídeos GoPro. Los vídeos verticales ahora se muestran correctamente al reproducir y desplazarse por el vídeo; la exportación no cambia."
+        ],
+        "fr-FR": [
+          "Correction de l’orientation de l’aperçu des fichiers contenant des métadonnées de rotation, y compris les vidéos GoPro. Les vidéos verticales s’affichent correctement pendant la lecture et la navigation ; l’exportation reste inchangée."
+        ],
+        "it-IT": [
+          "Corretta l’orientazione dell’anteprima dei file con metadati di rotazione, inclusi i video GoPro. I video verticali ora appaiono correttamente durante la riproduzione e lo spostamento nel video; l’esportazione rimane invariata."
+        ],
+        "pt-BR": [
+          "Corrigida a orientação da prévia de arquivos com metadados de rotação, incluindo vídeos GoPro. Vídeos verticais agora aparecem corretamente durante a reprodução e a navegação; a exportação permanece inalterada."
+        ],
+        "pt-PT": [
+          "Corrigida a orientação da pré-visualização de ficheiros com metadados de rotação, incluindo vídeos GoPro. Os vídeos verticais são agora apresentados corretamente durante a reprodução e a navegação; a exportação mantém-se inalterada."
+        ]
+      },
+      "releasedAt": "2026-10-29T16:50:04+00:00"
+    },
+    {
       "version": "2.0.0.42",
       "changes": {
         "en-US": [
