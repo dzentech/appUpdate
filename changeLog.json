@@ -1,41 +1,33 @@
 {
-  "version": "2.0.0.42",
+  "version": "2.0.0.43",
   "changes": {
     "en-US": [
-      "Improved Spinner USB connection reliability: bounded command transmission prevents a stalled USB write from indefinitely blocking reconnection or switching to Bluetooth.",
-      "Spinner is now shown as connected only after the controller responds and initial synchronization completes. Added connection and Start/Stop diagnostics."
+      "Fixed video preview orientation for files with rotation metadata, including GoPro footage. Portrait videos now appear in the correct orientation during preview and seeking; export behavior is unchanged."
     ],
     "ru-RU": [
-      "Повышена надёжность USB-подключения спиннера: ограничено время отправки команд, чтобы зависшая передача не блокировала повторное подключение и переход на Bluetooth на неопределённое время.",
-      "Статус подключения спиннера теперь появляется только после ответа контроллера и начальной синхронизации. Добавлена диагностика подключения и команд запуска/остановки."
+      "Исправлена ориентация видеопревью для файлов с метаданными поворота, в том числе видео GoPro. Вертикальные ролики теперь правильно отображаются при просмотре и перемотке; поведение экспорта не изменено."
     ],
     "de-DE": [
-      "Zuverlässigkeit der USB-Verbindung des Spinners verbessert: Eine Zeitbegrenzung für die Befehlsübertragung verhindert, dass ein blockierter USB-Schreibvorgang die erneute Verbindung oder den Wechsel zu Bluetooth unbegrenzt verhindert.",
-      "Der Spinner wird erst nach einer Antwort des Controllers und abgeschlossener Erstsynchronisierung als verbunden angezeigt. Diagnose für Verbindungen und Start/Stopp hinzugefügt."
+      "Ausrichtung der Videovorschau für Dateien mit Rotationsmetadaten korrigiert, einschließlich GoPro-Aufnahmen. Hochformatvideos werden bei der Vorschau und beim Suchen korrekt ausgerichtet; das Exportverhalten bleibt unverändert."
     ],
     "es-ES": [
-      "Mejorada la fiabilidad de la conexión USB del Spinner: el tiempo de envío de comandos está limitado para que una escritura USB bloqueada no impida indefinidamente reconectar o cambiar a Bluetooth.",
-      "El Spinner solo aparece conectado después de que el controlador responda y termine la sincronización inicial. Se añadieron diagnósticos de conexión e inicio/parada."
+      "Corregida la orientación de la vista previa de archivos con metadatos de rotación, incluidos vídeos GoPro. Los vídeos verticales ahora se muestran correctamente al reproducir y desplazarse por el vídeo; la exportación no cambia."
     ],
     "fr-FR": [
-      "Fiabilité de la connexion USB du Spinner améliorée : un délai limite de transmission des commandes empêche une écriture USB bloquée de bloquer indéfiniment la reconnexion ou le passage au Bluetooth.",
-      "Le Spinner apparaît connecté uniquement après la réponse du contrôleur et la synchronisation initiale. Ajout de diagnostics de connexion et de démarrage/arrêt."
+      "Correction de l’orientation de l’aperçu des fichiers contenant des métadonnées de rotation, y compris les vidéos GoPro. Les vidéos verticales s’affichent correctement pendant la lecture et la navigation ; l’exportation reste inchangée."
     ],
     "it-IT": [
-      "Migliorata l'affidabilità della connessione USB dello Spinner: un limite di tempo per l'invio dei comandi impedisce che una scrittura USB bloccata ostacoli indefinitamente la riconnessione o il passaggio al Bluetooth.",
-      "Lo Spinner risulta connesso solo dopo la risposta del controller e la sincronizzazione iniziale. Aggiunta la diagnostica di connessione e avvio/arresto."
+      "Corretta l’orientazione dell’anteprima dei file con metadati di rotazione, inclusi i video GoPro. I video verticali ora appaiono correttamente durante la riproduzione e lo spostamento nel video; l’esportazione rimane invariata."
     ],
     "pt-BR": [
-      "Melhorada a confiabilidade da conexão USB do Spinner: o envio de comandos tem tempo limite para que uma gravação USB bloqueada não impeça indefinidamente a reconexão ou a troca para Bluetooth.",
-      "O Spinner só aparece conectado após a resposta do controlador e a sincronização inicial. Adicionados diagnósticos de conexão e início/parada."
+      "Corrigida a orientação da prévia de arquivos com metadados de rotação, incluindo vídeos GoPro. Vídeos verticais agora aparecem corretamente durante a reprodução e a navegação; a exportação permanece inalterada."
     ],
     "pt-PT": [
-      "Melhorada a fiabilidade da ligação USB do Spinner: o envio de comandos tem um limite de tempo para que uma escrita USB bloqueada não impeça indefinidamente a religação ou a mudança para Bluetooth.",
-      "O Spinner só aparece ligado após a resposta do controlador e a sincronização inicial. Adicionados diagnósticos de ligação e início/paragem."
+      "Corrigida a orientação da pré-visualização de ficheiros com metadados de rotação, incluindo vídeos GoPro. Os vídeos verticais são agora apresentados corretamente durante a reprodução e a navegação; a exportação mantém-se inalterada."
     ]
   },
   "schema": 1,
   "app": "MixUp",
-  "releasedAt": "2026-10-23T17:05:36+00:00",
+  "releasedAt": "2026-10-29T16:50:04+00:00",
   "defaultLocale": "en-US"
 }
