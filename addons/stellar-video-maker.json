@@ -1,0 +1,334 @@
+{
+  "schema": 1,
+  "product": "stellar-video-maker",
+  "platform": "windows-x64",
+  "releases": [
+    {
+      "version": "1.1.0.5",
+      "beta": false,
+      "changes": {
+        "en-US": "Stellar Video Maker 1.1.0.5 is the first signed Windows delivery prepared for Dzen Tech HUB.",
+        "ru-RU": "Stellar Video Maker 1.1.0.5: первый подписанный выпуск Windows, подготовленный для Dzen Tech HUB."
+      },
+      "files": [
+        {
+          "path": "Stellar Video Maker.exe",
+          "size": 33946976,
+          "sha256": "6b9f4a9c93cb7fe971b3db278f26855c36f197e3d0f1a183e5b36dce1634522e"
+        },
+        {
+          "path": "avcodec-62.dll",
+          "size": 118876672,
+          "sha256": "d34e656fc1840f4af23522a18bd93f91c1433b81ff50b9197073361f9d2af34d"
+        },
+        {
+          "path": "avdevice-62.dll",
+          "size": 4947456,
+          "sha256": "92cdef9186df23122af30c2c2d0b3b82f5683ee131b7091fca25d8271dd7f4eb"
+        },
+        {
+          "path": "avfilter-11.dll",
+          "size": 37359616,
+          "sha256": "7f2ce7bf20f69ce56b42f36373c3312553c3aa3db795752439f3fe4d5bfd664e"
+        },
+        {
+          "path": "avformat-62.dll",
+          "size": 22974464,
+          "sha256": "949c7be4529fd23c8d9dcee5da5c82ef93e939cd1ffcf1dcb781f1baf1b710dd"
+        },
+        {
+          "path": "avutil-60.dll",
+          "size": 3014144,
+          "sha256": "e286a00782f3449e863c71d733fa80a17907a07822d27d973a7331ca5e58b999"
+        },
+        {
+          "path": "concrt140.dll",
+          "size": 324208,
+          "sha256": "2405355f0a58067b258f8df33c327e3a3d716eaac5a3a5aebb757842d85bd376"
+        },
+        {
+          "path": "msvcp140.dll",
+          "size": 557728,
+          "sha256": "0f885b509a685d2bbfa652fed26b5fb31d88fbdab0a978c641d1c7b8aa460aa9"
+        },
+        {
+          "path": "msvcp140_1.dll",
+          "size": 35952,
+          "sha256": "bfad5aef4c63a669e3c140655cdfdf395b6c979b400a447bd5dcb65ed8826c3d"
+        },
+        {
+          "path": "msvcp140_2.dll",
+          "size": 280200,
+          "sha256": "3ea06f0ee098b4823cb79599df3780e7f23cce52c19aac31d2a0d47efe33a5e9"
+        },
+        {
+          "path": "msvcp140_atomic_wait.dll",
+          "size": 50304,
+          "sha256": "640b2aefced484d0368eea5bdd06addd0658a3a70a49256e560d6923b404a479"
+        },
+        {
+          "path": "msvcp140_codecvt_ids.dll",
+          "size": 31872,
+          "sha256": "f2069a52880ec885ee7f0511186100eb7fada0411a2b4948fafea7735b878a18"
+        },
+        {
+          "path": "resources/Demo/01 - Импортированные медиа.stellar",
+          "size": 1645,
+          "sha256": "078cf8dcd8e2abee676bd340ee4b059483d0169390769ce25622c2e0e619eee2"
+        },
+        {
+          "path": "resources/Demo/02 - Фон на развёртке.stellar",
+          "size": 3415,
+          "sha256": "d910441c3e701b20c57623dba2b6405e805be8ea3ce8737df9a796753a153477"
+        },
+        {
+          "path": "resources/Demo/03 - Вечер в кадре.stellar",
+          "size": 12156,
+          "sha256": "aa5dd1def8cbc7d5201b357888a4abd9ea14c31f6f6e8b3c6ee2d9ca0cbe7a09"
+        },
+        {
+          "path": "resources/Demo/Exports/Вечер в кадре.mp4",
+          "size": 24897194,
+          "sha256": "831117ec2adc6d8f3480d4ff5fdff8c9c466a10e14f19503c7c3b96f68f95506"
+        },
+        {
+          "path": "resources/Demo/Exports/Вечер в кадре.png",
+          "size": 500442,
+          "sha256": "0190eb00143c8bd2ac8c9fc1c6ff63d67766632632eef768d5c54c1179b0f5b5"
+        },
+        {
+          "path": "resources/Demo/Media/Логотип.png",
+          "size": 2521,
+          "sha256": "6c3a683e94b118b3a54f953e987eb3ad97c279767613e9f1a9b166d431bc46e6"
+        },
+        {
+          "path": "resources/Demo/Media/Северное сияние.mp4",
+          "size": 1021966,
+          "sha256": "18ed9c347e2048a7f7acfba0bc39cc6c74f99cd0dfca4b78afce02dadef026b3"
+        },
+        {
+          "path": "resources/Demo/Media/Фоновая картинка.png",
+          "size": 75203,
+          "sha256": "b8722fbf92ffcdf7f6bd60f7e2cea9ef8c6c90add9037a6140ace56b6c0f9e52"
+        },
+        {
+          "path": "resources/Demo/Читать сначала.txt",
+          "size": 1659,
+          "sha256": "d2f08718406440cd1629ff14431a84a06d3634dcf992816e727be9a4f14f8065"
+        },
+        {
+          "path": "resources/fonts/OFL.txt",
+          "size": 4384,
+          "sha256": "071195d8806e226faeee60259c28ca67b458227af5195a73f5cfcab06e3003bc"
+        },
+        {
+          "path": "resources/fonts/Onest-Bold.ttf",
+          "size": 98344,
+          "sha256": "f5faf5fe2cf20c23d2a6ad30207b1af56550f5fb938371a863b60bb417e95884"
+        },
+        {
+          "path": "resources/fonts/Onest-Regular.ttf",
+          "size": 98072,
+          "sha256": "a33004581607b33331728dcd87b377222415cfda13807d43a648001ebf4baa5a"
+        },
+        {
+          "path": "resources/fonts/Onest.ttf",
+          "size": 193056,
+          "sha256": "966c5c29b4755da84b6854d5c21dd4eaa2420225d0e9874de602de176d4a9f31"
+        },
+        {
+          "path": "resources/hub-product.json",
+          "size": 199,
+          "sha256": "0dddb85c67c2b2d8bc0a9552ed1d4d1c53ccbf9afa5bb5119b390777ffa4806c"
+        },
+        {
+          "path": "resources/licenses/FFmpeg-shared-LICENSE.txt",
+          "size": 35147,
+          "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+        },
+        {
+          "path": "resources/licenses/FFmpeg-shared-provenance.json",
+          "size": 3523,
+          "sha256": "c52bf0348f9705193d96cb7ebddaf2fafbe3ba142586500c4591fdd255547af6"
+        },
+        {
+          "path": "resources/runtime/concrt140.dll",
+          "size": 324208,
+          "sha256": "2405355f0a58067b258f8df33c327e3a3d716eaac5a3a5aebb757842d85bd376"
+        },
+        {
+          "path": "resources/runtime/interpolation-licenses/LICENSE-GLSLANG.txt",
+          "size": 55628,
+          "sha256": "7d4c1655be3a4d99e8a4859335e28c8950f2e7f72dcf3eed3379846120f5bf47"
+        },
+        {
+          "path": "resources/runtime/interpolation-licenses/LICENSE-NCNN.txt",
+          "size": 6427,
+          "sha256": "7c974bac98848df46be1af5bdaa3c3c9c01f6082a90f55caeb7f60c6208aa255"
+        },
+        {
+          "path": "resources/runtime/interpolation-licenses/LICENSE-RIFE.txt",
+          "size": 1093,
+          "sha256": "de18cbedb0c3b0d1eeb9ccac3988cdf69c21fa89039cd97dd8846cb68f661f81"
+        },
+        {
+          "path": "resources/runtime/interpolation-licenses/dependencies.json",
+          "size": 1390,
+          "sha256": "31f6056211f2bbfbaa93fea21f685ce6e2e3ee92c152706ab55867eaea697167"
+        },
+        {
+          "path": "resources/runtime/msvcp140.dll",
+          "size": 557728,
+          "sha256": "0f885b509a685d2bbfa652fed26b5fb31d88fbdab0a978c641d1c7b8aa460aa9"
+        },
+        {
+          "path": "resources/runtime/msvcp140_1.dll",
+          "size": 35952,
+          "sha256": "bfad5aef4c63a669e3c140655cdfdf395b6c979b400a447bd5dcb65ed8826c3d"
+        },
+        {
+          "path": "resources/runtime/msvcp140_2.dll",
+          "size": 280200,
+          "sha256": "3ea06f0ee098b4823cb79599df3780e7f23cce52c19aac31d2a0d47efe33a5e9"
+        },
+        {
+          "path": "resources/runtime/msvcp140_atomic_wait.dll",
+          "size": 50304,
+          "sha256": "640b2aefced484d0368eea5bdd06addd0658a3a70a49256e560d6923b404a479"
+        },
+        {
+          "path": "resources/runtime/msvcp140_codecvt_ids.dll",
+          "size": 31872,
+          "sha256": "f2069a52880ec885ee7f0511186100eb7fada0411a2b4948fafea7735b878a18"
+        },
+        {
+          "path": "resources/runtime/rife-v4.6/flownet.bin",
+          "size": 10614320,
+          "sha256": "f334ed2260149ce0188a6dcf049844e8b0cdd912e01cbcfb63553157d2508958"
+        },
+        {
+          "path": "resources/runtime/rife-v4.6/flownet.param",
+          "size": 16749,
+          "sha256": "28df14d57a225725ee5386f52eba422488450d37c9f40800ed4f62e8ba846692"
+        },
+        {
+          "path": "resources/runtime/stellar-interpolation-worker.exe",
+          "size": 6846304,
+          "sha256": "3975bcaca94ee15fc618954dfcafbac68bea3fa64e4f9dd80dec5d668c28c587"
+        },
+        {
+          "path": "resources/runtime/vccorlib140.dll",
+          "size": 352384,
+          "sha256": "19839407c3fdbc824e5bce189bf68ddf8097f12ec28b757797ffa0415c144ddd"
+        },
+        {
+          "path": "resources/runtime/vcomp140.dll",
+          "size": 193152,
+          "sha256": "55aba23cdcd6484fbb06f4155b8ca75adfce7a881f10afd0c49457165e677164"
+        },
+        {
+          "path": "resources/runtime/vcruntime140.dll",
+          "size": 124544,
+          "sha256": "d5e4d9a3e835fa679450145d6a7d94e36573a509317111904d9b3712c30d9066"
+        },
+        {
+          "path": "resources/runtime/vcruntime140_1.dll",
+          "size": 49792,
+          "sha256": "1f2d41c4aa5db0bc33ebf7b66d72943a817d7ce6cbe880502a9403823633093f"
+        },
+        {
+          "path": "resources/runtime/vcruntime140_threads.dll",
+          "size": 38528,
+          "sha256": "219915cf20822f34d5e7c1fdd4e21ae7f3396881096c51036225fb8f84b47afa"
+        },
+        {
+          "path": "swresample-6.dll",
+          "size": 734720,
+          "sha256": "5bff07233b555ae122120506195e528c2f7c269161dde5fde2848496f9630c49"
+        },
+        {
+          "path": "swscale-9.dll",
+          "size": 12900864,
+          "sha256": "a752f9203037d03e39cf7de8ae8f9a5742dc03d7160fac997c1f486eb658197b"
+        },
+        {
+          "path": "vccorlib140.dll",
+          "size": 352384,
+          "sha256": "19839407c3fdbc824e5bce189bf68ddf8097f12ec28b757797ffa0415c144ddd"
+        },
+        {
+          "path": "vcomp140.dll",
+          "size": 193152,
+          "sha256": "55aba23cdcd6484fbb06f4155b8ca75adfce7a881f10afd0c49457165e677164"
+        },
+        {
+          "path": "vcruntime140.dll",
+          "size": 124544,
+          "sha256": "d5e4d9a3e835fa679450145d6a7d94e36573a509317111904d9b3712c30d9066"
+        },
+        {
+          "path": "vcruntime140_1.dll",
+          "size": 49792,
+          "sha256": "1f2d41c4aa5db0bc33ebf7b66d72943a817d7ce6cbe880502a9403823633093f"
+        },
+        {
+          "path": "vcruntime140_threads.dll",
+          "size": 38528,
+          "sha256": "219915cf20822f34d5e7c1fdd4e21ae7f3396881096c51036225fb8f84b47afa"
+        }
+      ],
+      "package": {
+        "size": 133034849,
+        "sha256": "afa8e0306c85210f4ce4842dd226e30efb104d1f6b1ca6c7d18e9439f55f1264",
+        "urls": [
+          {
+            "url": "https://www.dropbox.com/scl/fi/8j961jbz78z84az2ipjq2/Stellar-Video-Maker-1.1.0.5-HUB.zip?rlkey=2lzbetawce3rjma53i4pcby3h&dl=1"
+          },
+          {
+            "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/OgHSux7kKzxy0g"
+          }
+        ]
+      }
+    }
+  ],
+  "authorization": {
+    "1.1.0.5": {
+      "envelope": {
+        "size": 10371,
+        "sha256": "283a6cb2db513fbf4d4189587654d15f4ba227e39d39d75f02762f3d487f91c7",
+        "urls": [
+          {
+            "url": "https://www.dropbox.com/scl/fi/dr7addmiulbgu7ossx28q/release.json?rlkey=mq10fbbq2o8uqdvperiv3s2k5&dl=1"
+          },
+          {
+            "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/F9DPkGZERmY3tQ"
+          }
+        ]
+      },
+      "receipt": {
+        "size": 194,
+        "sha256": "c192fb44261ddd15c71ed6787a6b50251d9a3163a5bb41f73024859eec48cb39",
+        "urls": [
+          {
+            "url": "https://www.dropbox.com/scl/fi/khysn3tlp45gqchrdpfig/release-receipt.json?rlkey=2wvly7symi151uy0w7q8rc4d5&dl=1"
+          },
+          {
+            "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/w4JpWsYGyNtWeg"
+          }
+        ]
+      },
+      "catalog": {
+        "size": 34785,
+        "sha256": "58a85efaeb0b0f99835a1be72fa41f507da6666f08d6c2abe6f26456ed1cf82c",
+        "urls": [
+          {
+            "url": "https://www.dropbox.com/scl/fi/6bkea01zwbmdyx6iiz8vi/release.cat?rlkey=817snu32q4x3lpcayntwtl5y4&dl=1"
+          },
+          {
+            "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/2PhsTbI_5-hesw"
+          }
+        ]
+      }
+    }
+  }
+}
