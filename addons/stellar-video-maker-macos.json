@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "kind": "installer-download",
+  "product": "stellar-video-maker",
+  "name": "Stellar Video Maker",
+  "version": "0.1.0",
+  "build": "1",
+  "platform": "macOS · Apple Silicon",
+  "platform_id": "macos-arm64",
+  "arch": "arm64",
+  "minimum_macos": "14.0",
+  "channel": "stable",
+  "release_date": "2026-11-07",
+  "filename": "Stellar Video Maker 0.1.0 arm64.dmg",
+  "bytes": 45656619,
+  "sha256": "9c0fdca8dca750dcf2b822755e2ac45fe1d9316f7f9b350bdd721e33e8e76d52",
+  "dropbox": "https://www.dropbox.com/scl/fi/ker0vwmr62vshpksniz9t/Stellar-Video-Maker-0.1.0-arm64.dmg?rlkey=re86j4je71ehtdkaa8m4s28vy&dl=1",
+  "yandex": "",
+  "checksum_url": "https://www.dropbox.com/scl/fi/s0qd9n72qhs0pcwj9zlys/Stellar-Video-Maker-0.1.0-arm64.dmg.sha256?rlkey=dmwyqaclouevistuurdnswoju&dl=1",
+  "source": "https://raw.githubusercontent.com/dzentech/appUpdate/main/addons/stellar-video-maker-macos.json",
+  "signing": {
+    "identity": "Developer ID Application: Sergey Ryabichenko (UHVF3379UM)",
+    "team_id": "UHVF3379UM",
+    "hardened_runtime": true
+  },
+  "notarization": {
+    "status": "Accepted",
+    "request_id": "33b55026-2ec9-42a7-908e-fcb57588ea94",
+    "stapled_app": true,
+    "stapled_dmg": true,
+    "gatekeeper": "accepted / Notarized Developer ID"
+  },
+  "source_provenance": {
+    "git_base": "fa940d32e3bd484dcb1502f87e9d6904e08a427e",
+    "working_tree": "Includes existing uncommitted Apple changes; not a clean release tag"
+  }
+}
